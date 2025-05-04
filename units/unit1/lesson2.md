@@ -22,8 +22,8 @@ By the end of the lesson, the student will be able to:
 
 ## Materials and Resources Required
 - **Craft Supplies**: One paper plate (household item), markers or crayons (household or ~$2-$5), scissors (household, adult supervision required).
-- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Available in English via ebook on [Amazon Kindle](https://www.amazon.com/Popol-Vuh-Sacred-Book-Maya-ebook/dp/B00B9I2H0G) (~$10) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
-- **Picture Study Image**: A high-quality image of a Maya artifact, such as a ceramic vessel or jade pendant from the Museo Nacional de Arqueología y Etnología collection. Source online via museum websites (e.g., search “Museo Nacional de Arqueología Guatemala artifacts” on Google Arts & Culture, https://artsandculture.google.com) or free images labeled for reuse (e.g., Wikimedia Commons, https://commons.wikimedia.org).
+- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Available in English via ebook on [Amazon Kindle](https://a.co/d/7qr0nsf) (~$10) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
+- **Picture Study Image**: A high-quality image of a Maya artifact, such as a ceramic vessel or jade pendant. [Search the web](https://duckduckgo.com/?q=mayan%20jade%20artifact&ia=images&iax=images) or [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=mayan+jade&title=Special:MediaSearch&type=image).
 - **Dictation Sentence**: "The Maya ate corn." (English) or "Los Mayas comían maíz." (Spanish), derived from the *Popol Vuh* excerpt.
 - **Paper and Pencil**: For dictation exercise (household items).
 - **Optional**: String or elastic band (~$1-$2) and hole punch (~$5) to make the mask wearable; additional images of Mayan masks (search “Mayan masks for kids” online, free printable resources).
@@ -48,7 +48,7 @@ By the end of the lesson, the student will be able to:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
          - Say, "Let’s write a sentence from the Maya story."
-         - Dictate the sentence: "The Maya ate corn." (English) or "Los Mayas comían maíz." (Spanish).
+         - Dictate the sentence: "The food they ate was the same as that which they were made of." (English) or "Los alimentos que comían eran los mismos de los que se les hacían." (Spanish).
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
          - Check their spelling and praise their effort (e.g., “You spelled ‘corn’ perfectly!”).
      - **Discussion (5 minutes)**: While crafting or after, ask, “What would a Maya child do every day?” Suggest corn-based foods or activities from the artifact and link to the excerpt.
