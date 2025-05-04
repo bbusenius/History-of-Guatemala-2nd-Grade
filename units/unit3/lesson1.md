@@ -4,7 +4,7 @@
 This lesson introduces the Spanish arrival in Guatemala, marking the colonial period’s start, within a 10-week homeschool curriculum for a 7-year-old student in San Juan del Obispo. Through storytelling with a living book excerpt, picture study, dictation, coloring, and a discussion question reflecting Maya perspectives, the student explores the Spanish-Maya encounter. Aligned with Charlotte Mason-inspired methods—narration, living books, and hands-on activities—it connects to local heritage near Antigua, fostering cultural sensitivity by considering indigenous viewpoints alongside colonial narratives.
 
 ### Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses *The Maya* or *Popol Vuh* excerpts for narrative depth, bringing history to life authentically.
+- **Living Books**: Uses *The Ancient Maya* and *The Annals of the Cakchiquels* excerpts for narrative depth, bringing history to life authentically.
 - **Narration**: Encourages retelling and discussion to enhance comprehension and empathy.
 - **Short Lessons**: Segments activities (e.g., 5-minute picture study) for focus.
 - **Picture Study**: Includes a colonial painting to develop observation and cultural context.
@@ -22,10 +22,10 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
 ### Materials and Resources Required
 - **Living Book**: A 5-10 minute excerpt from:
   - *The Maya* by Anita Ganeri (English, ebook on [Amazon Kindle](https://www.amazon.com/Maya-Ancient-Civilizations-Anita-Ganeri-ebook/dp/B00H7J9K8S), ~$7), focusing on Spanish contact.
-  - *Popol Vuh* trans. Allen J. Christenson (Spanish/English, ebook on [Amazon Kindle](https://www.amazon.com/Popol-Vuh-Sacred-Book-Maya-ebook/dp/B00B9I2H0G), ~$10), on cultural shifts). Sourcing details in `overview/parent_guide.md`.
-- **Picture Study Image**: A colonial painting of the Spanish arrival (e.g., “The Conquest of Guatemala,” search “Spanish conquest Guatemala painting” on Wikimedia Commons, https://commons.wikimedia.org, free use).
-- **Dictation Sentence**: "The Spanish came to Guatemala by ship." (English) or "Los españoles llegaron a Guatemala en barco." (Spanish), from *The Maya*.
-- **Coloring Page**: Colonial scene from `units/unit3/resources/colonial_coloring_page.md` (printable or hand-drawn).
+  - *The Annals of the Cakchiquels* translated by Daniel G. Brinton (English, available on [Open Library](https://archive.org/embed/annalsofcakchiqu00darich)), focusing on pages 177-193 where it discusses the arrival of the Spanish (referred to as Castilians). Note: "Tunatiuh Avilantaro" refers to [Pedro de Alvarado](https://en.wikipedia.org/wiki/Pedro_de_Alvarado). Sourcing details in `overview/parent_guide.md`.
+- **Picture Study Image**: Wall paintings from a house in Chajul, Guatemala, depicting the Spanish influence on Maya culture. [View the image](https://cdn.sci.news/images/enlarge7/image_8558_1e-Chajul-Paintings.jpg) and [read more about it](https://www.sci.news/archaeology/chajul-maya-wall-paintings-guatemala-08558.html). The panel likely shows figures dancing the Conquista, a traditional dance still performed today, featuring two musicians in Spanish costumes playing a flute or chirimía and a large drum, and a man in Indian-Spanish attire possibly holding a bottle, showing a blend of European and indigenous elements.
+- **Dictation Sentence**: "1,000 years ago, the Maya began leaving some cities and moving to the highlands." (English) or "Hace 1,000 años, los mayas comenzaron a abandonar algunas ciudades y a mudarse a las tierras altas." (Spanish), from *The Maya*.
+- **Coloring Page**: Colonial scene from [resources/colonial_coloring_page.md](resources/colonial_coloring_page.md) (printable or hand-drawn).
 - **Crayons or Colored Pencils**: For coloring (household or ~$2-$5).
 - **Paper and Pencil**: For dictation (household items).
 - **Optional Visuals**: Spanish ship images (e.g., search “Spanish galleon for kids” online; free).
@@ -39,12 +39,13 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
      - Recap Unit 2: “The Maya lived here first. Today, new people arrive!”
      - Say, “The Spanish came by ship long ago. We’ll hear their story and think about the Maya too!”
      - Show optional ship images.
-2. **Main Activity (30 minutes)**:
+2. **Main Activity (40 minutes)**:
    - **Objective**: Explore the encounter through narrative and activities.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read a 5-10 minute excerpt from *The Maya* (e.g., Spanish contact) or *Popol Vuh* (e.g., cultural shift). Ask, “What did the Spanish do when they arrived?”
-     - **Picture Study (5 minutes)**: Show the painting. Say, “Look for 2 minutes. Notice people and things.” After, cover it and ask, “What did you see?” Then, uncover and discuss: “Who’s in this picture? What are they doing?”
-     - **Dictation (5 minutes)**: Say, “Let’s write how the Spanish got here.” Dictate "The Spanish came to Guatemala by ship." (English) or "Los españoles llegaron a Guatemala en barco." (Spanish) slowly. Check spelling and praise effort.
+     - **Storytelling (20 minutes)**: Read the last two pages of *The Ancient Maya* (What Happened to the Maya?) and *The Annals of the Cakchiquels* (e.g., pages 177-193). Ask, “What did the Spanish do when they arrived?”
+        - **Note**: "Tunatiuh Avilantaro" refers to [Pedro de Alvarado](https://en.wikipedia.org/wiki/Pedro_de_Alvarado). Make sure the student understands this. Consider discussing Pedro de Alvarado in more detail.
+     - **Picture Study (5 minutes)**: Show the Chajul mural image. Say, “Look for 2 minutes. Notice people and things.” After, cover it and ask, “What did you see?” Then, uncover and discuss: “Who’s in this picture? What are they doing? Do you see Spanish and Maya styles mixed?”
+     - **Dictation (5 minutes)**: Dictate "1,000 years ago, the Maya began leaving some cities and moving to the highlands." (English) or "Hace 1,000 años, los mayas comenzaron a abandonar algunas ciudades y a mudarse a las tierras altas." (Spanish), slowly. Check spelling and praise effort.
      - **Coloring (10 minutes)**: Provide the coloring page. Say, “Color this colonial town—like where the Spanish landed!” Ask, “What buildings do you see?”
 3. **Narration and Discussion (10 minutes)**:
    - **Objective**: Reflect on learning and Maya perspectives.
@@ -61,7 +62,7 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
 
 ### Activities and Assessments
 - **Activities**:
-  - **Storytelling (10 minutes)**: Listening to a narrative about the Spanish arrival.
+  - **Storytelling (20 minutes)**: Listening to a narrative about the Spanish arrival.
   - **Picture Study (5 minutes)**: Observing a colonial painting.
   - **Dictation (5 minutes)**: Writing a sentence about the arrival.
   - **Coloring (10 minutes)**: Coloring a colonial scene.
@@ -82,10 +83,10 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
 
 ### Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes
+- Main Activity: 40 minutes
 - Narration and Discussion: 10 minutes
 - Closing: 5 minutes
-- Total: 50 minutes
+- Total: 60 minutes
 
 ### Prerequisite Knowledge or Skills
 - **Student**: Basic listening, writing, and coloring skills; Unit 2’s Maya context.
@@ -100,7 +101,7 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
 ### Accommodations
 - **Visual Needs**: Enlarge materials; describe visuals aloud.
 - **Motor Challenges**: Pre-label page; assist with writing.
-- **Attention Span**: Shorten storytelling to 7 minutes with a break.
+- **Attention Span**: Shorten storytelling to 15 minutes with a break.
 - **Language Support**: Use “españoles/Spanish” bilingually; allow Spanish narration.
 
 ### Assumptions and Limitations

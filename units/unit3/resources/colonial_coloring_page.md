@@ -26,7 +26,7 @@ By completing this coloring page, the student will be able to:
 
 ## Step-by-Step Instructional Procedures
 1. **Preparation (10-15 minutes, pre-lesson)**:
-   - **Option 1: Online Search**: Search for a free printable (e.g., “colonial Antigua coloring page”) on a site like a teacher resource page or coloring website. Download and print one page showing a colonial scene (e.g., church, street).
+   - **Option 1: Online Search**: Search for a free printable (e.g., “colonial Antigua coloring page”) on a site like a teacher resource page or coloring website. Download and print one page showing a colonial scene (e.g., church, street). Consider [this example](https://colorconfetti.com/img/guatemala-coloring-page-w3.png)
    - **Option 2: Hand-Draw**: On blank paper, sketch a simple colonial scene (e.g., a church with a bell tower, cobblestone path, a person in a hat). Use clear, bold outlines suitable for coloring.
    - Optionally, gather reference images online to guide drawing or discuss during coloring.
 2. **Introduction (5 minutes, during Lesson 1)**:
