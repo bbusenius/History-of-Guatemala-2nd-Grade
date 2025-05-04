@@ -1,0 +1,117 @@
+# Unit 1, Lesson 2: Daily Life of the Maya
+
+## Overview
+This lesson explores the daily life of the Maya civilization for a 7-year-old 2nd-grade student within a 10-week homeschool curriculum on Guatemalan history. Through crafting a Mayan mask, engaging with a primary source excerpt from *Popol Vuh*, picture study of a Maya artifact, a dictation exercise, and narration, the student will learn about Maya community life, farming, and cultural practices. Inspired by Charlotte Mason’s methods—hands-on activities, narration, and short lessons—it is engaging, flexible, and requires minimal preparation. Tailored to the student in San Juan del Obispo, it deepens their connection to local Maya heritage and builds on Lesson 1’s introduction.
+
+## Alignment with Charlotte Mason Guidelines
+- **Living Books and Primary Sources**: Incorporates an authentic, unsimplified excerpt from *Popol Vuh* and a visual artifact, adhering to Charlotte Mason’s principle of using original texts and materials to bring history to life.
+- **Narration**: Encourages oral retelling of the lesson, primary source, and picture study, enhancing comprehension and memory.
+- **Short Lessons**: Limits activities to concise segments (e.g., 5-minute picture study) to maintain focus.
+- **Picture Study**: Adds a 5-minute segment with a Maya artifact image to foster observation and cultural appreciation, per Charlotte Mason’s guidelines.
+- **Hands-On**: Uses a craft to connect kinesthetic learning with historical content.
+- **Dictation**: Includes a dictation exercise to practice spelling and reinforce historical content, aligning with Charlotte Mason’s method.
+
+## Learning Objectives
+By the end of the lesson, the student will be able to:
+1. Describe key aspects of Maya daily life, such as farming or ceremonies, in simple terms.
+2. Create a Mayan-inspired mask to represent cultural practices using simple materials.
+3. Explain the significance of corn in Maya culture based on the *Popol Vuh* excerpt.
+4. Observe and narrate features of a Maya artifact image (e.g., shapes, colors).
+5. Write a dictated sentence about Maya life with correct spelling.
+6. Narrate a brief story about a Maya day, incorporating lesson elements.
+
+## Materials and Resources Required
+- **Craft Supplies**: One paper plate (household item), markers or crayons (household or ~$2-$5), scissors (household, adult supervision required).
+- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Available in English via ebook on [Amazon Kindle](https://www.amazon.com/Popol-Vuh-Sacred-Book-Maya-ebook/dp/B00B9I2H0G) (~$10) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
+- **Picture Study Image**: A high-quality image of a Maya artifact, such as a ceramic vessel or jade pendant from the Museo Nacional de Arqueología y Etnología collection. Source online via museum websites (e.g., search “Museo Nacional de Arqueología Guatemala artifacts” on Google Arts & Culture, https://artsandculture.google.com) or free images labeled for reuse (e.g., Wikimedia Commons, https://commons.wikimedia.org).
+- **Dictation Sentence**: "The Maya ate corn." (English) or "Los Mayas comían maíz." (Spanish), derived from the *Popol Vuh* excerpt.
+- **Paper and Pencil**: For dictation exercise (household items).
+- **Optional**: String or elastic band (~$1-$2) and hole punch (~$5) to make the mask wearable; additional images of Mayan masks (search “Mayan masks for kids” online, free printable resources).
+- **Craft Instructions**: From `units/unit1/resources/mayan_mask_craft.md` (provided in curriculum).
+- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
+- **Accessibility**: Materials are low-cost and common; ebook or online excerpts prioritized for accessibility in Guatemala; offline alternatives provided.
+
+## Step-by-Step Instructional Procedures
+1. **Introduction (5 minutes)**:
+   - **Objective**: Introduce Maya daily life and the activities.
+   - **Procedure**:
+     - Recap Lesson 1: “We learned the Maya lived here long ago. Today, we’ll see what they did every day!”
+     - Say, “The Maya grew food and made special masks. We’ll make one, look at something they made, and write about them!”
+     - Show a sample mask or optional image to spark interest.
+2. **Main Activity (30 minutes)**:
+   - **Objective**: Explore Maya culture through crafting, primary source, picture study, dictation, and discussion.
+   - **Procedure**:
+     - **Craft (10 minutes)**: Provide the paper plate and markers. Guide the student to draw a face (e.g., eyes, mouth, patterns like feathers). With adult help, cut two eye holes. Add details (e.g., colors). Optionally, punch holes and tie string to wear it. Say, “This is like a Maya mask for ceremonies!”
+     - **Primary Source (5 minutes)**: Read the *Popol Vuh* excerpt aloud: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Ask, “Why was corn so important to the Maya?” (Expect answers like “They ate it” or “They were made from it”).
+     - **Picture Study (5 minutes)**: Show the Maya artifact image. Say, “Look at this for 2 minutes. Notice the shapes and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “What might this be used for? Does it look like something they ate with?”
+     - **Dictation (5 minutes)**:
+       - **Objective**: Practice spelling and reinforce historical content.
+       - **Procedure**:
+         - Say, "Let’s write a sentence from the Maya story."
+         - Dictate the sentence: "The Maya ate corn." (English) or "Los Mayas comían maíz." (Spanish).
+         - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
+         - Check their spelling and praise their effort (e.g., “You spelled ‘corn’ perfectly!”).
+     - **Discussion (5 minutes)**: While crafting or after, ask, “What would a Maya child do every day?” Suggest corn-based foods or activities from the artifact and link to the excerpt.
+3. **Narration (10 minutes)**:
+   - **Objective**: Reinforce learning through retelling.
+   - **Procedure**:
+     - Prompt, “Tell me about a Maya day” or “What did you see in the picture or learn from the story?”
+     - Encourage a short story (e.g., “They ate corn and wore masks”). Note a key idea (e.g., “Corn was special”) for the portfolio.
+4. **Closing (5 minutes)**:
+   - **Objective**: Summarize and preview the field trip.
+   - **Procedure**:
+     - Say, “Today, we learned how the Maya lived with corn, masks, and special things like this picture!”
+     - Preview, “Next, we’ll visit a museum to see real Maya stuff!”
+     - Add a mask or artifact sketch to the timeline’s Pre-Columbian section.
+
+## Activities and Assessments
+- **Activities**:
+  - **Crafting**: Create a Mayan mask to explore cultural practices (10 minutes).
+  - **Primary Source Engagement**: Listen to and discuss the *Popol Vuh* excerpt to understand Maya beliefs (5 minutes).
+  - **Picture Study**: Observe and discuss a Maya artifact image to appreciate their craftsmanship (5 minutes).
+  - **Dictation**: Write a sentence to practice spelling and connect to the lesson (5 minutes).
+  - **Discussion**: Talk about Maya daily life to build historical context (5 minutes).
+- **Formative Assessment**:
+  - **Craft**: Observe effort and creativity; ask, “What’s your mask for?” to check understanding.
+  - **Primary Source**: Listen for responses to “Why was corn important?” to gauge comprehension.
+  - **Picture Study**: Evaluate observations (e.g., “It’s green”) for detail and memory.
+  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct letters in “corn” or “maíz”).
+  - **Narration**: Assess retelling for inclusion of life details (e.g., farming, corn) or artifact observations.
+- **Summative Assessment**:
+  - Collect the mask and dictation sentence for the portfolio, assessing participation and cultural connection informally based on effort and engagement.
+  - In Week 10, review timeline additions (e.g., mask sketch) for Unit 1 connection; no formal rubric, based on effort and relevance.
+
+## Differentiation Strategies
+- **Advanced Learners**: Add complex patterns to the mask or narrate a detailed story; write an additional dictation sentence (e.g., “They made masks”).
+- **Struggling Learners**: Pre-draw a face outline on the plate; focus narration on one idea (e.g., “Corn was food”); allow tracing for dictation.
+- **Kinesthetic Learners**: Wear the mask and act out a brief ceremony after crafting.
+- **Visual Learners**: Use mask images or the artifact to inspire design and discussion.
+
+## Time Estimates
+- Introduction: 5 minutes
+- Main Activity: 30 minutes (10 min craft, 5 min primary source, 5 min picture study, 5 min dictation, 5 min discussion)
+- Narration: 10 minutes
+- Closing: 5 minutes
+- Total: 50 minutes (extended from 45 minutes to accommodate picture study without reducing other activities)
+
+## Prerequisite Knowledge or Skills
+- **Student**: Basic coloring, cutting, and writing skills (with adult help); familiarity with the Maya from Lesson 1.
+- **Parent**: Ability to supervise scissors, guide the craft, read aloud, and conduct dictation; no prior historical knowledge required.
+
+## Parental Involvement
+- **Preparation**: Gather craft supplies and access the *Popol Vuh* excerpt (~5-10 minutes); source the artifact image online (~5 minutes).
+- **Facilitation**: Assist with cutting eye holes, guide mask design, read the excerpt and present the picture study, dictate the sentence, and prompt discussion/narration.
+- **Engagement**: Join in discussing, “What do we eat that’s like corn?” to connect to the student’s experience.
+- **Follow-Up**: Store the mask and dictation sentence in the portfolio and add timeline entries with the student.
+
+## Accommodations
+- **Visual Needs**: Use bold markers and a large plate; read the excerpt and dictation sentence aloud clearly; describe the artifact image (e.g., “It’s a green pot”).
+- **Motor Challenges**: Pre-cut eye holes or use stickers for details; assist with drawing and writing if needed.
+- **Attention Span**: Split crafting and picture study into two 7-8 minute segments with a short break.
+- **Language Support**: Provide the *Popol Vuh* excerpt and dictation in Spanish if preferred (e.g., “Así fueron hechos de maíz…”); use “máscara/mask” and “maíz/corn” bilingually.
+
+## Assumptions and Limitations
+- Assumes access to basic craft supplies; paper can replace plates if unavailable.
+- Requires adult supervision for scissors; skip cutting and draw eyes if no help available.
+- Assumes Lesson 1’s Maya introduction; briefly recap (“The Maya lived here long ago”) if missed.
+- Assumes internet for the artifact image; parent can sketch a simple pot or mask as an offline alternative.
