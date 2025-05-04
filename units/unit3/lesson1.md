@@ -58,7 +58,7 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
    - **Procedure**:
      - Say, “The Spanish changed Guatemala, and the Maya had their own feelings about it.”
      - Preview, “Next, we’ll see how people lived after they came!”
-     - Add a ship sketch to the timeline’s Colonial section.
+     -  **Update timeline**: Add a ship sketch to the timeline’s Colonial section with the student.
 
 ### Activities and Assessments
 - **Activities**:

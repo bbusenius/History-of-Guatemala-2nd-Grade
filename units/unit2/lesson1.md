@@ -54,7 +54,7 @@ This lesson introduces the Maya civilization’s achievements, particularly thei
    - **Procedure**:
      - Say, “Today we learned about the Maya calendar, including the Tzolkin and Haab, how they used shadows to track time, and saw their calendar designs in the modern Huipil of Patzún.”
      - Preview, “Next, we’ll explore their art and writing!”
-     - Add a calendar drawing to the timeline’s Pre-Columbian section.
+     - **Update timeline**: Add a calendar drawing to the timeline’s Pre-Columbian section with the student.
 
 ### Activities and Assessments
 - **Activities**:

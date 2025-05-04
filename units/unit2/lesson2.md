@@ -60,6 +60,7 @@ By the end of this lesson, the student will:
 7. **Closing (5 minutes)**:
    - Recap: "The Maya used glyphs and codices to share their ideas."
    - Preview: "Next, we’ll visit Iximché ruins!"
+   - **Update timeline**: Add a codex or artifact sketch to the timeline’s Pre-Columbian section with the student.
 
 ## Activities and Assessments
 - **Activities**:

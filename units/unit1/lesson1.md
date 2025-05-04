@@ -57,7 +57,7 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
    - **Procedure**:
      - Say, “We found Guatemala and learned how the Maya lived and believed they were made from corn.”
      - Preview, “Next, we’ll explore more about their daily life!”
-     - Add a quetzal or corn drawing to the timeline’s Pre-Columbian section with the student.
+     - **Update timeline**: Add a quetzal or corn drawing to the timeline’s Pre-Columbian section with the student.
 
 ### Activities and Assessments
 - **Activities**:
