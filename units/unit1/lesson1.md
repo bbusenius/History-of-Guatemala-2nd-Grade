@@ -18,7 +18,7 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
 4. Complete a copywork sentence to practice handwriting and connect to Maya culture.
 
 ### Materials and Resources Required
-- **Printable Map**: Blank Central America map from `resources/map_of_guatemala.pdf` (provided in curriculum) or online (e.g., [National Geographic Kids](https://kids.nationalgeographic.com/geography/countries/article/guatemala), free PDF printable).
+- **Printable Map**: Blank Central America map from [unit1/resources/map_of_guatemala.jpg](resources/map_of_guatemala.jpg) from [GISGeography](https://gisgeography.com/central-america-blank-map/).
 - **Living Books**:
   - *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
     - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://archive.org/embed/ancientmaya00gane) (Free).

@@ -1,4 +1,4 @@
-# Field Trip Plan: Unit 1 - Museo del Jade
+# Field Trip Plan: Unit 1 - Casa del Jade (Mesoamerican Jade Museum)
 
 ## Overview
 This field trip is part of a 10-week homeschool curriculum exploring Guatemalan history for a 7-year-old 2nd-grade student. It focuses on the Maya civilization, providing a hands-on opportunity to connect classroom learning from Unit 1 (Introduction to Guatemala and the Maya) with real-world experiences near Antigua, Guatemala. The trip incorporates Charlotte Mason-inspired methods, such as observation and narration, to engage the student in a meaningful and memorable way. Designed to be flexible and requiring minimal preparation, this 2-3 hour optional field trip enhances the student’s understanding of Guatemalan history and culture, leveraging their proximity to San Juan del Obispo.
@@ -17,23 +17,25 @@ By the end of the field trip, the student will be able to:
 3. Complete a simple sketching activity of a jade artifact to demonstrate engagement with the site.
 
 ## Materials and Resources Required
-- **Field Trip Essentials**: Water, snacks, comfortable clothing and shoes, transportation to the Museo del Jade in Antigua.
+- **Field Trip Essentials**: Water, snacks, comfortable clothing and shoes, transportation to the Casa del Jade in Antigua.
 - **Activity Materials**: Sketchbook (or plain paper), pencils, crayons.
 - **Parent Guide**: Reference `overview/parent_guide.md` for safety and engagement tips (already provided in the curriculum).
 - **Optional**: Camera or smartphone for photos (to aid post-trip narration), magnifying glass for closer observation of artifacts.
-- **Accessibility**: Most materials are household items; museum entry is free (verify current rates); transportation costs depend on the family’s method (e.g., bus fare or gas).
+- **Accessibility**: Most materials are household items; museum entry fees can be checked on the [website](https://casadeljade.com/mesoamerican-museum-of-jade/); transportation costs depend on the family’s method (e.g., bus fare or gas).
 
 ## Step-by-Step Instructional Procedures
 1. **Preparation (15-30 minutes, before departure)**:
-   - **Objective**: Ensure readiness for a safe and educational trip.
+   - **Objective**: Ensure readiness for a safe and engaging trip.
    - **Procedure**:
-     - Review this field trip plan and explain the purpose to the student: “We’re visiting a museum to see jade, which the Maya used for special things.”
-     - Gather materials (sketchbook, pencils, water, snacks) and pack them in a small bag.
-     - Check the Museo del Jade’s current hours (Monday to Sunday, 9:30 AM - 6:00 PM) and plan transportation from San Juan del Obispo to Antigua (e.g., bus or car, ~15-30 minutes).
+     - Review the trip’s purpose: “We’re visiting Casa del Jade to see Maya jade artifacts and learn how they lived.”
+     - Check [Casa del Jade’s website](https://casadeljade.com/mesoamerican-museum-of-jade/) for current hours (typically Monday-Sunday, 9:30 AM - 6:00 PM) and entry fees.
+     - Pack essentials: water, snacks, sketchbook, pencils, and optional camera or magnifying glass.
+     - Plan transportation: ~15-30 minutes from San Juan del Obispo by bus (to Central Park, Antigua) or car (parking available). Address: Edificio "El Jaulón", 4a Calle Ote. 10, Antigua Guatemala 03001.
+     - Dress in comfortable clothing and shoes for walking through the museum.
 2. **Arrival and Orientation (10-15 minutes)**:
    - **Objective**: Familiarize the student with the museum.
    - **Procedure**:
-     - Arrive at the Museo del Jade and locate the jade exhibit area.
+     - Arrive at the Casa del Jade and locate the jade exhibit area.
      - Provide a brief overview: “This museum has jade that the Maya carved into jewelry and tools.”
      - Set expectations: “We’ll look at the jade and draw one piece you like.”
 3. **Exploration and Activity (1-2 hours)**:
@@ -102,10 +104,10 @@ By the end of the field trip, the student will be able to:
 - Weather or traffic may affect travel; the virtual alternative mitigates this if necessary.
 
 ## Location Details
-- **Name**: Museo del Jade
-- **Address**: 4ta Calle Oriente No.10, El Jaulón Building, La Antigua Guatemala
+- **Name**: Casa del Jade (Mesoamerican Jade Museum)
+- **Address**: Edificio "El Jaulón", 4a Calle Ote. 10, Antigua Guatemala 03001 ([Google Maps](https://www.google.com/maps/place/Casa+del+Jade/@14.5567897,-90.7339241,17z/data=!3m1!4b1!4m6!3m5!1s0x85890e78b435c0c5:0x814e3f7a7a9e9d7e!8m2!3d14.5567897!4d-90.7339241!16s%2Fg%2F11g6q1v6v5))
 - **Opening Hours**: Monday to Sunday, 9:30 AM - 6:00 PM (verify current hours)
-- **Cost**: Free entry (verify current rates)
+- **Cost**: Check entry fees on the [website](https://casadeljade.com/mesoamerican-museum-of-jade/)
 
 ## What to See
 - Jade carvings and jewelry (e.g., necklaces, pendants).
