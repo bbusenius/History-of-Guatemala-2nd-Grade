@@ -4,19 +4,18 @@ This curriculum uses living book excerpts to engage a 7-year-old in Guatemalan h
 
 - **Unit 1: Introduction to Guatemala and the Maya Civilization**
   - **English**: *The Corn Grows Ripe* by Dorothy Rhoads – A novel about a Maya boy’s life, rich in cultural detail.
-    - **Ebook**: [Amazon Kindle](https://www.amazon.com/Corn-Grows-Ripe-Dorothy-Rhoads-ebook/dp/B00B0S4K3G), [Open Library](https://openlibrary.org/works/OL5815547W/The_Corn_Grows_Ripe) (free with account).
-    - **Physical**: Libraries in Antigua; [Amazon](https://www.amazon.com/Corn-Grows-Ripe-Dorothy-Rhoads/dp/0140363130) (~$10-$15).
+    - **Ebook**: [Amazon](https://a.co/d/9PqSbaT) (~$10-$15), [Open Library](https://archive.org/embed/corngrowsripe0000rhoa) (free with account).
+    - **Physical**: Libraries in Antigua.
   - **Spanish/English**: *The Bird Who Cleans the World and Other Mayan Fables* by Victor Montejo – Maya folktales, including quetzal stories.
-    - **Ebook**: [Amazon Kindle](https://www.amazon.com/Bird-Who-Cleans-World-Fables-ebook/dp/B00B9I2G8E) (~$9).
-    - **Physical**: Libraries or [Amazon](https://www.amazon.com/Bird-Who-Cleans-World-Fables/dp/1880684144).
+    - **Physical**: Libraries or [Amazon](https://a.co/d/fk3VJgK).
 
 - **Unit 3: The Colonial Period - Spanish Arrival and Impact**
-  - **English**: *The Maya* by Anita Ganeri – A children’s history of the Maya, including Spanish contact.
-    - **Ebook**: [Amazon Kindle](https://www.amazon.com/Maya-Ancient-Civilizations-Anita-Ganeri-ebook/dp/B00H7J9K8S) (~$7), [Google Books](https://books.google.com/books?id=8y9zDwAAQBAJ).
+  - **English**: *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
+    - **Ebook**: [Amazon](https://a.co/d/8skVJX5) (~$7), [Open Library](https://archive.org/embed/ancientmaya00gane).
     - **Physical**: Libraries; [Amazon](https://www.amazon.com/Maya-Ancient-Civilizations-Anita-Ganeri/dp/0753461420) (~$10).
   - **Spanish/English**: *Popol Vuh* trans. Allen J. Christenson – Adapted Maya creation myth, touching on cultural shifts.
-    - **Ebook**: [Amazon Kindle](https://www.amazon.com/Popol-Vuh-Sacred-Book-Maya-ebook/dp/B00B9I2H0G) (~$10).
-    - **Physical**: Libraries; [Amazon](https://www.amazon.com/Popol-Vuh-Sacred-Book-Maya/dp/0806138394).
+    - **Ebook**: [Amazon Kindle](https://a.co/d/ftH5QAf) (~$22), [Open Library](https://openlibrary.org/works/OL18266343W/Popol_vuh?edition=key%3A/books/OL15315702M) (Tedlock Version, free with account)
+    - **Physical**: Libraries; [Amazon](https://a.co/d/b3AI77b) (~$25).
 
 - **Unit 5: Independence of Guatemala**
   - **English**: *Central America* by Marion Morrison – Regional history covering 1821 independence.

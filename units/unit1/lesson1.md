@@ -20,15 +20,15 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
 ### Materials and Resources Required
 - **Printable Map**: Blank Central America map from `resources/map_of_guatemala.pdf` (provided in curriculum) or online (e.g., [National Geographic Kids](https://kids.nationalgeographic.com/geography/countries/article/guatemala), free PDF printable).
 - **Living Books**:
-  - *The Corn Grows Ripe* by Dorothy Rhoads (English, ebook on [Amazon](https://a.co/d/9PqSbaT), ~$7, or [Open Library](https://archive.org/embed/corngrowsripe0000rhoa), free with account).
-  - *The Bird Who Cleans the World and Other Mayan Fables* by Victor Montejo (Spanish/English, ebook on [Amazon](https://a.co/d/4r3XjVC), ~$9).
-  - *Popol Vuh para niños* (Spanish, available via local bookstores like Librería Sophos in Guatemala City or online at [Amazon](https://a.co/d/3PjbdAn); select a chapter like the creation story for age-appropriate content).
-- **Copywork Paragraph** (written on paper or in a notebook — Can be 1 sentence or the whole paragraph depending on the student):
-    - **English**: The bush belonged to the gods, not to man. Men only borrowed it for a little because of their hunger, always asking the gods for permission. And after a few years they returned the land and made new clearings somewhere else. For two thousand years Tigre’s people had used the land and returned it. And, always borrowing, never possessing or destroying, they had passed it on to their children as rich as it had been passed on to them.
-    - **Spanish**: El bosque pertenecía a los dioses, no al hombre. Los hombres solo lo tomaban prestado por un tiempo debido a su hambre, siempre pidiendo permiso a los dioses. Y después de unos pocos años, devolvían la tierra y hacían nuevos claros en otro lugar. Durante dos mil años, el pueblo de Tigre había usado la tierra y la había devuelto. Y, siempre tomando prestado, nunca poseyendo ni destruyendo, la habían pasado a sus hijos tan rica como se les había pasado a ellos.
+  - *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
+    - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://archive.org/embed/ancientmaya00gane) (Free).
+  - *Popol Vuh para niños* (Spanish, available via local bookstores like Librería Sophos in Guatemala City or online at [Amazon](https://a.co/d/3PjbdAn); read the first chapter, "La Creación de la Tierra y Hombre").
+  - **Copywork Paragraph** (written on paper or in a notebook — Can be 1 sentence or the whole paragraph depending on the student):
+    - **English**: The Maya civilization of Central America reached its peak 1,700 years ago. It continued until about 500 years ago. The Maya built great pyramids and worshipped many gods and goddesses. Their lords lived in great holy cities, and each city was ruled by its own king. The Maya also studied the stars and were the first people in Central America to write books. 
+    - **Spanish**: La civilización maya de América Central alcanzó su apogeo hace 1,700 años. Continuó hasta hace unos 500 años. Los mayas construyeron grandes pirámides y adoraban a muchos dioses y diosas. Sus señores vivían en grandes ciudades sagradas, y cada ciudad era gobernada por su propio rey. Los mayas también estudiaban las estrellas y fueron los primeros en América Central en escribir libros. 
 - **Crayons or Colored Pencils**: For map coloring (household items or ~$2-$5 if purchased).
 - **Paper or Notebook**: For copywork (household item).
-- **Optional Prop**: Image of a quetzal bird (e.g., search “quetzal bird image free” online; free printable or digital display).
+- **Optional Prop**: [Image of a quetzal bird](https://duckduckgo.com/?q=quetzal+bird+image+free&ia=images&iax=images) (free printable or digital display).
 - **Accessibility**: Ebooks prioritized for availability in Guatemala; map printable or drawable by hand; all materials low-cost or free with household substitutes.
 
 ### Step-by-Step Instructional Procedures
@@ -36,13 +36,15 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
    - **Objective**: Engage curiosity and set the lesson’s focus.
    - **Procedure**:
      - Ask, “Where do we live? What country?” to connect to the student’s experience.
-     - Say, “Today, we’ll find Guatemala on a map and hear stories about the Maya who lived here first—including their own tale from *Popol Vuh para niños* about how they began!”
+     - Say, “Today, we’ll find Guatemala on a map and hear stories about the Maya who lived here first—including their own tale from *Popol Vuh* about how they began!”
      - Show the blank map, pointing to Central America, and briefly introduce the Maya.
 2. **Main Activity (35 minutes)**:
    - **Objective**: Explore geography and Maya culture through hands-on and narrative activities.
    - **Procedure**:
      - **Map Coloring (10 minutes)**: Provide the map and crayons. Guide the student to color Guatemala in a chosen color (e.g., “Let’s make Guatemala green!”) and label it with “Guatemala.” Point out borders (e.g., “Mexico is up here”). Ask, “What’s near our town?”
-     - **Storytelling from Living Book (10 minutes)**: Read a 5-10 minute excerpt from *The Corn Grows Ripe* (e.g., Chapter 2: The Milpa) or *The Bird Who Cleans the World* (e.g., a quetzal fable). Show the quetzal image if available. Ask, “What’s special about the quetzal to the Maya?” (Expect answers like “It’s free” or “It’s pretty”).
+     - **Storytelling from Living Book (10 minutes)**: Read pages 4-11 from *The Ancient Maya* (The Maya - Cities and Temples) or *The Bird Who Cleans the World* (e.g., a quetzal fable). 
+       - Read to the child, allow the child to read on his or her own, or take turns reading with the child
+       - Show the quetzal image if available. Ask, “What’s special about the quetzal to the Maya?” (Expect answers like “It’s free” or “It’s pretty”).
      - **Reading from *Popol Vuh para niños* (10 minutes)**: Read a short, age-appropriate chapter, such as the creation story, from *Popol Vuh para niños*. Say, “This is what the Maya believed about how people were made!” Ask, “Why was corn so important to them?” (Expect answers like “They ate it” or “They were made from it”).
      - **Copywork (5 minutes)**: Provide paper or notebook. Write a sentence or the entire paragraph from the "Copywork Paragraph" section above. Say, “Copy this neatly to practice writing and learn about the Maya.” Guide the student to write it once or twice, focusing on letter formation.
 3. **Narration (10 minutes)**:
@@ -73,7 +75,7 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
   - In Week 10, review timeline drawings for Unit 1 connection, evaluating creativity and relevance.
 
 ### Differentiation Strategies
-- **Advanced Learners**: Label neighboring countries on the map (e.g., Mexico); narrate detailed story elements (e.g., “The boy farmed and the corn made people”); write the copywork sentence twice.
+- **Advanced Learners**: Label neighboring countries on the map (e.g., Mexico); narrate detailed story elements (e.g., “The boy farmed and the corn made people”); write the copywork sentence twice or do it in English and Spanish; read on his or her own.
 - **Struggling Learners**: Use a pre-colored map with Guatemala outlined; simplify narration to “What did the Maya do?”; allow tracing for copywork.
 - **Kinesthetic Learners**: Trace map borders with fingers before coloring; act out planting corn during storytelling.
 - **Visual Learners**: Emphasize the quetzal image or show additional Maya culture visuals (e.g., corn) to aid narration and copywork.
@@ -83,7 +85,7 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
 - Main Activity: 35 minutes (10 min map coloring, 10 min storytelling, 10 min *Popol Vuh para niños* reading, 5 min copywork)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 60 minutes (within the adjustable 30-60 minute range)
+- Total: 50 minutes (within the adjustable 30-60 minute range)
 
 ### Prerequisite Knowledge or Skills
 - **Student**: Basic literacy (listening and simple writing); fine motor skills for coloring and writing; no prior historical knowledge required.

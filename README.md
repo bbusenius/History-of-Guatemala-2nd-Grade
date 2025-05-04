@@ -1,22 +1,22 @@
-# Guatemala History Homeschool Curriculum
+# Guatemala History Homeschool Curriculum — 2nd Grade
 
 This repository contains a 10-week homeschool curriculum designed to teach a 7-year-old 2nd-grade student about the history of Guatemala. The curriculum covers key historical periods from the pre-Columbian Maya civilization to modern times, with a special focus on the local history of San Juan del Obispo. It is inspired by Charlotte Mason's educational philosophy, emphasizing narration, storytelling, and short, engaging lessons. The course includes optional weekly field trips to local sites near Antigua, Guatemala, making it ideal for students living in or near San Juan del Obispo.
 
-The curriculum is structured into 10 units, each consisting of two 45-minute lessons and one optional field trip. It is designed to be flexible and requires minimal preparation, with "grab and go" lesson plans that are easy to follow.
+The curriculum is structured into 10 units, each consisting of two 45-60 minute lessons and one optional field trip. It is designed to be flexible and requires minimal preparation, with "grab and go" lesson plans that are easy to follow.
 
-## Updates and Enhancements
+## Methods and Charlotte Mason Connection
 
-This curriculum has been recently updated to better align with Charlotte Mason's educational principles and to provide a richer, more culturally sensitive learning experience. Key improvements include:
+This curriculum employs several educational methods that align with Charlotte Mason's philosophy, focusing on a rich, engaging learning experience. Key methods include:
 
-- **Living Books and Primary Sources**: Custom stories have been replaced with excerpts from authentic living books, such as *The Corn Grows Ripe* and *Popol Vuh para niños*, to ensure historical accuracy and narrative engagement. Additionally, unsimplified primary source excerpts, like colonial letters and newspaper clippings, have been integrated to provide authentic historical voices.
-- **Copywork and Dictation**: Each unit now includes copywork and dictation exercises using passages from living books or primary sources, helping students improve handwriting and spelling while deepening their connection to Guatemalan history.
-- **Outdoor Time and Nature Study**: Lessons incorporate short outdoor activities, such as observing shadows or exploring local surroundings, to align with Charlotte Mason’s emphasis on nature and hands-on learning.
-- **Art and Music Appreciation**: Picture study and composer study have been added to enrich cultural understanding. Students will observe Guatemalan art and listen to traditional music, like marimba pieces, to connect with historical and cultural themes.
-- **Optimized Field Trips**: Field trip locations, such as Casa del Jade and Museo de Arte Colonial, have been verified for relevance and accessibility, ensuring they align with the curriculum’s historical themes.
-- **Indigenous Perspectives**: Maya perspectives, especially in pre-Columbian and colonial units, have been incorporated to provide a balanced and culturally sensitive narrative.
-- **Bilingual Resources**: The curriculum now includes bilingual (English/Spanish) resources where appropriate, supporting language development and cultural connection.
+- **Living Books and Primary Sources**: Excerpts from authentic living books, such as *The Corn Grows Ripe* and *Popol Vuh para niños*, ensure historical accuracy and narrative engagement. Additionally, unsimplified primary source excerpts, like colonial letters and newspaper clippings, provide authentic historical voices, fostering a deep connection to the material as Mason advocated.
+- **Copywork and Dictation**: Units include exercises using passages from living books or primary sources, helping students improve handwriting and spelling while deepening their connection to Guatemalan history, reflecting Mason’s emphasis on language development through meaningful content.
+- **Outdoor Time and Nature Study**: Lessons incorporate short outdoor activities, such as observing shadows or exploring local surroundings, aligning with Mason’s belief in the importance of nature and hands-on learning for child development.
+- **Art and Music Appreciation**: Picture study and composer study enrich cultural understanding. Students observe Guatemalan art through picture studies, focusing on works like Mayan artifacts or colonial paintings, to develop observation skills and an appreciation for beauty, as Mason encouraged. They also engage in composer studies by listening to traditional Guatemalan music, such as marimba pieces, to connect with historical and cultural themes as part of Mason’s holistic approach to education.
+- **Optimized Field Trips**: Field trip locations, such as Casa del Jade and Museo de Arte Colonial, are chosen for relevance and accessibility, aligning with Mason’s encouragement of real-world exploration to complement book learning.
+- **Indigenous Perspectives**: Maya perspectives, especially in pre-Columbian and colonial units, provide a balanced and culturally sensitive narrative, embodying Mason’s respect for diverse human experiences.
+- **Bilingual Resources**: The curriculum includes bilingual (English/Spanish) resources where appropriate, supporting language development and cultural connection, in line with Mason’s focus on broad, inclusive learning.
 
-These updates ensure the curriculum is engaging, culturally respectful, and aligned with Charlotte Mason’s philosophy, while remaining flexible for homeschool settings.
+These methods ensure the curriculum is engaging, culturally respectful, and aligned with Charlotte Mason’s philosophy of nurturing the whole child through meaningful, varied educational experiences, while remaining flexible for homeschool settings.
 
 ## Table of Contents
 

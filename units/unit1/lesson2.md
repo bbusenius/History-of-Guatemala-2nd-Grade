@@ -21,9 +21,12 @@ By the end of the lesson, the student will be able to:
 6. Narrate a brief story about a Maya day, incorporating lesson elements.
 
 ## Materials and Resources Required
+- **Living Books**:
+  - *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
+    - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://archive.org/embed/ancientmaya00gane) (Free).
 - **Craft Supplies**: One paper plate (household item), markers or crayons (household or ~$2-$5), scissors (household, adult supervision required).
-- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Available in English via ebook on [Amazon Kindle](https://a.co/d/7qr0nsf) (~$10) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
-- **Picture Study Image**: A high-quality image of a Maya artifact, such as a ceramic vessel or jade pendant. [Search the web](https://duckduckgo.com/?q=mayan%20jade%20artifact&ia=images&iax=images) or [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=mayan+jade&title=Special:MediaSearch&type=image).
+- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Available in English via ebook on [Open Library](https://openlibrary.org/works/OL18266343W/Popol_vuh?edition=key%3A/books/OL15315702M) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
+- **Picture Study Image**: A high-quality image of a Maya jade artifact. A jade mask is ideal since it connects with the lesson on masks and the field trip to the Casa del Jade. [Search the web](https://duckduckgo.com/?q=mayan%20jade%20artifact&ia=images&iax=images) or [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=mayan+jade&title=Special:MediaSearch&type=image).
 - **Dictation Sentence**: "The Maya ate corn." (English) or "Los Mayas comían maíz." (Spanish), derived from the *Popol Vuh* excerpt.
 - **Paper and Pencil**: For dictation exercise (household items).
 - **Optional**: String or elastic band (~$1-$2) and hole punch (~$5) to make the mask wearable; additional images of Mayan masks (search “Mayan masks for kids” online, free printable resources).
@@ -38,9 +41,14 @@ By the end of the lesson, the student will be able to:
      - Recap Lesson 1: “We learned the Maya lived here long ago. Today, we’ll see what they did every day!”
      - Say, “The Maya grew food and made special masks. We’ll make one, look at something they made, and write about them!”
      - Show a sample mask or optional image to spark interest.
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore Maya culture through crafting, primary source, picture study, dictation, and discussion.
+2. **Main Activity (45 minutes)**:
+   - **Objective**: Explore Maya culture through crafting, reading, primary source, picture study, dictation, and discussion.
    - **Procedure**:
+     - **Storytelling from Living Book (10 minutes)**: Read pages 12-27 from *The Ancient Maya* (Maya Gods - Clothes and Fashion).
+       - Read to the child, allow the child to read on his or her own, or take turns reading with the child.
+     - **Learn how the Maya used masks (10 minutes)**: 
+       - Read and show images from pages 4-6 from this [presentation about masks](https://www.broadbentfold.tameside.sch.uk/sites/www.broadbentfold.tameside.sch.uk/files/Maya%20mask%20ideas.pdf) (What Were Masks Used For? - Death Masks)
+       - Read about the [Death and Rebirth Mask — Triple Mask](https://museum.maidstone.gov.uk/wp-content/uploads/2020/06/Mayan-pack-for-kids.pdf) and look at the image (consider using this as the picture study to save on time if desired).
      - **Craft (10 minutes)**: Provide the paper plate and markers. Guide the student to draw a face (e.g., eyes, mouth, patterns like feathers). With adult help, cut two eye holes. Add details (e.g., colors). Optionally, punch holes and tie string to wear it. Say, “This is like a Maya mask for ceremonies!”
      - **Primary Source (5 minutes)**: Read the *Popol Vuh* excerpt aloud: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Ask, “Why was corn so important to the Maya?” (Expect answers like “They ate it” or “They were made from it”).
      - **Picture Study (5 minutes)**: Show the Maya artifact image. Say, “Look at this for 2 minutes. Notice the shapes and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “What might this be used for? Does it look like something they ate with?”
@@ -51,8 +59,7 @@ By the end of the lesson, the student will be able to:
          - Dictate the sentence: "The food they ate was the same as that which they were made of." (English) or "Los alimentos que comían eran los mismos de los que se les hacían." (Spanish).
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
          - Check their spelling and praise their effort (e.g., “You spelled ‘corn’ perfectly!”).
-     - **Discussion (5 minutes)**: While crafting or after, ask, “What would a Maya child do every day?” Suggest corn-based foods or activities from the artifact and link to the excerpt.
-3. **Narration (10 minutes)**:
+3. **Narration (5 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
      - Prompt, “Tell me about a Maya day” or “What did you see in the picture or learn from the story?”
@@ -82,17 +89,17 @@ By the end of the lesson, the student will be able to:
   - In Week 10, review timeline additions (e.g., mask sketch) for Unit 1 connection; no formal rubric, based on effort and relevance.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Add complex patterns to the mask or narrate a detailed story; write an additional dictation sentence (e.g., “They made masks”).
+- **Advanced Learners**: Add complex patterns to the mask or narrate a detailed story; write an additional dictation sentence (e.g., “They made masks”). Have the child read on his or her own.
 - **Struggling Learners**: Pre-draw a face outline on the plate; focus narration on one idea (e.g., “Corn was food”); allow tracing for dictation.
 - **Kinesthetic Learners**: Wear the mask and act out a brief ceremony after crafting.
 - **Visual Learners**: Use mask images or the artifact to inspire design and discussion.
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (10 min craft, 5 min primary source, 5 min picture study, 5 min dictation, 5 min discussion)
-- Narration: 10 minutes
+- Main Activity: 45 minutes (10 min storytelling, 10 min learning about masks, 10 min craft, 5 min primary source, 5 min picture study, 5 min dictation)
+- Narration: 5 minutes
 - Closing: 5 minutes
-- Total: 50 minutes (extended from 45 minutes to accommodate picture study without reducing other activities)
+- Total: 60 minutes
 
 ## Prerequisite Knowledge or Skills
 - **Student**: Basic coloring, cutting, and writing skills (with adult help); familiarity with the Maya from Lesson 1.
