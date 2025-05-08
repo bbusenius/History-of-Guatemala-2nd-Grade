@@ -19,7 +19,7 @@ By the end of the field trip, the student will be able to:
 ## Materials and Resources Required
 - **Field Trip Essentials**: Water, snacks, comfortable clothing and shoes, transportation to the Casa del Jade in Antigua.
 - **Activity Materials**: Sketchbook (or plain paper), pencils, crayons.
-- **Parent Guide**: Reference `overview/parent_guide.md` for safety and engagement tips (already provided in the curriculum).
+- **Parent Guide**: Reference [overview/parent_guide.md](../../overview/parent_guide.md) for safety and engagement tips (already provided in the curriculum).
 - **Optional**: Camera or smartphone for photos (to aid post-trip narration), magnifying glass for closer observation of artifacts.
 - **Accessibility**: Most materials are household items; museum entry fees can be checked on the [website](https://casadeljade.com/mesoamerican-museum-of-jade/); transportation costs depend on the family’s method (e.g., bus fare or gas).
 

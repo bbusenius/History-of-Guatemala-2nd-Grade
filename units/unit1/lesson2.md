@@ -1,7 +1,7 @@
 # Unit 1, Lesson 2: Daily Life of the Maya
 
 ## Overview
-This lesson explores the daily life of the Maya civilization for a 7-year-old 2nd-grade student within a 10-week homeschool curriculum on Guatemalan history. Through crafting a Mayan mask, engaging with a primary source excerpt from *Popol Vuh*, picture study of a Maya artifact, a dictation exercise, and narration, the student will learn about Maya community life, farming, and cultural practices. Inspired by Charlotte Mason’s methods—hands-on activities, narration, and short lessons—it is engaging, flexible, and requires minimal preparation. Tailored to the student in San Juan del Obispo, it deepens their connection to local Maya heritage and builds on Lesson 1’s introduction.
+This lesson explores the daily life of the Maya civilization for a 7-year-old 2nd-grade student within a 10-week homeschool curriculum on Guatemalan history. Through reading, crafting a Mayan mask, engaging with a primary source excerpt from the *Popol Vuh*, picture study of a Maya artifact, a dictation exercise, and narration, the student will learn about Maya community life, farming, and cultural practices. Inspired by Charlotte Mason’s methods—hands-on activities, narration, and short lessons—it is engaging, flexible, and requires minimal preparation. Tailored to the student in San Juan del Obispo, it deepens their connection to local Maya heritage and builds on Lesson 1’s introduction.
 
 ## Alignment with Charlotte Mason Guidelines
 - **Living Books and Primary Sources**: Incorporates an authentic, unsimplified excerpt from *Popol Vuh* and a visual artifact, adhering to Charlotte Mason’s principle of using original texts and materials to bring history to life.
@@ -14,31 +14,37 @@ This lesson explores the daily life of the Maya civilization for a 7-year-old 2n
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
 1. Describe key aspects of Maya daily life, such as farming or ceremonies, in simple terms.
-2. Create a Mayan-inspired mask to represent cultural practices using simple materials.
-3. Explain the significance of corn in Maya culture based on the *Popol Vuh* excerpt.
-4. Observe and narrate features of a Maya artifact image (e.g., shapes, colors).
-5. Write a dictated sentence about Maya life with correct spelling.
-6. Narrate a brief story about a Maya day, incorporating lesson elements.
+2. Explain how the Maya used masks in ceremonies and daily life.
+3. Create a Mayan-inspired mask to represent cultural practices using simple materials.
+4. Reinforce the significance of corn in Maya culture based on the *Popol Vuh* excerpt.
+5. Observe and narrate features of a Maya artifact image (e.g., shapes, colors).
+6. Write a dictated sentence about Maya life with correct spelling.
+7. Narrate a brief story about a Maya day, incorporating lesson elements.
 
 ## Materials and Resources Required
 - **Living Books**:
   - *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
-    - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://archive.org/embed/ancientmaya00gane) (Free).
+    - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://openlibrary.org/books/OL3409127M/Ancient_Maya) (Free).
 - **Craft Supplies**: One paper plate (household item), markers or crayons (household or ~$2-$5), scissors (household, adult supervision required).
-- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Available in English via ebook on [Open Library](https://openlibrary.org/works/OL18266343W/Popol_vuh?edition=key%3A/books/OL15315702M) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
+- **Primary Source**: Excerpt from *Popol Vuh*, translated by Dennis Tedlock:
+  > Xmucane grinds the corn from this mountain very finely, and the flour, mixed with the water she rinses her hands with, provides the substance for human flesh, just as the ground bone thrown in the river by the Xibalbans becomes the substance for the rebirth of her grandsons. The first people to be modeled from the corn dough are four men named Jaguar Quitze, Jaguar Night, Mahucutah, and True Jaguar. They are the first four heads of Quiché patrilineages; as in the case of the men who occupy such positions today, they are called "mother-fathers," since in ritual matters they serve as symbolic androgynous parents to everyone in their respective lineages.
+  >
+  > This time the beings shaped by the gods are everything they hoped for and more: not only do the first four men pray to their makers, but they have perfect vision and therefore perfect knowledge. The gods are alarmed that beings who were merely manufactured by them should have divine powers, so they decide, after their usual dialogue, to put a fog on human eyes.
+  
+  Available in English via ebook on [Open Library](https://openlibrary.org/books/OL3409127M/Ancient_Maya) or free online excerpts (e.g., search “Popol Vuh English translation PDF”); Spanish editions accessible via local libraries or online archives.
 - **Picture Study Image**: A high-quality image of a Maya jade artifact. A jade mask is ideal since it connects with the lesson on masks and the field trip to the Casa del Jade. [Search the web](https://duckduckgo.com/?q=mayan%20jade%20artifact&ia=images&iax=images) or [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?search=mayan+jade&title=Special:MediaSearch&type=image).
-- **Dictation Sentence**: "The Maya ate corn." (English) or "Los Mayas comían maíz." (Spanish), derived from the *Popol Vuh* excerpt.
+- **Dictation Sentence**: "The first people to be modeled from the corn dough are four men named Jaguar Quitze, Jaguar Night, Mahucutah, and True Jaguar." (English) or "Los primeros seres formados de la harina de maíz son cuatro hombres llamados Jaguar Quitze, Jaguar Noche, Mahucutah y Jaguar Verdadero." (Spanish), derived from the *Popol Vuh* excerpt.
 - **Paper and Pencil**: For dictation exercise (household items).
 - **Optional**: String or elastic band (~$1-$2) and hole punch (~$5) to make the mask wearable; additional images of Mayan masks (search “Mayan masks for kids” online, free printable resources).
-- **Craft Instructions**: From `units/unit1/resources/mayan_mask_craft.md` (provided in curriculum).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
+- **Craft Instructions**: [Mayan Mask Craft Instructions](resources/mayan_mask_craft.md).
+- **Timeline**: Make a reusable timeline by hand, download, or make a digital version. Consider these [tips for creating reusable resources](../../resources/create_reusable_resources.md).
 - **Accessibility**: Materials are low-cost and common; ebook or online excerpts prioritized for accessibility in Guatemala; offline alternatives provided.
 
 ## Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
    - **Objective**: Introduce Maya daily life and the activities.
    - **Procedure**:
-     - Recap Lesson 1: “We learned the Maya lived here long ago. Today, we’ll see what they did every day!”
+     - Recap Lesson 1: “We learned the Maya lived here long ago. Today, we’ll see what they did in their daily lives!”
      - Say, “The Maya grew food and made special masks. We’ll make one, look at something they made, and write about them!”
      - Show a sample mask or optional image to spark interest.
 2. **Main Activity (45 minutes)**:
@@ -50,13 +56,24 @@ By the end of the lesson, the student will be able to:
        - Read and show images from pages 4-6 from this [presentation about masks](https://www.broadbentfold.tameside.sch.uk/sites/www.broadbentfold.tameside.sch.uk/files/Maya%20mask%20ideas.pdf) (What Were Masks Used For? - Death Masks)
        - Read about the [Death and Rebirth Mask — Triple Mask](https://museum.maidstone.gov.uk/wp-content/uploads/2020/06/Mayan-pack-for-kids.pdf) and look at the image (consider using this as the picture study to save on time if desired).
      - **Craft (10 minutes)**: Provide the paper plate and markers. Guide the student to draw a face (e.g., eyes, mouth, patterns like feathers). With adult help, cut two eye holes. Add details (e.g., colors). Optionally, punch holes and tie string to wear it. Say, “This is like a Maya mask for ceremonies!”
-     - **Primary Source (5 minutes)**: Read the *Popol Vuh* excerpt aloud: "Thus they were made of yellow corn and white corn, and their flesh was made of corn dough. The food they ate was the same as that which they were made of." Ask, “Why was corn so important to the Maya?” (Expect answers like “They ate it” or “They were made from it”).
-     - **Picture Study (5 minutes)**: Show the Maya artifact image. Say, “Look at this for 2 minutes. Notice the shapes and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “What might this be used for? Does it look like something they ate with?”
+     - **Primary Source (5 minutes)**: Read the *Popol Vuh* excerpt aloud:
+       > Xmucane grinds the corn from this mountain very finely, and the flour, mixed with the water she rinses her hands with, provides the substance for human flesh, just as the ground bone thrown in the river by the Xibalbans becomes the substance for the rebirth of her grandsons. The first people to be modeled from the corn dough are four men named Jaguar Quitze, Jaguar Night, Mahucutah, and True Jaguar. They are the first four heads of Quiché patrilineages; as in the case of the men who occupy such positions today, they are called "mother-fathers," since in ritual matters they serve as symbolic androgynous parents to everyone in their respective lineages.
+       >
+       > This time the beings shaped by the gods are everything they hoped for and more: not only do the first four men pray to their makers, but they have perfect vision and therefore perfect knowledge. The gods are alarmed that beings who were merely manufactured by them should have divine powers, so they decide, after their usual dialogue, to put a fog on human eyes.
+       
+       Ask, “Why was corn so important to the Maya?” (Expect answers like “They ate it” or “They were made from it”). Possible things to note or point out:
+         - People are made from corn
+         Reference to rebirth/reincarnation
+         - Xibalba (underworld)
+         - 4 men are named as jaguars
+         - 4 heads = 4 cardinal directions
+
+     - **Picture Study (5 minutes)**: Show the [Maya artifact image](https://upload.wikimedia.org/wikipedia/commons/2/21/Maya_jade_plaque.jpg). Say, “Look at this for 2 minutes. Notice the shapes and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “What might this be used for? Does it look like something they ate with?”
      - **Dictation (5 minutes)**:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
          - Say, "Let’s write a sentence from the Maya story."
-         - Dictate the sentence: "The food they ate was the same as that which they were made of." (English) or "Los alimentos que comían eran los mismos de los que se les hacían." (Spanish).
+         - Dictate the sentence: "The first people to be modeled from the corn dough are four men named Jaguar Quitze, Jaguar Night, Mahucutah, and True Jaguar." (English) or "Los primeros seres formados de la harina de maíz son cuatro hombres llamados Jaguar Quitze, Jaguar Noche, Mahucutah y Jaguar Verdadero." (Spanish).
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
          - Check their spelling and praise their effort (e.g., “You spelled ‘corn’ perfectly!”).
 3. **Narration (5 minutes)**:

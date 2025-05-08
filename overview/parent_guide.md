@@ -4,17 +4,17 @@ This curriculum uses living book excerpts to engage a 7-year-old in Guatemalan h
 
 - **Unit 1: Introduction to Guatemala and the Maya Civilization**
   - **English**: *The Corn Grows Ripe* by Dorothy Rhoads – A novel about a Maya boy’s life, rich in cultural detail.
-    - **Ebook**: [Amazon](https://a.co/d/9PqSbaT) (~$10-$15), [Open Library](https://archive.org/embed/corngrowsripe0000rhoa) (free with account).
+    - **Ebook**: [Amazon](https://a.co/d/9PqSbaT) (~$10-$15), [Open Library](https://openlibrary.org/books/OL6203478M/The_corn_grows_ripe.) (free with account).
     - **Physical**: Libraries in Antigua.
   - **Spanish/English**: *The Bird Who Cleans the World and Other Mayan Fables* by Victor Montejo – Maya folktales, including quetzal stories.
     - **Physical**: Libraries or [Amazon](https://a.co/d/fk3VJgK).
 
 - **Unit 3: The Colonial Period - Spanish Arrival and Impact**
   - **English**: *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
-    - **Ebook**: [Amazon](https://a.co/d/8skVJX5) (~$7), [Open Library](https://archive.org/embed/ancientmaya00gane).
+    - **Ebook**: [Amazon](https://a.co/d/8skVJX5) (~$7), [Open Library](https://openlibrary.org/books/OL3409127M/Ancient_Maya).
     - **Physical**: Libraries; [Amazon](https://www.amazon.com/Maya-Ancient-Civilizations-Anita-Ganeri/dp/0753461420) (~$10).
   - **Spanish/English**: *Popol Vuh* trans. Allen J. Christenson – Adapted Maya creation myth, touching on cultural shifts.
-    - **Ebook**: [Amazon Kindle](https://a.co/d/ftH5QAf) (~$22), [Open Library](https://openlibrary.org/works/OL18266343W/Popol_vuh?edition=key%3A/books/OL15315702M) (Tedlock Version, free with account)
+    - **Ebook**: [Amazon Kindle](https://a.co/d/ftH5QAf) (~$22), [Open Library](https://openlibrary.org/books/OL15315702M/Popol_vuh) (Tedlock Version, free with account)
     - **Physical**: Libraries; [Amazon](https://a.co/d/b3AI77b) (~$25).
 
 - **Unit 5: Independence of Guatemala**

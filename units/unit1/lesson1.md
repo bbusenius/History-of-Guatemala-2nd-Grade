@@ -21,7 +21,7 @@ This lesson introduces the geography of Guatemala and the Maya civilization to a
 - **Printable Map**: Blank Central America map from [unit1/resources/map_of_guatemala.jpg](resources/map_of_guatemala.jpg) from [GISGeography](https://gisgeography.com/central-america-blank-map/).
 - **Living Books**:
   - *The Ancient Maya* by Anita Ganeri – A children’s history of the Maya.
-    - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://archive.org/embed/ancientmaya00gane) (Free).
+    - **Print**: [Amazon](https://a.co/d/8skVJX5) (~$7), **Ebook**: [Open Library](https://openlibrary.org/books/OL3409127M/Ancient_Maya) (Free).
   - *Popol Vuh para niños* (Spanish, available via local bookstores like Librería Sophos in Guatemala City or online at [Amazon](https://a.co/d/3PjbdAn); read the first chapter, "La Creación de la Tierra y Hombre").
   - **Copywork Paragraph** (written on paper or in a notebook — Can be 1 sentence or the whole paragraph depending on the student):
     - **English**: The Maya civilization of Central America reached its peak 1,700 years ago. It continued until about 500 years ago. The Maya built great pyramids and worshipped many gods and goddesses. Their lords lived in great holy cities, and each city was ruled by its own king. The Maya also studied the stars and were the first people in Central America to write books. 

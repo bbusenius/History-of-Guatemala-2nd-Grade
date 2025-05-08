@@ -36,4 +36,4 @@ This 10-week course introduces students to the rich history of Guatemala, from t
 10. **Unit 10: Review and Final Project**
     - Review key concepts and complete a final project showcasing what was learned.
 
-Each unit includes two 45-minute lessons and one optional field trip per week.
+Each unit includes two 45-60 minute lessons and one optional field trip per week.
