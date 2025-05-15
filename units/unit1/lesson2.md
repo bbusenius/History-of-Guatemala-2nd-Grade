@@ -63,17 +63,18 @@ By the end of the lesson, the student will be able to:
        
        Ask, “Why was corn so important to the Maya?” (Expect answers like “They ate it” or “They were made from it”). Possible things to note or point out:
          - People are made from corn
-         Reference to rebirth/reincarnation
+         - Reference to rebirth/reincarnation
          - Xibalba (underworld)
          - 4 men are named as jaguars
-         - 4 heads = 4 cardinal directions
+         - 4 men = 4 cardinal directions
 
      - **Picture Study (5 minutes)**: Show the [Maya artifact image](https://upload.wikimedia.org/wikipedia/commons/2/21/Maya_jade_plaque.jpg). Say, “Look at this for 2 minutes. Notice the shapes and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “What might this be used for? Does it look like something they ate with?”
      - **Dictation (5 minutes)**:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
          - Say, "Let’s write a sentence from the Maya story."
-         - Dictate the sentence: "The first people to be modeled from the corn dough are four men named Jaguar Quitze, Jaguar Night, Mahucutah, and True Jaguar." (English) or "Los primeros seres formados de la harina de maíz son cuatro hombres llamados Jaguar Quitze, Jaguar Noche, Mahucutah y Jaguar Verdadero." (Spanish).
+         - Dictate the sentence: "**The first people to be modeled from the corn dough are four men** named Jaguar Quitze, Jaguar Night, Mahucutah, and True Jaguar." (English) or "Los primeros seres formados de la harina de maíz son cuatro hombres llamados Jaguar Quitze, Jaguar Noche, Mahucutah y Jaguar Verdadero." (Spanish).
+         - Only the first part of the first sentence in bold is necessary. Use the whole blurb for students that need to be challenged.
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
          - Check their spelling and praise their effort (e.g., “You spelled ‘corn’ perfectly!”).
 3. **Narration (5 minutes)**:

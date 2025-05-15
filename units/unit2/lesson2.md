@@ -22,7 +22,7 @@ By the end of this lesson, the student will:
 - **Optional**: Images of Maya glyphs (online or books).
 - **Picture Study Image**: Image of the Madrid Codex from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Facs%C3%ADmil_C%C3%B3dice_Tro-Cortesiano.JPG) to show an actual example of a Maya codex.
 - **Living Book**: 
-  - *The Corn Grows Ripe* by Dorothy Rhoads (English, ebook on [Amazon](https://a.co/d/9PqSbaT), ~$7, or [Open Library](https://archive.org/embed/corngrowsripe0000rhoa), free with account). Read Chapter 2: The Milpa, focusing on Tigre’s discovery of an old temple and a figure. Discuss if this could have been a codex.
+  - *The Corn Grows Ripe* by Dorothy Rhoads (English, ebook on [Amazon](https://a.co/d/9PqSbaT), ~$7, or [Open Library](https://openlibrary.org/books/OL6203478M/The_corn_grows_ripe.), free with account). **Read Chapter 2**: *The Milpa*, focusing on Tigre’s discovery of an old temple and a figure. Discuss if this could have been a codex.
 - **Copywork Paragraph** (written on paper or in a notebook — Can be 1 sentence or the whole paragraph depending on the student):
   - **English**: Tigre sat down by one of the half-buried stones and began to scrape away the dirt with his knife. A warm rich red began to show beneath the dirt and then, as he scraped, the figure of an animal appeared. A jaguar!
   - **Spanish**: Tigre se sentó junto a una de las piedras medio enterradas y comenzó a raspar la tierra con su cuchillo. Un rojo cálido y profundo empezó a aparecer bajo la tierra y luego, mientras raspaba, surgió la figura de un animal. ¡Un jaguar!
@@ -39,7 +39,7 @@ By the end of this lesson, the student will:
    - Then uncover it and discuss: "This is the Madrid Codex, one of the few surviving Maya books. It was produced in Yucatan, Mexico, and shows their stories with glyphs."
 
 3. **Reading from Living Book (10 minutes)**:
-   - Read Chapter 2: The Milpa from *The Corn Grows Ripe* by Dorothy Rhoads.
+   - **Read Chapter 2**: *The Milpa* from *The Corn Grows Ripe* by Dorothy Rhoads.
    - Focus on the part where Tigre sees an old temple and partially digs up a figure. Ask: "What did Tigre find? Could this figure have been part of a codex or another Maya artifact with writing on it?"
    - Tie this to the lesson by saying: "The Maya left behind many objects with their art and writing, like codices, which tell us about their lives."
 
@@ -52,6 +52,7 @@ By the end of this lesson, the student will:
    - Fold the paper accordion-style into 4-6 panels.
    - Draw Maya-inspired scenes (e.g., jaguars, stars) or simple glyphs on each panel.
    - Encourage a short story: "What could your codex be about?"
+   - Pull up images of codices and glyphs to show the student while he or she works.
 
 6. **Narration (5 minutes)**:
    - Ask: "What does your codex show?" or "Tell me your story."
@@ -59,7 +60,7 @@ By the end of this lesson, the student will:
 
 7. **Closing (5 minutes)**:
    - Recap: "The Maya used glyphs and codices to share their ideas."
-   - Preview: "Next, we’ll visit Iximché ruins!"
+   - Preview: "Next, we’ll take a field trip to the [Iximché ruins](field_trip.md)"
    - **Update timeline**: Add a codex or artifact sketch to the timeline’s Pre-Columbian section with the student.
 
 ## Activities and Assessments

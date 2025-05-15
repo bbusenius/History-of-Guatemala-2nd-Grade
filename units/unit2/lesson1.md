@@ -4,8 +4,8 @@
 This lesson introduces the Maya civilization’s achievements, particularly their calendar system, to a 7-year-old student in San Juan del Obispo, Guatemala, as part of a 10-week homeschool curriculum. Through a video, an outdoor shadow-casting observation, picture study, and coloring, the student explores the calendar’s cultural significance. Designed with Charlotte Mason-inspired methods—narration, short lessons, and hands-on activities—it integrates an indigenous viewpoint to balance historical narratives, enhancing cultural sensitivity and connecting to the student’s heritage near Antigua.
 
 ### Alignment with Charlotte Mason Guidelines
-- **Video**: [¿Por qué el CALENDARIO MAYA es tan preciso? Tzolkin, Haab y la Cuenta Larga](https://youtu.be/GgptPdr7yFQ?si=AC9Zrxyb6Y81UsaR). Covers the Tzolkin and Haab calendars, what they were used for and how they were important to the Maya.
 - **Narration**: Prompts retelling to deepen understanding and memory of Maya achievements.
+- **Picture Study**: Examines the Huipil of Patzún to understand how the Mayan calendar is incorporated into modern cultural expressions.
 - **Short Lessons**: Segments video into 15 minutes, the Maya narrative into 2 minutes, and other activities into 5-10 minutes for focus.
 - **Hands-On**: Includes outdoor shadow observation and coloring to engage kinesthetic learners with historical concepts.
 - **Support for Natural Curiosity**: Encourages exploration of Maya astronomy and beliefs through storytelling and observation.
@@ -19,7 +19,7 @@ This lesson introduces the Maya civilization’s achievements, particularly thei
 5. Engage in a picture study of the Huipil of Patzún to understand how the Mayan calendar is incorporated into modern cultural expressions.
 
 ### Materials and Resources Required
-- **Video**: [¿Por qué el CALENDARIO MAYA es tan preciso? Tzolkin, Haab y la Cuenta Larga](https://youtu.be/GgptPdr7yFQ?si=AC9Zrxyb6Y81UsaR). Covers the Tzolkin and Haab calendars, what they were used for and how they were important to the Maya. Makes a short mention of how the Maya observed celestial bodies and the sun to track time (12:54-13:24). Tie this to the shadow observation activity.
+- **Video**: [¿Por qué el Calendario Maya es tan preciso? Tzolkin, Haab y la Cuenta Larga](https://youtu.be/GgptPdr7yFQ?si=AC9Zrxyb6Y81UsaR). Covers the Tzolkin and Haab calendars, what they were used for and how they were important to the Maya. Makes a short mention of how the Maya observed celestial bodies and the sun to track time (12:54-13:24). Tie this to the shadow observation activity.
 - **Printable**: Simplified Maya calendar wheel (from [`units/unit2/resources/mayan_calendar.svg`](resources/mayan_calendar.svg); alternatively, download from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IaIx8p01.svg); print or hand-draw if no printer).
 - **Picture Study Image**: An image of the Huipil of Patzún showing the Mayan calendar design. Choose an image from [search results for Huipil of Patzún calendario](https://duckduckgo.com/?q=huipil+of+patz%C3%BAn+calendario&iar=images). This image will illustrate how the Mayan calendar is incorporated into modern variations of the Huipil in Patzún, connecting historical concepts to contemporary cultural expressions.
 - **Supplies**:
@@ -39,10 +39,10 @@ This lesson introduces the Maya civilization’s achievements, particularly thei
 2. **Main Activity (35 minutes)**:
    - **Objective**: Explore the calendar through narrative and hands-on activities.
    - **Procedure**:
-     - **Video (15 minutes)**: Watch the video [¿Por qué el CALENDARIO MAYA es tan preciso? Tzolkin, Haab y la Cuenta Larga](https://youtu.be/GgptPdr7yFQ?si=AC9Zrxyb6Y81UsaR). Covers the Tzolkin and Haab calendars, what they were used for and how they were important to the Maya.
+     - **Video (15 minutes)**: Watch the video [¿Por qué el Calendario Maya es tan preciso? Tzolkin, Haab y la Cuenta Larga](https://youtu.be/GgptPdr7yFQ?si=AC9Zrxyb6Y81UsaR). Covers the Tzolkin and Haab calendars, what they were used for and how they were important to the Maya.
        - **Note**: The video mentions how the Maya observed celestial bodies and the sun to track time (12:54-13:24). Tie this to the shadow observation activity.
-     - **Outdoor Shadow-Casting Observation (5 minutes)**: Go to a sunny spot with a stick. Say, “The Maya watched shadows to track time.” Plant the stick upright and observe its shadow. Ask, “Which way does it point? Is it long or short?” Discuss: “They used shadows to know when to plant.” (If no sun, use a lamp indoors.) Consider leaving a stone at the edge of a shadow and coming back to demonstrate that the location of the shadow is different at different times of day.
-     - **Picture Study (5 minutes)**: Show the selected image of the Huipil of Patzún. Say, “Look at this for 2 minutes. Notice the patterns and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “This is a Huipil from Patzún. It has designs that show the Mayan calendar. How do you think they use this today?”
+     - **Outdoor Shadow-Casting Observation (5 minutes)**: Go to a sunny spot with a stick to plant upright or look for a shadow made by an object. Say, “The Maya watched shadows to track time.” Observe the shadow. Ask, “Which way does it point? Is it long or short?” Discuss: “They used shadows to know when to plant.” (If no sun, use a lamp indoors.) Consider leaving a stone at the edge of a shadow and coming back to demonstrate that the location of the shadow is different at different times of day.
+     - **Picture Study (5 minutes)**: Show the selected [image of the Huipil of Patzún](https://terradollclothes.com/cdn/shop/products/H-PA-13-05-05Patzun_Guatemala_Huipil_345x@2x.jpg?v=1609967370). Say, “Look at this for 2 minutes. Notice the patterns and colors.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “This is a Huipil from Patzún. It has designs that show the Mayan calendar. How do you think they use this today?”
      - **Coloring (10 minutes)**: Provide the calendar wheel from [`units/unit2/resources/mayan_calendar.svg`](../resources/mayan_calendar.svg) and crayons. Say, “Color this Maya calendar to see how they counted days!” Note its circular design.
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.

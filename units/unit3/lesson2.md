@@ -29,21 +29,20 @@ By the end of the lesson, the student will be able to:
 1. **Introduction (5 minutes)**:
    - **Objective**: Introduce colonial life and the craft activity.
    - **Procedure**:
-     - Recap Lesson 1: “The Spanish came and built towns. Today, we’ll see how people lived.”
+     - Recap Lesson 1: “When the Spanish came, they built towns. Today, we’ll see how people lived in these colonial towns.”
      - Say, “They made houses and churches with special windows. We’ll make one and write about their life!”
      - Show optional images of colonial windows if available.
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore colonial life through crafting, dictation, and discussion.
+2. **Main Activity (40 minutes)**:
+   - **Objective**: Explore colonial life through crafting, listening to an audio narration, and discussion.
    - **Procedure**:
-     - **Craft (15 minutes)**: Follow the craft guide: Cut a construction paper frame (6x8 inches), cut 4 panes, glue tissue paper behind for “glass,” decorate with markers. Discuss: “What might you see outside this window?”
-     - **Dictation (5 minutes)**:
-       - **Objective**: Practice spelling and reinforce historical content.
+     - **Listening (15 minutes)**:
+       - **Objective**: Practice listening and introduce historical content.
        - **Procedure**:
-         - Say, “Let’s write a sentence about colonial life.”
-         - Dictate the sentence: "The church bells rang." (English) or "Las campanas sonaron." (Spanish).
-         - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
-         - Check their spelling and praise their effort (e.g., “You wrote ‘bells’ perfectly!”).
-     - **Discussion (10 minutes)**: Talk about colonial life: “People walked on cobblestone streets and went to church when the bells rang.” Ask, “What do you think they did every day?”
+         - Follow the instructions to setup and listen to one or both of the following audio adaptations:
+            - [Simplified version of The English-American: a new survey of the West Indies, 1648](resources/A_new_survey_of_the_West_Indies_Simplified.md) — a vibrant and rich description of the geography of Santiago de los Caballeros (Antigua) and the brutality of life under Spanish colonial rule (**English**).
+            - [Simplified version of Breve descripcion de la noble ciudad de Santiago de los Caballeros de Guatemala](resources/Breve_descripcion_de_Santiago_de_los_Caballeros_Simplified.md) — a beautiful description of Santiago de los Caballeros (Antigua) and the Earthquake of 1773 (**Spanish**).
+      - **Discussion (10 minutes)**: Talk about colonial life:
+      - **Craft (15 minutes)**: Follow the craft guide: Cut a construction paper frame (6x8 inches), cut 4 panes, glue tissue paper behind for “glass,” decorate with markers. Discuss: “What might you see outside this window?”
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
@@ -77,10 +76,10 @@ By the end of the lesson, the student will be able to:
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (15 min craft, 5 min dictation, 10 min discussion)
+- Main Activity: 40 minutes (15 min craft, 5 min dictation, 10 min discussion)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 50 minutes (extended from 45 minutes to include dictation without cutting other sections)
+- Total: 60 minutes (extended from 45 minutes to include dictation without cutting other sections)
 
 ## Prerequisite Knowledge or Skills
 - **Student**: Basic cutting/gluing and writing skills (with help); Spanish arrival from Lesson 1.
