@@ -52,8 +52,8 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Summarize and preview the field trip.
    - **Procedure**:
      - Say, “Colonial life had new buildings and ways of living, like hearing church bells.”
-     - Preview, “Next, we’ll visit a real colonial church!”
-     - Add a window sketch to the timeline’s Colonial section.
+     - Preview, “Next, we’ll visit the [Iximché Ruins](field_trip.md) to see where the Maya lived during colonial times!”
+     - **Update Timeline**: Add a window sketch to the Colonial section with the student.
 
 ## Activities and Assessments
 - **Activities**:

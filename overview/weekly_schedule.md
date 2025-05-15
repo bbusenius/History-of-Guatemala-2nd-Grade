@@ -3,9 +3,9 @@
 | Week | Lesson 1                           | Lesson 2                           | Field Trip                         |
 |------|------------------------------------|------------------------------------|------------------------------------|
 | 1    | Introduction to Guatemala and the Maya | Daily Life of the Maya             | Visit to [Casa del Jade](https://casadeljade.com/mesoamerican-museum-of-jade/) (Mesoamerican Jade Museum) in Antigua Guatemala ([Google Maps](https://maps.app.goo.gl/bwwcsyMWYR9QdmKJ9)) |
-| 2    | Maya Achievements and Calendar     | Maya Art and Writing               | Iximché Ruins                      |
-| 3    | Spanish Arrival in Guatemala       | Colonial Government and Society    | Catedral de San José, Antigua      |
-| 4    | Colonial Architecture in Antigua   | Daily Life in Colonial Times       | La Merced Church, Antigua          |
+| 2    | Maya Achievements and Calendar     | Maya Art and Writing               | Casa K’ojom                        |
+| 3    | Spanish Arrival in Guatemala       | Colonial Government and Society    | Iximché Ruins                      |
+| 4    | Colonial Architecture in Antigua   | Daily Life in Colonial Times       | Museo Colonial and Catedral de San José |
 | 5    | Road to Independence               | Key Figures of Independence        | Museo del Libro Antiguo, Antigua   |
 | 6    | 20th Century Guatemala             | Modern Political Changes           | Local Market or Festival           |
 | 7    | Contemporary Guatemalan Culture    | Traditions and Festivals           | Artisan Workshop or Cultural Center|

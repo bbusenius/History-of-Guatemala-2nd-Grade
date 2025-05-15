@@ -1,132 +1,128 @@
-# Field Trip Plan: Unit 4 - Museo de Arte Colonial
+# Field Trip Plan: Unit 4 - Colonial Antigua: Museo Colonial and Catedral de San José
 
 ## Overview
-This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. It focuses on colonial architecture and life by visiting the Museo de Arte Colonial in Antigua, Guatemala, connecting Unit 4’s Lessons 1 and 2 to historical art and architecture. Using Charlotte Mason-inspired observation and narration, this optional 2-3 hour trip leverages the student’s proximity to San Juan del Obispo, requiring minimal preparation and offering a virtual alternative.
+This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. It focuses on colonial architecture and life by visiting two significant sites in Antigua, Guatemala: the Museo Colonial and the Catedral de San José. This trip connects Unit 3’s Lessons 1 and 2 (Spanish arrival and colonial life) and Unit 4’s Lessons 1 and 2 (colonial architecture and daily life) to historical art and architecture, using Charlotte Mason-inspired observation and narration. Designed as an optional 3-5 hour trip (depending on sites visited), it leverages the student’s proximity to San Juan del Obispo, requiring minimal preparation and offering a virtual alternative.
 
 ## Alignment with Educational Standards
 This curriculum adheres to homeschool requirements and Charlotte Mason’s philosophy, not following Common Core State Standards. The field trip supports educational goals by:
-- Reinforcing historical understanding through observation of colonial art and architecture.
+- Reinforcing historical understanding through observation of colonial art and architecture at two distinct sites.
 - Encouraging narrative skills via post-trip discussion, a Charlotte Mason focus.
 - Integrating art through sketching, supporting cross-subject goals (art).
 - Promoting cultural appreciation by connecting to Guatemala’s colonial heritage.
 
 ## Learning Objectives
 By the end of the field trip, the student will be able to:
-1. Identify at least one colonial art piece or architectural feature (e.g., painting, arch).
-2. Connect the museum visit to Lessons 1-2 about colonial architecture and daily life.
-3. Sketch one art piece or feature to demonstrate engagement with the site.
+1. Identify at least one colonial art piece or architectural feature (e.g., painting, arch) at the Museo Colonial.
+2. Recognize key features of colonial architecture (e.g., arches, bell towers) at the Catedral de San José.
+3. Connect the museum and cathedral visits to Unit 3 and Unit 4 lessons about Spanish arrival, colonial architecture, and daily life.
+4. Sketch one art piece or architectural feature from one or both sites to demonstrate engagement with the historical context.
 
 ## Materials and Resources Required
 - **Essentials**: Water, snacks, comfortable clothing/shoes, transportation to Antigua (~15-30 minutes from San Juan del Obispo by bus or car).
 - **Activity Materials**: Sketchbook (or plain paper), pencils, crayons (household items or ~$2-$5 if purchased).
 - **Parent Guide**: Reference `overview/parent_guide.md` for safety and engagement tips (provided in curriculum).
-- **Optional**: Camera/smartphone for photos (to aid narration), magnifying glass for art details.
-- **Accessibility**: Entry fee is 8Q for Guatemalan citizens, 50Q for foreigners (verify current rates); materials are low-cost; transportation costs vary (e.g., bus fare ~$1-$2 round trip).
+- **Optional**: Camera/smartphone for photos (to aid narration), magnifying glass or binoculars for art and architectural details.
+- **Accessibility**: Low-cost materials; entry fees for Museo Colonial (~$3-$5, verify current rates) and Catedral de San José (free or small donation ~$1-$2, verify); transportation costs vary (e.g., bus fare ~$1-$2).
 
 ## Step-by-Step Instructional Procedures
-1. **Preparation (15-30 minutes, before departure)**:
-   - **Objective**: Ensure readiness for a safe and educational trip.
+1. **Preparation (30-45 minutes, before departure)**:
+   - **Objective**: Ensure readiness for a safe, educational trip.
    - **Procedure**:
-     - Review this plan and explain the purpose: “We’re visiting a museum to see art and buildings from when the Spanish lived here.”
-     - Gather materials (sketchbook, pencils, water, snacks) and pack in a small bag.
-     - Check museum hours (Tuesday-Sunday, 9:00 AM - 4:00 PM, closed 12:00 PM - 2:00 PM on weekends) and plan transportation (~15-30 minutes by bus or car).
-2. **Arrival and Orientation (10-15 minutes)**:
-   - **Objective**: Familiarize the student with the museum.
+     - Review this plan and say, “We’re visiting the Museo Colonial and Catedral de San José in Antigua to see how people lived during colonial times!”
+     - Decide which site(s) to visit based on time: Museo Colonial only (~2-3 hours total), Catedral only (~1.5-2 hours), or both (~3-5 hours).
+     - Pack essentials and activity materials.
+     - Plan transportation; check current site hours (Museo Colonial: typically 9 AM - 5 PM, verify; Catedral: typically 9 AM - 5 PM, verify).
+2. **Arrival and Orientation (10-15 minutes per site)**:
+   - **Objective**: Familiarize the student with the site(s).
+   - **Procedure for Museo Colonial**:
+     - Arrive at the museum; point out the entrance: “This museum has old art from colonial times.”
+     - Say, “Let’s look at paintings or objects and draw something you like.”
+   - **Procedure for Catedral de San José**:
+     - Arrive at the cathedral; point out features: “Look at the big doors and tower!”
+     - Say, “This is from colonial times. We’ll draw something you like.”
+3. **Exploration and Activity (1-2 hours per site)**:
+   - **Objective**: Engage with the site(s) and sketch.
+   - **Procedure for Museo Colonial**:
+     - Explore exhibits, focusing on paintings, sculptures, or artifacts; read or summarize key placards if possible.
+     - Ask, “What do you think this art shows about colonial life?” (e.g., “People praying” or “Old clothes”).
+     - Sketch one piece (e.g., a painting) in 15-20 minutes; encourage simple lines/colors.
+   - **Procedure for Catedral de San José**:
+     - Explore the facade, towers, and interior (if open), noting details (e.g., arches).
+     - Ask, “What do you think this was used for?” (e.g., “Church for praying”).
+     - Sketch one feature (e.g., a window) in 15-20 minutes; encourage simple lines/colors.
+   - Allow free exploration if time remains at either site.
+4. **Wrap-Up and Departure (15 minutes per site)**:
+   - **Objective**: Reflect and prepare to leave.
    - **Procedure**:
-     - Arrive at Museo de Arte Colonial and locate the main exhibit area or guided tour start.
-     - Provide a brief overview: “This museum has paintings and sculptures from the colonial times, and the building was a university long ago.”
-     - Set expectations: “We’ll look at the art and draw one thing you like.”
-3. **Exploration and Activity (1-2 hours)**:
-   - **Objective**: Engage with the museum and complete the sketching activity.
-   - **Procedure**:
-     - Guide the student through exhibits, focusing on paintings (e.g., Passion of Christ by Tomás de Merlo) or architectural features (e.g., cloisters).
-     - Encourage observation: “What do you see in this painting? What does the building’s arch look like?”
-     - Supervise the sketching activity: Choose one art piece or feature to draw, noting details (e.g., “It’s a saint with a gold frame”). Allow 15-20 minutes for sketching.
-     - Explore additional exhibits if time permits, noting interesting finds for discussion.
-4. **Wrap-Up and Departure (15-30 minutes)**:
-   - **Objective**: Reflect briefly and prepare to leave.
-   - **Procedure**:
-     - Review the sketch and ask, “What did you learn about colonial art or buildings today?”
-     - Discuss one observation (e.g., “This painting tells a story about Jesus”).
-     - Depart the museum, ensuring all belongings are collected.
+     - Review the sketch(es): “What did you draw? Why?”
+     - Ask, “What did you learn about colonial times?”
+     - Ensure all belongings are collected and depart.
 
 ## Activities and Assessments
-- **Activity**:
-  - Sketch one colonial art piece (e.g., painting, sculpture) or architectural feature (e.g., arch, cloister), noting its features (e.g., “It’s colorful with a gold frame”). Takes 15-20 minutes during exploration.
-- **Formative Assessment**:
-  - Observe engagement during sketching (e.g., focus, curiosity about exhibits).
-  - Listen to initial reflections at wrap-up (e.g., “What did you see?”) to gauge understanding of colonial art or architecture.
-- **Summative Assessment**:
-  - Use the sketch and “Post-Trip Discussion” questions at home to assess recall and connection to Unit 4 lessons.
-  - Collect the sketch for the portfolio, evaluating participation and comprehension informally (no rubric; based on effort).
+- **Activity**: Sketch one feature or art piece from each visited site (e.g., painting at Museo Colonial; window or tower at Catedral) in 15-20 minutes per sketch, noting its use (e.g., “For decoration” or “For bells”).
+- **Formative Assessment**: Observe engagement during exploration; listen to responses to questions (e.g., “What did you see?”).
+- **Summative Assessment**: Collect sketch(es) for the portfolio; use post-trip discussion to informally assess recall and connection to Unit 3 and Unit 4 lessons.
 
 ## Differentiation Strategies
-- **Advanced Learners**:
-  - Sketch multiple features or add a short note (e.g., “This painting is about a saint”).
-  - Encourage detailed observations (e.g., “What do you think this art was used for?”).
-- **Struggling Learners**:
-  - Simplify to sketching basic shapes (e.g., a frame or arch outline); use a camera to capture instead, discussing later.
-- **Kinesthetic Learners**:
-  - Encourage pointing to features or mimicking poses in sculptures.
-- **Visual Learners**:
-  - Use photos taken during the trip or a magnifying glass to focus on art details.
+- **Advanced Learners**: Sketch multiple features or add written notes (e.g., “This painting shows a saint”).
+- **Struggling Learners**: Draw basic shapes (e.g., a square window or circle for art); use a camera if sketching is challenging.
+- **Kinesthetic Learners**: Point to or touch features (if permitted) while exploring.
+- **Visual Learners**: Use photos or magnifying glass/binoculars to focus on details.
 
 ## Time Estimates
-- Preparation: 15-30 minutes (before departure)
-- Arrival and Orientation: 10-15 minutes
-- Exploration and Activity: 1-2 hours
-- Wrap-Up and Departure: 15-30 minutes
-- Total: 2-3 hours (flexible based on parent’s schedule)
+- Preparation: 30-45 minutes
+- Arrival/Orientation: 10-15 minutes per site
+- Exploration/Activity: 1-2 hours per site
+- Wrap-Up/Departure: 15 minutes per site
+- Total: 3-5 hours (flexible, depending on sites visited)
 
 ## Prerequisite Knowledge or Skills
-- **Student**: Basic observation and drawing skills (developed in prior units); familiarity with colonial history from Unit 4, Lessons 1-2.
-- **Parent**: Ability to plan logistics (e.g., transportation, timing); basic facilitation skills (e.g., guiding observation, prompting questions).
+- **Student**: Basic drawing skills; familiarity with Unit 3 (Spanish arrival, colonial life) and Unit 4 (colonial architecture, daily life) lessons.
+- **Parent**: Logistics planning; basic facilitation skills for guiding observation.
 
 ## Parental Involvement
-- **Preparation**: Review this plan, gather materials, and arrange transportation to Antigua (e.g., bus or car).
-- **Facilitation**: Accompany the student, guide them through exhibits, and assist with sketching (e.g., holding the sketchbook).
-- **Engagement**: Co-learn by discussing observations (e.g., “What story does this painting tell?”).
-- **Follow-Up**: Conduct the post-trip discussion at home and store the sketch in the student’s portfolio.
+- **Preparation**: Plan transport to Antigua and pack materials.
+- **Facilitation**: Guide exploration at each site, assist with sketching, prompt questions (e.g., “What do you see?”).
+- **Engagement**: Discuss observations during exploration (e.g., “What’s different from our house?”).
+- **Follow-Up**: Conduct post-trip discussion; store sketch(es) in portfolio.
 
 ## Accommodations
-- **Visual Needs**: Describe art aloud; use a magnifying glass for small details.
-- **Motor Challenges**: Assist with sketching (e.g., trace outlines) or use a camera instead.
-- **Attention Span**: Shorten the visit to 1 hour or take a snack break midway.
-- **Language Support**: Use bilingual terms (e.g., “pintura/painting,” “museo/museum”) to reinforce learning.
+- **Visual Needs**: Describe art or architecture aloud; use magnifying tools if available.
+- **Motor Challenges**: Assist with sketching or take photos instead.
+- **Attention Span**: Shorten visit per site to 1 hour with breaks.
+- **Language Support**: Use bilingual terms if needed (e.g., “museo/museum,” “catedral/cathedral”).
 
 ## Assumptions and Limitations
-- Assumes transportation from San Juan del Obispo to Antigua is feasible (~15-30 minutes); adjust logistics if further.
-- Assumes museum accessibility; parents must verify hours and fees in advance.
-- Assumes access to basic materials; borrow from a library or use scrap paper if needed.
-- Not wheelchair-accessible; contact museum for accommodations if needed.
-- Weather or traffic may affect travel; the virtual alternative mitigates this.
+- Assumes travel feasibility (~15-30 minutes to Antigua); adjust plans if further.
+- Assumes site access; verify current hours and entry fees.
+- Weather may affect outdoor time at Catedral; indoor focus at Museo Colonial as backup.
 
 ## Location Details
-- **Name**: Museo de Arte Colonial
-- **Address**: 5a Calle Oriente #5, Antigua Guatemala
-- **Opening Hours**: Tuesday-Sunday, 9:00 AM - 4:00 PM (closed 12:00 PM - 2:00 PM on weekends; verify current hours)
-- **Cost**: 8Q for Guatemalan citizens, 50Q for foreigners (verify current rates)
+- **Name**: Museo Colonial
+- **Address**: 5a Calle Oriente #5, Antigua Guatemala (near central plaza)
+- **Opening Hours**: Typically 9 AM - 5 PM (verify current hours)
+- **Cost**: ~$3-$5 (verify current rates)
+- **Name**: Catedral de San José
+- **Address**: 5a Calle Oriente, Antigua Guatemala
+- **Opening Hours**: Typically 9 AM - 5 PM (verify current hours)
+- **Cost**: Free or small donation (~$1-$2)
 
 ## What to See
-- Colonial paintings (e.g., Passion of Christ by Tomás de Merlo).
-- Wooden sculptures of saints and religious figures, showcasing baroque antigüeño style.
-- Architectural features like cloisters from the former University of San Carlos.
-- Educational displays on colonial life and art.
+- **Museo Colonial**: Colonial paintings, sculptures, artifacts showcasing religious and daily life themes.
+- **Catedral de San José**: Main facade with arches and sculptures, bell towers, dome, interior altars/artwork (if accessible).
 
 ## Activity
-- Sketch one colonial art piece or architectural feature, noting its features (e.g., “It’s a painting with bright colors”). Takes 15-20 minutes during exploration.
+- Sketch one feature or art piece from each visited site (e.g., painting or sculpture at Museo Colonial; window or door at Catedral) in 15-20 minutes per sketch, noting its purpose (e.g., “For decoration” or “For looking out”).
 
 ## Logistical Information
-- Travel from San Juan del Obispo to Antigua by bus or car (~15-30 minutes).
-- Parking available near the museum if driving; buses stop within a short walk.
-- Museum is across from Central Park, easily accessible on foot in Antigua.
-- Bring comfortable shoes for walking; snacks for breaks if needed.
+- Travel from San Juan del Obispo to Antigua (~15-30 minutes by bus/car).
+- Parking nearby if driving; bus stops within walking distance to both sites.
+- Bring sun protection for outdoor time at Catedral; Museo Colonial is indoors.
 
 ## Virtual Alternative
-- If unable to visit, explore online colonial art galleries (e.g., search “Guatemala colonial art” on museum websites like the British Museum or Google Arts & Culture) or view images of baroque antigüeño sculptures.
-- Have the student sketch an art piece from the screen or printouts, discussing its features.
+- Use online tours or images for Museo Colonial and Catedral de San José (e.g., search “Museo Colonial Antigua virtual tour” or “Catedral de San José Antigua virtual tour”); sketch from screen or printouts.
 
 ## Post-Trip Discussion
-- What was your favorite painting or building part? Why?
-- What story does this art tell about colonial times?
-- What did you learn about how people lived during the colonial period?
+- What was your favorite art or building part today?
+- How do these places show life in colonial times?
+- What did you learn about Guatemala’s history from this trip?

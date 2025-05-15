@@ -52,11 +52,11 @@ By the end of the lesson, the student will be able to:
      - Prompt, “What was life like in the story?” or “Who might wear your hat and why?”
      - Encourage links to the story (e.g., “They went to the plaza”). Note a key idea (e.g., “The plaza was busy”) for the portfolio.
 4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview field trip.
+   - **Objective**: Summarize and preview the field trip.
    - **Procedure**:
-     - Say, “Colonial life was busy with markets and building churches.”
-     - Preview, “Next, we’ll visit a colonial church in Antigua!”
-     - Add a hat sketch to the timeline’s Colonial section.
+     - Say, “Guatemala became independent, but colonial art and buildings are still here.”
+     - Preview, “Soon, we’ll visit [Museo Colonial and Catedral de San José](field_trip.md) to see colonial art and architecture up close!”
+     - **Update Timeline**: Add a flag to the Independence section with the student.
 
 ## Activities and Assessments
 - **Activities**:

@@ -44,7 +44,7 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Summarize and preview field trip.
    - **Procedure**:
      - Say, “The peace accords in 1996 made Guatemala happier.”
-     - Preview, “Next, we’ll visit a market to see today’s Guatemala!”
+     - Preview, “Next, we’ll visit a [local market](field_trip.md) to see today’s Guatemala!”
      - Add a dove drawing to the timeline’s Modern section.
 
 ## Activities and Assessments

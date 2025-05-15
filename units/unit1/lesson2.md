@@ -86,8 +86,8 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Summarize and preview the field trip.
    - **Procedure**:
      - Say, “Today, we learned how the Maya lived with corn, masks, and special things like this picture!”
-     - Preview, “Next, we’ll visit the [Casa del Jade Mesoamerican Jade Museum](field_trip.md) in Antigua Guatemala to see real Maya stuff!”
-     - **Update timeline**: Add a mask or artifact sketch to the timeline’s Pre-Columbian section with the student.
+     - Preview, “Soon, we’ll take a [field trip to Casa del Jade](field_trip.md) to see real Maya jade artifacts!”
+     - **Update Timeline**: Add a mask to the Pre-Columbian section with the student.
 
 ## Activities and Assessments
 - **Activities**:

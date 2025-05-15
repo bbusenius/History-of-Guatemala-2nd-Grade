@@ -54,8 +54,8 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Summarize and preview field trip.
    - **Procedure**:
      - Say, “Mariano helped Guatemala after it became free, making it a better place.”
-     - Preview, “Next, we’ll visit a museum to see more about independence!”
-     - Add the doll or a sketch to the timeline’s Independence section.
+     - Preview, “Soon, we’ll visit the [Museo del Libro Antiguo](field_trip.md) to see old books from independence times!”
+     - **Update Timeline**: Add a hat drawing to the Independence section with the student.
 
 ## Activities and Assessments
 - **Activities**:
