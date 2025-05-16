@@ -4,7 +4,7 @@
 This lesson explores daily life in colonial Antigua, Guatemala, for a 7-year-old 2nd-grade student within a 10-week homeschool curriculum. Through storytelling with "A Day in Colonial Antigua," a dictation exercise, and crafting a colonial hat, the student will learn about routines, markets, and society during the colonial period. Aligned with Charlotte Mason-inspired methods—narration, living stories, and hands-on activities—it connects to the student’s context near Antigua from San Juan del Obispo, building on Lesson 1’s architecture focus and enhancing spelling through dictation.
 
 ## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses "A Day in Colonial Antigua" as a narrative-driven story to bring history to life, adhering to Charlotte Mason’s emphasis on engaging texts.
+- **Living Books**: Uses [A Day in Colonial Antigua](resources/colonial_life_story.md) as a narrative-driven story to bring history to life, adhering to Charlotte Mason’s emphasis on engaging texts.
 - **Narration**: Encourages retelling of the story, enhancing comprehension and oral skills.
 - **Short Lessons**: Limits storytelling to 10 minutes and dictation to 5 minutes to maintain focus.
 - **Hands-On**: Incorporates a craft to connect kinesthetic learning with historical context.
@@ -18,8 +18,8 @@ By the end of the lesson, the student will be able to:
 4. Narrate a scene from the story or hat’s imagined use, linking to colonial society.
 
 ## Materials and Resources Required
-- **Story**: "A Day in Colonial Antigua" (from `units/unit4/resources/colonial_life_story.md`; print or read from a device).
-- **Dictation Sentence**: "The plaza was busy." (English) or "La plaza estaba ocupada." (Spanish), derived from "A Day in Colonial Antigua."
+- **Story**: [A Day in Colonial Antigua](resources/colonial_life_story.md) from `units/unit4/resources/colonial_life_story.md`; read to the child or play using a text to voice application.
+- **Dictation Sentence**: "Ana lived in a stone house in the city’s center. Its walls were painted white, and a wooden cross hung above the door."
 - **Craft Supplies**: Construction paper (brown or black for authenticity), scissors, glue or tape, markers (household or ~$5-$10 total).
 - **Craft Instructions**: From `units/unit4/resources/colonial_craft.md` (provided in curriculum).
 - **Paper and Pencil**: For dictation exercise (household items).
@@ -37,15 +37,15 @@ By the end of the lesson, the student will be able to:
 2. **Main Activity (30 minutes)**:
    - **Objective**: Explore colonial life through story, dictation, and craft.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "A Day in Colonial Antigua" aloud with enthusiasm. Ask, “What did Lucia do at the plaza?” to connect to daily life.
+     - **Storytelling (10 minutes)**: Read [A Day in Colonial Antigua](resources/colonial_life_story.md) aloud with enthusiasm. Ask, “What did Ana see on her way to the market?” to connect to daily life.
      - **Dictation (5 minutes)**:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
-         - Say, “Let’s write a sentence from Lucia’s story.”
-         - Dictate the sentence: "The plaza was busy." (English) or "La plaza estaba ocupada." (Spanish).
+         - Say, “Let’s write a sentence from Ana’s story.”
+         - Dictate the sentence: "Ana lived in a stone house in the city’s center. Its walls were painted white, and a wooden cross hung above the door."
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
-         - Check their spelling and praise their effort (e.g., “You got ‘plaza’ right!”).
-     - **Craft (15 minutes)**: Follow the craft guide: Cut a paper strip and circle, assemble into a tricorn hat, decorate with markers. Discuss, “Who might wear this hat in Lucia’s town?”
+         - Check their spelling and praise their effort (e.g., “You got ‘Ana’ right!”).
+     - **Craft (15 minutes)**: Follow the craft guide: Cut a paper strip and circle, assemble into a tricorn hat, decorate with markers. Discuss, “Who might wear this hat in Ana’s town?”
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
