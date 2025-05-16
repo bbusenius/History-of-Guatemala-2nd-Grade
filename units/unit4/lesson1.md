@@ -18,7 +18,7 @@ By the end of the lesson, the student will be able to:
 4. Narrate one architectural feature (e.g., arches, bell towers) or painting observation.
 
 ## Materials and Resources Required
-- **Map**: Printable or hand-drawn map of colonial Antigua (from `units/unit4/resources/colonial_antigua_map.md`; instructions for sourcing or drawing provided).
+- **Map**: Printable or hand-drawn map of colonial Antigua from [units/unit4/resources/colonial_antigua_map.md](resources/colonial_antigua_map.md); instructions for sourcing or drawing provided. [Possible option](https://c7.alamy.com/comp/PE1Y7K/antigua-guatemala-location-map-PE1Y7K.jpg)
 - **Picture Study Image**: A high-quality image of a colonial painting, such as "View of Antigua" by an 18th-century artist from the Museo de Arte Colonial collection. Source online via museum websites (e.g., search “Museo de Arte Colonial Antigua Guatemala paintings” on Google Arts & Culture, https://artsandculture.google.com) or use a free, high-resolution image labeled for reuse (e.g., via Wikimedia Commons).
 - **Crayons or Markers**: For coloring or labeling the map (household items or ~$2-$5).
 - **Paper and Pencil**: For noting narration observations if desired (household items).
@@ -29,26 +29,53 @@ By the end of the lesson, the student will be able to:
 1. **Introduction (5 minutes)**:
    - **Objective**: Introduce colonial architecture and engage interest.
    - **Procedure**:
-     - Recap Unit 3: “The Spanish came and built towns. Today, we’ll explore their buildings in Antigua!”
-     - Say, “They made big churches and houses with special designs. Let’s find them on a map and look at a painting!”
-     - Show the map and briefly point to key areas (e.g., “Here’s where the cathedral is”).
-2. **Main Activity (25 minutes)**:
-   - **Objective**: Explore architecture through mapping, picture study, and discussion.
+     - Recap Unit 3: "The Spanish came and built towns. Today, we'll explore their buildings in Antigua!"
+     - Say, "They made big churches and houses with special designs. Let's find them on a map and look at a painting!"
+     - Show the map and briefly point to key areas (e.g., "Here's where the cathedral is").
+
+2. **Main Activity (35 minutes)**:
+   - **Objective**: Explore Spanish Colonial architecture through discussion, mapping, and picture study.
    - **Procedure**:
-     - **Mapping (15 minutes)**: Provide the map and crayons. Guide the student to color or label the Catedral de San José, La Merced Church, and central plaza (e.g., “Make the cathedral yellow!”). Ask, “What do you think these buildings were used for?”
-     - **Picture Study (5 minutes)**: Show the colonial painting image. Say, “Look at this picture for 2 minutes. Notice the colors and shapes.” After 2 minutes, cover the image and ask, “What did you see? What shapes or colors do you remember?” Then, uncover it and discuss: “What buildings do you see? How do they look different from today?”
-     - **Discussion (5 minutes)**: Connect the painting to the map. Ask, “How are these buildings like the ones on your map?” or “What makes them look old?” Suggest features like arches or towers.
-3. **Narration (10 minutes)**:
+     - **Exploring Spanish Colonial Architecture (15 minutes)**:
+       - Open the [Spanish Colonial Architecture Guide](resources/spanish_colonial_architecture.md) on a device or print it out.
+       - Go through the main characteristics together, focusing on features they might see in Antigua:
+         - Thick white stucco walls
+         - Red clay roof tiles
+         - Arches over doors and windows
+         - Central courtyards
+         - Bell towers
+       - Show examples from the document and ask questions like:
+         - "Have you seen any of these features in Antigua?"
+         - "Why do you think they used these designs?" (e.g., thick walls keep buildings cool)
+           - [Arco de Catalina](https://www.guatevalley.com/photo/photo_a1/1309/ptNHhvwq4BjV56mFb7rp.jpg)
+           - [Palacio De Los Capitans](https://thumbs.dreamstime.com/b/located-main-square-antigua-s-old-town-corner-perspective-dual-vansishing-points-baroque-colonial-architecture-style-today-houses-29940690.jpg)
+           - [Catedral de San José](https://image-tc.galaxy.tf/wijpeg-4nydsfuiu36187v5cfcx1wy8q/catedral_standard.jpg?crop=57%2C0%2C911%2C683)
+           - [Casa tipica](https://realestateinantigua.net/wp-content/uploads/2024/07/Opera-33-scaled.jpeg)
+           - [Iglesia de San Juan del Obispo](https://i0.wp.com/antiguadailyphoto.com/wp-content/uploads/2014/08/p671950599-5.jpg?fit=1100%2C733&ssl=1)
+           - [Iglesia de la Merced](https://duckduckgo.com/?q=iglesia+la+merced+antigua+guatemala&t=brave&iar=images&iai=https%3A%2F%2Fwww.guatemala.com%2Ffotos%2F201510%2FMerced-885x500.jpg)
+       - Point out that many buildings in Antigua have these special Spanish Colonial features.
+
+     - **Mapping (15 minutes)**: 
+       - Provide [the map](https://c7.alamy.com/comp/PE1Y7K/antigua-guatemala-location-map-PE1Y7K.jpg) and crayons. Guide the student to color or label the Catedral de San José, La Merced Church, and central plaza.
+       - Ask, "What Spanish Colonial features do you think these buildings have? Let's look for them on the map!"
+     
+     - **Picture Study (5 minutes)**: 
+       - Show the colonial painting image: [The Last Judgement](https://maps.app.goo.gl/hjV2X82wC666FdNy6)
+       - Say, "Now let's look at this colonial painting. 
+       - After 2 minutes of observation, discuss: "What did you see?"
+
+4. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
-     - Prompt, “Tell me about the buildings on your map or what you saw in the picture.”
-     - Listen for details (e.g., “The church has a tower” or “The painting had red roofs”) and note a key idea for the portfolio (e.g., “The cathedral is big”).
-4. **Closing (5 minutes)**:
+     - Prompt, "Tell me about the Spanish Colonial buildings we learned about today. What features make them special?"
+     - Encourage them to mention specific features from the guide and where they saw them (on the map, in the painting, or in real life if they've visited Antigua).
+
+5. **Closing (5 minutes)**:
    - **Objective**: Summarize and preview next lesson.
    - **Procedure**:
-     - Say, “These buildings and paintings show how the Spanish lived in Antigua long ago.”
-     - Preview, “Next, we’ll learn about life inside this town!”
-     - Add a building sketch (e.g., cathedral) to the timeline’s Colonial section.
+     - Say, "Today we learned that Spanish Colonial buildings have special features like thick white walls, red tile roofs, and beautiful arches. These buildings help tell the story of Antigua's history."
+     - Preview, "Next, we'll learn about life inside this town!"
+     - Add a building sketch (e.g., cathedral) to the timeline's Colonial section.
 
 ## Activities and Assessments
 - **Activities**:
@@ -71,10 +98,10 @@ By the end of the lesson, the student will be able to:
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 25 minutes (15 min mapping, 5 min picture study, 5 min discussion)
+- Main Activity: 35 minutes (15 min architecture exploration, 15 min mapping, 5 min picture study and discussion)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 45 minutes
+- Total: 55 minutes
 
 ## Prerequisite Knowledge or Skills
 - **Student**: Basic coloring and labeling skills; familiarity with Spanish arrival from Unit 3.
