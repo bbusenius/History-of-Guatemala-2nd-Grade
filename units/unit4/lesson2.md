@@ -45,7 +45,7 @@ By the end of the lesson, the student will be able to:
          - Dictate the sentence: "Ana lived in a stone house in the city’s center. Its walls were painted white, and a wooden cross hung above the door."
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
          - Check their spelling and praise their effort (e.g., “You got ‘Ana’ right!”).
-     - **Craft (15 minutes)**: Follow the craft guide: Cut a paper strip and circle, assemble into a tricorn hat, decorate with markers. Discuss, “Who might wear this hat in Ana’s town?”
+     - **Craft (15 minutes)**: Follow [the craft guide](resources/colonial_craft.md): Cut a paper strip and circle, assemble into a tricorn hat, decorate with markers. Discuss, “Who might wear this hat in Ana’s town?”
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
