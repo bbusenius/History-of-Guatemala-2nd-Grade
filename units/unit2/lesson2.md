@@ -39,9 +39,10 @@ By the end of this lesson, the student will:
    - Then uncover it and discuss: "This is the Madrid Codex, one of the few surviving Maya books. It was produced in Yucatan, Mexico, and shows their stories with glyphs."
 
 3. **Reading from Living Book (10 minutes)**:
-   - **Read Chapter 2**: *The Milpa* from *The Corn Grows Ripe* by Dorothy Rhoads.
+   - **Read Chapter 2**: *The Milpa* from *The Corn Grows Ripe* by Dorothy Rhoads from the [Open Library](https://openlibrary.org/books/OL6203478M/The_corn_grows_ripe.)
    - Focus on the part where Tigre sees an old temple and partially digs up a figure. Ask: "What did Tigre find? Could this figure have been part of a codex or another Maya artifact with writing on it?"
    - Tie this to the lesson by saying: "The Maya left behind many objects with their art and writing, like codices, which tell us about their lives."
+     - Show [pictures of partially exposed Maya ruins](https://duckduckgo.com/?q=maya+temple+partially+exposed&t=brave&iar=images) that might look like the temple that Tigre saw on his father's land.
 
 4. **Copywork (5 minutes)**:
    - Provide the copywork paragraph from *The Corn Grows Ripe* (in English or Spanish, depending on the student’s preference).
@@ -52,7 +53,7 @@ By the end of this lesson, the student will:
    - Fold the paper accordion-style into 4-6 panels.
    - Draw Maya-inspired scenes (e.g., jaguars, stars) or simple glyphs on each panel.
    - Encourage a short story: "What could your codex be about?"
-   - Pull up images of codices and glyphs to show the student while he or she works.
+   - Pull up [images of codices and glyphs](https://duckduckgo.com/?q=mayan+glyph&t=brave&iar=images) to show the student while he or she works.
 
 6. **Narration (5 minutes)**:
    - Ask: "What does your codex show?" or "Tell me your story."
