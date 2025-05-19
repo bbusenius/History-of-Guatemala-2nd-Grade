@@ -56,11 +56,11 @@ This lesson explores the encounter between Pedro de Alvarado, a Spanish conquist
     - Pause every 5-10 minutes to ask, “What’s happening now?” or “What do you think the Maya saw?”
     - Summarize if needed: “This video shows how Pedro de Alvarado and his men took over parts of Guatemala.”
 5. **Reading: Spanish Perspective (10 minutes)**:
-    - Read a short, simplified excerpt from *On the Province and Kingdom of Guatemala* (pages 38-43) by Bartolomé de las Casas.
+    - Read [a short, simplified excerpt](resources/Bartolome_de_las_Casas_Simplified.md) from *On the Province and Kingdom of Guatemala* from [An account, much abbreviated, of the destruction of the Indies, with related texts](https://openlibrary.org/works/OL957329W/An_account_much_abbreviated_of_the_destruction_of_the_Indies_with_related_texts) by Bartolomé de las Casas (pages 38-43)
     - Say, “Bartolomé de las Casas was a Spanish priest who wrote about what the Spanish did. He said they were often harsh to the Maya.”
     - Example paraphrase: “The Spanish came with swords and horses, and many Maya people were scared or hurt.”
 6. **Reading: Maya Perspective (10 minutes)**:
-    - Read a simplified excerpt from "Título C'oyoi" (pages 301-304, emphasis on page 39).
+    - Read excerpt from "Título C'oyoi" in *Quichean civilization: the ethnohistoric, ethnographic, and archaeological sources* by Robert M. Carmack (pages 301-304) [Open Library](https://openlibrary.org/books/OL5704779M/Quichean_civilization)
     - Start with, “Tecun Uman was a Maya leader and the grandson of a great king named K'iq'ab'. He wanted to protect his people.”
     - Focus on page 39: “One day, Pedro de Alvarado and Tecun Uman fought. Tecun Uman was very brave, but Pedro killed him in battle.”
     - Emphasize, “This story comes from the Maya, so we hear how they saw it.”
