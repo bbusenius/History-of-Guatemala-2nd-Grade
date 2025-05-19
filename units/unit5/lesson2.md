@@ -1,12 +1,13 @@
 # Lesson Plan: Unit 5, Lesson 2 - Key Figures of Independence
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to key figures of Guatemala’s independence, focusing on Mariano Gálvez, within a 10-week homeschool curriculum. Through a biography from "Mariano Gálvez, A Hero of Freedom," a dictation exercise, and a paper doll craft, the student will learn about Gálvez’s role and contributions to Guatemala’s early independence era. Designed with Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it’s engaging and connects to the student’s context in San Juan del Obispo, fostering appreciation for historical figures and building on Lesson 1’s independence foundation.
+This lesson introduces a 7-year-old 2nd-grade student to key figures of Guatemala’s independence, focusing on Mariano Gálvez, within a 10-week homeschool curriculum. Through a biography from "Mariano Gálvez, A Hero of Freedom," a dictation exercise, a composer study with "Chichicastenango" by Paco Pérez, and a paper doll craft, the student will learn about Gálvez’s role and contributions to Guatemala’s early independence era. Designed with Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it’s engaging and connects to the student’s context in San Juan del Obispo, fostering appreciation for historical figures and building on Lesson 1’s independence foundation.
 
 ## Alignment with Charlotte Mason Guidelines
 - **Living Books**: Uses "Mariano Gálvez, A Hero of Freedom" as a narrative-driven biography to bring history to life, adhering to Charlotte Mason’s emphasis on authentic, engaging texts.
 - **Narration**: Encourages oral retelling of Gálvez’s story to enhance memory and comprehension.
-- **Short Lessons**: Limits storytelling to 10 minutes and dictation to 5 minutes to suit a young learner’s attention span.
+- **Short Lessons**: Limits activities to 5-10 minute segments to suit a young learner’s attention span.
+- **Composer Study**: Introduces traditional Guatemalan music as a source of national pride.
 - **Hands-On**: Includes a paper doll craft to visualize Gálvez, supporting kinesthetic learning.
 - **Dictation**: Incorporates a dictation exercise to practice spelling and reinforce historical content, aligning with Charlotte Mason’s method of connecting writing to meaningful material.
 
@@ -14,12 +15,14 @@ This lesson introduces a 7-year-old 2nd-grade student to key figures of Guatemal
 By the end of the lesson, the student will be able to:
 1. Identify Mariano Gálvez as a key figure in Guatemala’s independence.
 2. Retell elements of Gálvez’s story in their own words.
-3. Write a dictated sentence about independence with correct spelling.
-4. Create a paper doll of Gálvez to demonstrate understanding of his role.
+3. Experience and respond to traditional Guatemalan music.
+4. Write a dictated sentence about independence with correct spelling.
+5. Create a paper doll of Gálvez to demonstrate understanding of his role.
 
 ## Materials and Resources Required
 - **Biography**: "Mariano Gálvez, A Hero of Freedom" (from `units/unit5/resources/a_hero_of_freedom.md`; print or read from a device).
 - **Dictation Sentence**: "Mariano helped Guatemala." (English) or "Mariano ayudó a Guatemala." (Spanish), derived from "Mariano Gálvez, A Hero of Freedom."
+- **Music for Composer Study**: [Chichicastenango](https://www.youtube.com/watch?v=Fb5528scfXU) by Paco Pérez, a traditional Guatemalan marimba piece (available on YouTube or other music platforms).
 - **Craft Supplies**: Paper (standard 8.5x11, household item), scissors (household; adult supervision required), markers (household or ~$2-$5), glue (household or ~$1).
 - **Paper and Pencil**: For dictation exercise (household items).
 - **Optional Visuals**: Image of Mariano Gálvez (e.g., search “Mariano Gálvez Guatemala” online; free printable resources).
@@ -33,10 +36,16 @@ By the end of the lesson, the student will be able to:
      - Recap Lesson 1: “Guatemala became free in 1821. Today, we’ll meet someone who helped!”
      - Say, “Mariano Gálvez was a hero who worked for freedom. We’ll learn about him, write a sentence, and make a doll of him!”
      - Show the optional image if available to spark curiosity.
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore Gálvez’s role through story, dictation, and craft.
+2. **Main Activity (35 minutes)**:
+   - **Objective**: Explore Gálvez’s role through story, music, dictation, and craft.
    - **Procedure**:
      - **Storytelling (10 minutes)**: Read "Mariano Gálvez, A Hero of Freedom" aloud with expression. Pause to show the optional image and ask, “What makes someone a hero?” (Expect answers like “Helping people.”)
+     - **Composer Study (5 minutes)**:
+      - **Objective**: Connect the independence theme with a culturally significant Guatemalan piece.
+      - **Procedure**:
+        - Say, “Let’s listen to ‘Chichicastenango’ by Paco Pérez, a lively marimba song that celebrates Guatemala’s spirit, like when we became free!”
+        - Play a 2–3 minute instrumental marimba version of “Chichicastenango” (sourced from YouTube, e.g., search “Chichicastenango Paco Pérez marimba,” such as the 2:50 version by ChichiMarimba at https://www.youtube.com/watch?v=5rO60jXDHUc). Ensure clear audio in a calm setting.[](https://www.youtube.com/watch?v=NBeHyQ0jXgY)
+        - After listening, ask, “Does this music sound happy or proud? How might people have felt playing it when Guatemala became free?” (Expect responses like “It’s happy” or “It makes me want to dance”).
      - **Dictation (5 minutes)**:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
@@ -60,10 +69,12 @@ By the end of the lesson, the student will be able to:
 ## Activities and Assessments
 - **Activities**:
   - **Storytelling**: Listen to "Mariano Gálvez, A Hero of Freedom" to learn his role (10 minutes).
+  - **Composer Study**: Listen to "Chichicastenango" by Paco Pérez to connect with the cultural context of the independence era (5 minutes).
   - **Dictation**: Write a sentence to practice spelling and connect to independence (5 minutes).
   - **Craft**: Make a paper doll to visualize Gálvez’s contribution (15 minutes).
 - **Formative Assessment**:
   - **Story**: Listen for narration details (e.g., leadership, freedom) to assess comprehension.
+  - **Composer Study**: Note the student's response to the music (e.g., "It sounds happy" or "It makes me think of dancing") to assess engagement with the cultural aspect.
   - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of “helped” or “ayudó”).
   - **Craft**: Observe effort and decoration (e.g., hat) to gauge engagement and understanding.
 - **Summative Assessment**:
@@ -78,17 +89,17 @@ By the end of the lesson, the student will be able to:
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (10 min story, 5 min dictation, 15 min craft)
+- Main Activity: 35 minutes (10 min story, 5 min composer study, 5 min dictation, 15 min craft)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 50 minutes (extended from 45 minutes to include dictation without reducing other sections)
+- Total: 55 minutes (extended to include composer study while maintaining other activities)
 
 ## Prerequisite Knowledge or Skills
 - **Student**: Basic cutting, drawing, and writing skills (with help); Lesson 1’s independence intro.
-- **Parent**: Ability to read aloud, assist with craft, and conduct dictation; no historical expertise required.
+- **Parent**: Ability to read aloud, assist with craft, conduct dictation, and play audio; no historical expertise required.
 
 ## Parental Involvement
-- **Preparation**: Print or load the biography; gather craft supplies (~5-10 minutes).
+- **Preparation**: Print or load the biography; gather craft supplies; prepare audio for "Chichicastenango" (~5-10 minutes).
 - **Facilitation**: Read the biography, dictate the sentence clearly, help with cutting and decorating, and prompt narration.
 - **Engagement**: Co-learn by asking, “What makes Mariano special to you?”
 - **Follow-Up**: Store the dictation sentence and doll in the portfolio and update the timeline.

@@ -1,32 +1,30 @@
-Lesson Plan: Unit 5, Lesson 1 - Road to Independence
+Lesson Plan: Unit 5, Lesson 1 - The Story of Atanasio Tzul and Lucas Aguilar
 
 ## Overview
-This lesson introduces Guatemala’s independence from Spain on September 15, 1821, within a 10-week homeschool curriculum for a 7-year-old 2nd-grade student in San Juan del Obispo. Through storytelling with a living book excerpt, picture study of an independence scene, a composer study with period-specific music, a dictation exercise, and drawing, the student explores the significance of freedom. Aligned with Charlotte Mason-inspired methods—narration, living books, and hands-on activities—it connects to the student’s national heritage near Antigua, building on Unit 4’s colonial focus and enriching cultural understanding through art and music.
+This lesson introduces the story of Atanasio Tzul and Lucas Aguilar, indigenous leaders who led a rebellion against Spanish rule in 1820, as part of our 10-week homeschool curriculum for a 7-year-old 2nd-grade student in San Juan del Obispo. Through storytelling with a living book excerpt about their courageous stand, picture study of indigenous leaders, a composer study with traditional Guatemalan music, a dictation exercise, and drawing, the student will learn about this important moment in Guatemala's journey toward independence. Aligned with Charlotte Mason-inspired methods—narration, living books, and hands-on activities—it connects to the student's national heritage near Antigua, building on Unit 4's colonial focus and enriching cultural understanding through art and music.
 
 ## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses an excerpt from *Central America* or *Guatemala ABCs* to provide a narrative-driven introduction, per Charlotte Mason’s emphasis on engaging texts over dry summaries.
+- **Living Books**: Uses an [excerpt from the provided resource file](resources/Atanasio_Tzul_and_Lucas_Aguilar.md) to provide a narrative-driven introduction, per Charlotte Mason’s emphasis on engaging texts over dry summaries.
 - **Narration**: Encourages retelling to enhance comprehension and memory, fostering active engagement with the material.
 - **Short Lessons**: Limits storytelling, picture study, and composer study to concise segments (e.g., 5 minutes each) to maintain focus suitable for a young learner.
-- **Picture Study**: Adds a 5-minute segment with an independence painting to foster observation and cultural context, aligning with Charlotte Mason’s art appreciation approach.
-- **Composer Study**: Incorporates a 5-minute listening activity with period-specific music to deepen historical understanding through auditory arts, complementing art appreciation as per Charlotte Mason’s holistic approach.
+- **Picture Study**: Adds a 5-minute segment with images of indigenous leaders to foster observation and cultural context, aligning with Charlotte Mason’s art appreciation approach.
+- **Composer Study**: Incorporates a 5-minute listening activity with traditional Guatemalan music to deepen historical understanding through auditory arts, complementing art appreciation as per Charlotte Mason’s holistic approach.
 - **Hands-On**: Includes drawing to engage kinesthetic learning with historical themes, making abstract concepts tangible.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Understand that Guatemala gained independence from Spain on September 15, 1821.
-2. Retell key elements of the independence story in simple terms.
-3. Observe and narrate features of an independence painting (e.g., colors, objects).
-4. Reflect on a piece of music from the independence era and describe its mood (e.g., happy, serious).
-5. Write a dictated sentence about independence with correct spelling.
-6. Draw an independence scene to visualize the historical event.
+1. Understand that Atanasio Tzul and Lucas Aguilar were indigenous leaders who stood up against unfair Spanish taxes in 1820.
+2. Retell key elements of their story in simple terms, including why they rebelled and what happened.
+3. Observe and describe features of indigenous leadership through picture study.
+4. Reflect on traditional Guatemalan music and how it connects to cultural pride.
+5. Write a dictated sentence about the story with correct spelling.
+6. Draw a scene from the story to visualize this historical event.
 
 ## Materials and Resources Required
-- **Living Book**: A 5-10 minute excerpt from:
-  - *Central America* by Marion Morrison (English, preview on [Google Books](https://books.google.com/books?id=9k9zDwAAQBAJ), free; physical on [Amazon](https://www.amazon.com/Central-America-Enchantment-World-Marion-Morrison/dp/0516236822), ~$15), focusing on 1821 events.
-  - *Guatemala ABCs* by Marcie Aboff (English, ebook on [Amazon Kindle](https://www.amazon.com/Guatemala-ABCs-People-Places-Country-ebook/dp/B00B9I2G8I), ~$7), covering historical overview. Sourcing details in `overview/parent_guide.md`.
-- **Picture Study Image**: A high-quality image of an independence scene, such as a historical painting or illustration of Guatemala’s 1821 independence (e.g., search “Guatemala independence 1821 painting” on Wikimedia Commons, https://commons.wikimedia.org, or educational sites like “Visit Guatemala,” ensuring free use).
-- **Music for Composer Study**: A 2-3 minute traditional Guatemalan marimba piece reflecting the independence era’s celebratory spirit (e.g., search “traditional Guatemalan marimba music” on YouTube, selecting an upbeat folk tune from a free, reputable source like a cultural channel). Requires internet access and a device for playback.
-- **Dictation Sentence**: "Guatemala became free in 1821." (English) or "Guatemala se liberó en 1821." (Spanish), derived from the excerpt context.
+- **Living Book**: [The story of Atanasio Tzul and Lucas Aguilar](resources/Atanasio_Tzul_and_Lucas_Aguilar.md)
+- **Picture Study Image**: [Cofradía de San Jorge La Laguna](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvTb13ADIZDUn6Ef0dMxKmCxoBLo3EYvpFGfIfW3cYN2Qiuo_1bBKYUGAD1d-ti8nET2Whkq67Z0aa9w1jZzlbXaQc9En5U9RlIYR6G0bLHJgGyLxjRHl6nXJZmEr5BwmdnXD34Suuentw/s1600/Solola+-+San+Jorge+La+Laguna+Cofradia.jpg) - A traditional cofradía in Guatemala, similar to the one Lucas Aguilar was part of.
+- **Music for Composer Study**: A 2-3 minute segment of [The Conquista](https://www.youtube.com/watch?v=pAIVBOmS5lY), a traditional Guatemalan dance that reflects the historical period of resistance. This connects to the cultural context of Tzul and Aguilar's story.
+- **Dictation Sentence**: "Atanasio Tzul and Lucas Aguilar led their people against unfair taxes." (English) or "Atanasio Tzul y Lucas Aguilar guiaron a su pueblo contra impuestos injustos." (Spanish).
 - **Drawing Supplies**: Paper (standard 8.5x11, household item), crayons or markers (household or ~$2-$5).
 - **Paper and Pencil**: For dictation exercise (household items).
 - **Optional Visuals**: Images of the Guatemalan flag or independence celebrations (e.g., search “Guatemala independence day for kids” online; free printable resources).
@@ -35,48 +33,48 @@ By the end of the lesson, the student will be able to:
 
 ## Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce independence and engage interest.
+   - **Objective**: Introduce the story of Atanasio Tzul and Lucas Aguilar and engage interest.
    - **Procedure**:
-     - Recap Unit 4: “The Spanish ruled Guatemala for a long time. Today, we’ll see how it became free!”
-     - Say, “Guatemala got its freedom in 1821. Let’s hear a story, look at a picture, listen to music, write, and draw!”
-     - Ask, “What does being free mean to you?” to spark discussion (e.g., “Doing what you want”).
+     - Recap Unit 4: "We learned that the Spanish ruled Guatemala for a long time and made the indigenous people pay taxes. Today, we'll learn about two men who refused to collect taxes for the Spanish. Their names were Atanasio Tzul and Lucas Aguilar. Let's hear their story"
 2. **Main Activity (35 minutes)**:
-   - **Objective**: Explore independence through storytelling, picture study, composer study, dictation, and drawing.
+   - **Objective**: Explore the story of Tzul and Aguilar through storytelling, picture study, composer study, dictation, and drawing.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read a 5-10 minute excerpt from *Central America* (e.g., 1821 events) or *Guatemala ABCs* (e.g., historical overview). Show optional flag images to enhance visuals. Ask, “What did people do when they got free?” (Expect answers like “They celebrated” or “They cheered”).
-     - **Picture Study (5 minutes)**: Show the independence painting image. Say, “Look at this picture for 2 minutes. Notice the people and colors.” After 2 minutes, cover it and ask, “What did you see? What colors or things stood out?” Then, uncover and discuss: “What are these people doing? Does it look happy?” (Expect observations like “They’re waving flags”).
-    - **Composer Study (5 minutes)**:
-      - **Objective**: Connect the independence theme with a culturally significant Guatemalan piece.
+     - **Storytelling (10 minutes)**: Read the [story of Atanasio Tzul and Lucas Aguilar](resources/Atanasio_Tzul_and_Lucas_Aguilar.md). Show the [statue of Atanasio Tzul in Totonicapan](https://duckduckgo.com/?q=atanasio+tzul+estatua&t=brave&iar=images&iai=https%3A%2F%2Fmayatecum.com%2Fwp-content%2Fuploads%2F2022%2F09%2F126901795_1532460066955364_6189067816083581640_n.jpg) to help visualize the character. Ask, "Why do you think Tzul and Aguilar decided to stand up for their people?"
+     - **Picture Study (5 minutes)**: Show the image of the [cofradía](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvTb13ADIZDUn6Ef0dMxKmCxoBLo3EYvpFGfIfW3cYN2Qiuo_1bBKYUGAD1d-ti8nET2Whkq67Z0aa9w1jZzlbXaQc9En5U9RlIYR6G0bLHJgGyLxjRHl6nXJZmEr5BwmdnXD34Suuentw/s1600/Solola+-+San+Jorge+La+Laguna+Cofradia.jpg). Say, "This is a cofradía, a traditional religious brotherhood in Guatemala. Lucas Aguilar was a member of a cofradía like this one. Look at this picture for 2 minutes. Notice the clothing, the candles, and the religious items they're carrying." After 2 minutes, cover it and ask, "What did you notice about this cofradía? What do you think their role was in the community?" Then, uncover and discuss: "How do you think being part of a cofradía helped Lucas Aguilar lead his people?" (Expect observations about the religious and community aspects of the cofradía).
+     - **Composer Study (5 minutes)**:
+      - **Objective**: Connect the story with traditional Guatemalan music that reflects the historical period of resistance.
       - **Procedure**:
-        - Say, “Let’s listen to ‘Chichicastenango’ by Paco Pérez, a lively marimba song that celebrates Guatemala’s spirit, like when we became free!”
-        - Play a 2–3 minute instrumental marimba version of “Chichicastenango” (sourced from YouTube, e.g., search “Chichicastenango Paco Pérez marimba,” such as the 2:50 version by ChichiMarimba at https://www.youtube.com/watch?v=5rO60jXDHUc). Ensure clear audio in a calm setting.[](https://www.youtube.com/watch?v=NBeHyQ0jXgY)
-        - After listening, ask, “Does this music sound happy or proud? How might people have felt playing it when Guatemala became free?” (Expect responses like “It’s happy” or “It makes me want to dance”).
+        - Say, "Let's listen to 'The Conquista,' a traditional Guatemalan marimba piece from this time in history. This music helps us understand the feelings and experiences of people during Tzul and Aguilar's time."
+        - Play a 2-3 minute segment of [The Conquista](https://www.youtube.com/watch?v=pAIVBOmS5lY).
+        - After listening, ask, "How does this music make you feel? What do you think the musicians wanted to express about this time in history?" (Possible responses: "It sounds serious" or "It makes me think of important events").
      - **Dictation (5 minutes)**:
-       - **Objective**: Practice spelling and reinforce historical content.
+       - **Objective**: Practice spelling and reinforce the story's key figures.
        - **Procedure**:
-         - Say, “Let’s write a sentence about when Guatemala got free.”
-         - Dictate the sentence: "Guatemala became free in 1821." (English) or "Guatemala se liberó en 1821." (Spanish).
-         - Read it slowly, repeating each word as needed (e.g., “Gua-te-ma-la”), while the student writes it in their notebook or on paper.
-         - Check their spelling gently and praise effort (e.g., “You wrote ‘free’ perfectly—great job!”).
-     - **Drawing (10 minutes)**: Provide paper and crayons. Guide the student: “Draw a scene of independence—like people celebrating with flags or music.” Suggest colors from the painting or music’s mood (e.g., “Use bright colors like the marimba sounds”).
+         - Say, "Let's write a sentence about the brave leaders we learned about today."
+         - Dictate the sentence: "Atanasio Tzul and Lucas Aguilar led their people against unfair taxes." (English) or "Atanasio Tzul y Lucas Aguilar guiaron a su pueblo contra impuestos injustos." (Spanish).
+         - Read it slowly, repeating each word as needed (e.g., "A-ta-na-sio Tzul"), while the student writes it in their notebook or on paper.
+         - Check their spelling gently and praise effort (e.g., "You wrote 'brave' perfectly—great job!").
+     - **Drawing (10 minutes)**: Provide paper and crayons. Guide the student: "Draw a scene from the story we read about Atanasio Tzul and Lucas Aguilar.
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
-     - Prompt, “What happened when Guatemala got free?” or “Tell me about your drawing, the picture, or the music.”
-     - Encourage simple sentences (e.g., “They played music and danced”). Note a key phrase (e.g., “Guatemala got free in 1821”) for the portfolio.
-     - Listen patiently, offering prompts if needed (e.g., “What did the music sound like?”).
+     - Prompt, "Can you tell me about Atanasio Tzul and Lucas Aguilar?" or "Tell me about your drawing and what's happening in it."
+     - Encourage simple sentences (e.g., "They helped their people" or "They didn't like the unfair taxes"). Note a key phrase (e.g., "Tzul and Aguilar were brave leaders") for the portfolio.
+     - Listen patiently, offering prompts if needed (e.g., "What did they do when the taxes were unfair?").
 4. **Closing (5 minutes)**:
    - **Objective**: Summarize the lesson and preview the next one.
    - **Procedure**:
-     - Say, “Guatemala became its own country in 1821, free from Spain, with celebrations and music!”
-     - Preview, “Next, we’ll meet a hero who helped after freedom!”
-     - Add a flag, person, or musical note sketch to the timeline’s Independence section with the student.
+     - Say, "Today we learned about Atanasio Tzul and Lucas Aguilar were leaders that stood up for their people against unfair taxes. Their story is an important part of Guatemala's history."
+     - Preview, "Next time, we'll learn more about what happened in Guatemala's journey to becoming an independent country!"
+     - Add a drawing of Tzul and Aguilar or a symbol of leadership to the timeline's Independence section with the student.
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling (10 minutes)**: Listening to a living book excerpt to learn about Guatemala’s independence.
-  - **Picture Study (5 minutes)**: Observing and discussing an independence painting to appreciate the event visually.
-  - **Composer Study (5 minutes)**: Listening to a marimba piece to experience the era’s cultural expression.
+  - **Storytelling (10 minutes)**: Listening to a living book excerpt to learn about Atanasio Tzul and Lucas Aguilar.
+  - **Picture Study (5 minutes)**: Observing and discussing images of indigenous leaders to appreciate their role visually.
+  - **Composer Study (5 minutes)**: Listening to traditional Guatemalan music to deepen historical understanding through auditory arts.
+  - **Dictation (5 minutes)**: Writing a sentence to practice spelling and reinforce the story's key figures.
+  - **Drawing (10 minutes)**: Creating a scene from the story to visualize this historical event creatively.
   - **Dictation (5 minutes)**: Writing a sentence to practice spelling and reinforce the historical narrative.
   - **Drawing (10 minutes)**: Creating an independence scene to visualize the historical moment creatively.
 - **Formative Assessment**:
