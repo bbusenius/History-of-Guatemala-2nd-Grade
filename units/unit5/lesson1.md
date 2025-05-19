@@ -1,4 +1,4 @@
-Lesson Plan: Unit 5, Lesson 1 - The Story of Atanasio Tzul and Lucas Aguilar
+# Lesson Plan: Unit 5, Lesson 1 - The Story of Atanasio Tzul and Lucas Aguilar
 
 ## Overview
 This lesson introduces the story of Atanasio Tzul and Lucas Aguilar, indigenous leaders who led a rebellion against Spanish rule in 1820, as part of our 10-week homeschool curriculum for a 7-year-old 2nd-grade student in San Juan del Obispo. Through storytelling with a living book excerpt about their courageous stand, picture study of indigenous leaders, a composer study with traditional Guatemalan music, a dictation exercise, and drawing, the student will learn about this important moment in Guatemala's journey toward independence. Aligned with Charlotte Mason-inspired methods—narration, living books, and hands-on activities—it connects to the student's national heritage near Antigua, building on Unit 4's colonial focus and enriching cultural understanding through art and music.
