@@ -1,103 +1,110 @@
-# Lesson Plan: Unit 3, Lesson 2 - Colonial Life in Guatemala
+# Unit 3, Lesson 2: Continuation of the Spanish Conquest
 
-## Overview
-This lesson explores colonial life in Guatemala for a 7-year-old 2nd-grade student, focusing on daily routines and architecture after the Spanish arrival, within a 10-week homeschool curriculum. Through crafting a colonial window, a dictation exercise, and narration, the student will deepen their understanding of the colonial period. Using Charlotte Mason-inspired methods—hands-on activities, narration, and short lessons—it’s engaging and tailored to the student in San Juan del Obispo, near Antigua, connecting history to local colonial landmarks and building on Lesson 1’s introduction.
+### Overview
+This lesson introduces the Spanish arrival in Guatemala, marking the colonial period’s start, within a 10-week homeschool curriculum for a 7-year-old student in San Juan del Obispo. Through storytelling with a living book excerpt, picture study, dictation, coloring, and a discussion question reflecting Maya perspectives, the student explores the Spanish-Maya encounter. Aligned with Charlotte Mason-inspired methods—narration, living books/primary sources, and hands-on activities—it connects to local heritage near Antigua, fostering cultural sensitivity by considering indigenous viewpoints alongside colonial narratives.
 
-## Alignment with Charlotte Mason Guidelines
-- **Narration**: Encourages oral retelling of the lesson content, enhancing comprehension and memory.
-- **Short Lessons**: Limits activities to concise segments (e.g., 5-minute dictation) to maintain focus.
-- **Hands-On**: Uses a craft to connect kinesthetic learning with historical content.
-- **Dictation**: Includes a dictation exercise with a historical sentence to practice spelling and reinforce colonial themes, aligning with Charlotte Mason’s method of engaging with content through writing.
+### Alignment with Charlotte Mason Guidelines
+- **Living Books**: Uses *The Annals of the Cakchiquels* excerpts for narrative depth, bringing history to life authentically.
+- **Narration**: Encourages retelling and discussion to enhance comprehension and empathy.
+- **Short Lessons**: Segments activities (e.g., 5-minute picture study) for focus.
+- **Picture Study**: Includes a colonial painting to develop observation and cultural context.
+- **Hands-On**: Features coloring to engage kinesthetic learners.
+- **Dictation**: Links writing to historical content for meaningful practice.
+- **Exposure to Diverse Cultures**: Adds a Maya perspective to balance narratives and respect indigenous views.
 
-## Learning Objectives
-By the end of the lesson, the student will be able to:
-1. Describe aspects of colonial life (e.g., architecture, daily routines) in simple terms.
-2. Create a paper colonial window to represent Spanish-influenced buildings.
-3. Write a dictated sentence about colonial life with correct spelling.
-4. Narrate a scene or purpose for their window, connecting it to colonial life.
+### Learning Objectives
+1. Understand that the Spanish arrived in Guatemala in the early 16th century, initiating the colonial period.
+2. Retell key elements of the Spanish arrival story.
+3. Know who is Pedro de Alvarado and that his name was Tunatiuh Avilantaro to the Kaqchikel people.
+4. Observe and describe features of a colonial painting (e.g., colors, objects).
+5. Write a dictated sentence about the arrival with correct spelling.
+6. Reflect on how the Maya might have felt about the Spanish through a discussion question.
 
-## Materials and Resources Required
-- **Craft Supplies**: Construction paper (brown or white for the window frame), tissue paper (any color for “glass”), markers, scissors (household; adult supervision required), glue (household or ~$1).
-- **Craft Instructions**: From `units/unit3/resources/colonial_window_craft.md` (provided in curriculum).
-- **Dictation Sentence**: "The church bells rang." (English) or "Las campanas sonaron." (Spanish), reflecting colonial life and sourced from historical context.
-- **Paper and Pencil**: For dictation exercise (household items).
-- **Optional**: Images of colonial windows (e.g., search “Antigua Guatemala colonial windows” online; free).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
-- **Accessibility**: Uses low-cost, common materials; substitutes (e.g., plain paper, pencils) work if needed.
+### Materials and Resources Required
+- **Living Books**: A 5-10 minute excerpt from:
+  - **Required**:
+    - *The Annals of the Cakchiquels* translated by Daniel G. Brinton (English, available on [Open Library](https://openlibrary.org/books/OL13993465M/The_annals_of_the_Cakchiquels)), focusing on **pages 177-193** where it discusses the arrival of the Spanish (referred to as Castilians). **Note**: "Tunatiuh Avilantaro" refers to [Pedro de Alvarado](https://en.wikipedia.org/wiki/Pedro_de_Alvarado). 
+  - **Optional**: *On the Province and Kingdom of Guatemala* from *An account, much abbreviated, of the destruction of the Indies, with related texts* by  Bartolomé de las Casas (pages 38-43) [Open Library](https://openlibrary.org/works/OL957329W/An_account_much_abbreviated_of_the_destruction_of_the_Indies_with_related_texts).
 
-## Step-by-Step Instructional Procedures
+- **Picture Study Image**: Wall paintings from a house in Chajul, Guatemala, depicting the Spanish influence on Maya culture. [View the image](https://cdn.sci.news/images/enlarge7/image_8558_1e-Chajul-Paintings.jpg) and [read more about it](https://www.sci.news/archaeology/chajul-maya-wall-paintings-guatemala-08558.html). The panel likely shows figures dancing the Conquista, a traditional dance still performed today, featuring two musicians in Spanish costumes playing a flute or chirimía and a large drum, and a man in Indian-Spanish attire possibly holding a bottle, showing a blend of European and indigenous elements.
+- **Dictation Sentence**: "On the day one the Quiches were destroyed by the Spanish. Pedro de Alvarado conquered all the towns." (English) or "El primer día, los quichés fueron destruidos por los españoles. Pedro de Alvarado conquistó todas las ciudades." (Spanish)
+- **Coloring Page**: Colonial scene from [resources/colonial_coloring_page.md](resources/colonial_coloring_page.md) (printable or hand-drawn).
+- **Crayons or Colored Pencils**: For coloring (household or ~$2-$5).
+- **Paper and Pencil**: For dictation (household items).
+- **Optional Visuals**: Spanish ship images (e.g., search “Spanish galleon for kids” online; free).
+- **Timeline**: Reusable timeline from [resources/timeline_template.pdf](resources/timeline_template.pdf).
+- **Accessibility**: Ebooks prioritized; coloring page drawable if no printer; low-cost materials.
+
+### Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce colonial life and the craft activity.
+   - **Objective**: Set the stage and engage interest.
    - **Procedure**:
-     - Recap Lesson 1: “When the Spanish came, they built towns. Today, we’ll see how people lived in these colonial towns.”
-     - Say, “They made houses and churches with special windows. We’ll make one and write about their life!”
-     - Show optional images of colonial windows if available.
+     - After the Spanish conquored the K'iche people, they conquered the Kaqchikel people.
 2. **Main Activity (40 minutes)**:
-   - **Objective**: Explore colonial life through crafting, listening to an audio narration, and discussion.
+   - **Objective**: Explore the encounter through narrative and activities.
    - **Procedure**:
-     - **Listening (15 minutes)**:
-       - **Objective**: Practice listening and introduce historical content.
-       - **Procedure**:
-         - Follow the instructions to setup and listen to one or both of the following audio adaptations:
-            - [Simplified version of The English-American: a new survey of the West Indies, 1648](resources/A_new_survey_of_the_West_Indies_Simplified.md) — a vibrant and rich description of the geography of Santiago de los Caballeros (Antigua) and the brutality of life under Spanish colonial rule (**English**).
-            - [Simplified version of Breve descripcion de la noble ciudad de Santiago de los Caballeros de Guatemala](resources/Breve_descripcion_de_Santiago_de_los_Caballeros_Simplified.md) — a beautiful description of Santiago de los Caballeros (Antigua) and the Earthquake of 1773 (**Spanish**).
-      - **Discussion (10 minutes)**: Talk about colonial life:
-      - **Craft (15 minutes)**: Follow the craft guide: Cut a construction paper frame (6x8 inches), cut 4 panes, glue tissue paper behind for “glass,” decorate with markers. Discuss: “What might you see outside this window?”
-3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through retelling.
+     - **Storytelling (20 minutes)**: Read [The Annals of the Cakchiquels](https://openlibrary.org/books/OL13993465M/The_annals_of_the_Cakchiquels) (e.g., pages 177-193). Ask, “What did the Spanish do when they arrived?”
+        - **Note**: "Tunatiuh Avilantaro" refers to [Pedro de Alvarado](https://en.wikipedia.org/wiki/Pedro_de_Alvarado). Make sure the student understands this. Consider discussing Pedro de Alvarado in more detail.
+     - **Picture Study (5 minutes)**: Show the [Chajul mural image](https://cdn.sci.news/images/enlarge7/image_8558_1e-Chajul-Paintings.jpg). Say, “Look for 2 minutes. Notice people and things.” After, cover it and ask, “What did you see?” Then, uncover and discuss: “Who’s in this picture? What are they doing? Do you see Spanish and Maya styles mixed?” Consider reading [this article](https://www.sci.news/archaeology/chajul-maya-wall-paintings-guatemala-08558.html) to the child for more information.
+     - **Dictation (5 minutes)**: Dictate "On the day one the Quiches were destroyed by the Spanish. Pedro de Alvarado conquered all the towns." (English) or "El primer día, los quichés fueron destruidos por los españoles. Pedro de Alvarado conquistó todas las ciudades." (Spanish), slowly. Check spelling and praise effort.
+     - **Coloring (10 minutes)**: Provide the [coloring page](https://colorconfetti.com/img/guatemala-coloring-page-w3.png). Say, “Color this colonial town—like where the Spanish landed!” Ask, “What buildings do you see?”
+3. **Narration and Discussion (10 minutes)**:
+   - **Objective**: Reflect on learning and Maya perspectives.
    - **Procedure**:
-     - Prompt, “What does your window show?” or “Tell me a story about who lives here.”
-     - Encourage imaginative responses tied to colonial life (e.g., “Spanish people live here”). Note a key idea (e.g., “Church was important”) for the portfolio.
+     - Prompt, “What happened when the Spanish came?” Listen for story details (e.g., “They came on ships”).
+     - Ask, “How do you think the Maya felt when the Spanish arrived?” Encourage empathy (e.g., “Scared” or “Curious”). Suggest, “Think how you’d feel if strangers came to our town.”
+     - Note a key response (e.g., “The Maya were surprised”) for the portfolio.
 4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview the field trip.
+   - **Objective**: Summarize and preview next lesson.
    - **Procedure**:
-     - Say, “Colonial life had new buildings and ways of living, like hearing church bells.”
-     - Preview, “Next, we’ll visit the [Iximché Ruins](field_trip.md) to see where the Maya lived during colonial times!”
-     - **Update Timeline**: Add a window sketch to the Colonial section with the student.
+     - Say, “The Spanish changed Guatemala, and the Maya had their own feelings about it.”
+     - Preview, “Next, we’ll see how people lived after they came!”
+     -  **Update timeline**: Add a ship sketch to the timeline’s Colonial section with the student.
 
-## Activities and Assessments
+### Activities and Assessments
 - **Activities**:
-  - **Crafting**: Make a colonial window to explore architecture (15 minutes).
-  - **Dictation**: Write a sentence to practice spelling and connect to colonial life (5 minutes).
-  - **Discussion**: Talk about colonial routines to build context (10 minutes).
+  - **Storytelling (20 minutes)**: Listening to a narrative about the Spanish arrival.
+  - **Picture Study (5 minutes)**: Observing a colonial painting.
+  - **Dictation (5 minutes)**: Writing a sentence about the arrival.
+  - **Coloring (10 minutes)**: Coloring a colonial scene.
 - **Formative Assessment**:
-  - **Craft**: Observe effort; ask, “Where could this window be?” to check understanding.
-  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of “bells” or “campanas”).
-  - **Narration**: Listen for life details (e.g., buildings, routines) in retelling.
+  - **Storytelling**: Check narration for details (e.g., ships, Spanish) to assess comprehension.
+  - **Picture Study**: Evaluate observations (e.g., “Men with hats”) for detail.
+  - **Dictation**: Verify spelling accuracy (e.g., “ship” or “barco” correct).
+  - **Discussion**: Note empathy in responses (e.g., “The Maya were scared”) to assess perspective-taking.
 - **Summative Assessment**:
-  - Collect the craft and dictation sentence for the portfolio, assessing participation and comprehension informally based on effort and engagement.
-  - In Week 10, review timeline additions for Unit 3 connection; no formal rubric.
+  - Collect dictation and coloring for the portfolio, assessing participation and connection informally (no rubric; based on effort and inclusion of key ideas).
+  - In Week 10, review timeline for Unit 3 connection.
 
-## Differentiation Strategies
-- **Advanced Learners**: Add detailed decorations or narrate a complex scene (e.g., “A market outside”); write an additional dictation sentence.
-- **Struggling Learners**: Pre-cut frame/panes; simplify narration to “What’s this window for?”; allow tracing for dictation.
-- **Kinesthetic Learners**: Hold the window up and “look through” it while narrating.
-- **Visual Learners**: Use images to inspire craft details and discussion.
+### Differentiation Strategies
+- **Advanced Learners**: Narrate extra details (e.g., “They built towns”); label coloring page elements. Consider watching [La conquista de Guatemala: la historia de Pedro de Alvarado](https://www.youtube.com/watch?v=5FvVdIKhkdM), reading his [Wikipedia page](https://en.wikipedia.org/wiki/Pedro_de_Alvarado#Conquest_of_Soconusco_and_Guatemala), or engaging with AI to learn more about Pedro de Alvarado. Also consider breaking this out into a separate lesson about Pedro de Alvarado or reading the [optional reading selection](https://openlibrary.org/works/OL957329W/An_account_much_abbreviated_of_the_destruction_of_the_Indies_with_related_texts) (pages 38-43).
+- **Struggling Learners**: Simplify narration to “Who came?”; pre-color parts of the page.
+- **Kinesthetic Learners**: Act out ships landing during narration.
+- **Visual Learners**: Use ship images to inspire coloring.
 
-## Time Estimates
+### Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 40 minutes (15 min craft, 5 min dictation, 10 min discussion)
-- Narration: 10 minutes
+- Main Activity: 40 minutes
+- Narration and Discussion: 10 minutes
 - Closing: 5 minutes
-- Total: 60 minutes (extended from 45 minutes to include dictation without cutting other sections)
+- Total: 60 minutes
 
-## Prerequisite Knowledge or Skills
-- **Student**: Basic cutting/gluing and writing skills (with help); Spanish arrival from Lesson 1.
-- **Parent**: Ability to supervise scissors, guide craft, and conduct dictation; no prior knowledge needed.
+### Prerequisite Knowledge or Skills
+- **Student**: Basic listening, writing, and coloring skills; Unit 2’s Maya context.
+- **Parent**: Ability to read aloud, assist with activities; no expertise needed.
 
-## Parental Involvement
-- **Preparation**: Gather craft supplies (~5-10 minutes).
-- **Facilitation**: Assist with cutting/gluing, dictate the sentence clearly, guide discussion, and prompt narration.
-- **Engagement**: Ask, “What do you hear when bells ring in our town?” to connect to history.
-- **Follow-Up**: Store the craft and dictation sentence in the portfolio and update the timeline.
+### Parental Involvement
+- **Preparation**: Source excerpt and image, prepare coloring page (~10-15 minutes).
+- **Facilitation**: Read story, present picture study, dictate sentence, guide coloring, lead discussion.
+- **Engagement**: Ask, “What would you think if strangers came?”
+- **Follow-Up**: Store work in portfolio; update timeline.
 
-## Accommodations
-- **Visual Needs**: Use high-contrast colors; dictate and describe steps aloud (e.g., “Glue the red tissue here”).
-- **Motor Challenges**: Pre-cut shapes; assist with gluing or writing; use larger materials.
-- **Attention Span**: Shorten crafting to 10 minutes with a break; adjust dictation pace.
-- **Language Support**: Use bilingual terms (e.g., “ventana/window,” “campanas/bells”); allow dictation in preferred language.
+### Accommodations
+- **Visual Needs**: Enlarge materials; describe visuals aloud.
+- **Motor Challenges**: Pre-label page; assist with writing.
+- **Attention Span**: Shorten storytelling to 15 minutes with a break.
+- **Language Support**: Use “españoles/Spanish” bilingually; allow Spanish narration.
 
-## Assumptions and Limitations
-- Assumes access to basic craft supplies; plain paper substitutes if needed.
-- Requires adult supervision for scissors; pre-cut if unavailable.
-- Builds on Lesson 1; recap Spanish arrival if missed.
+### Assumptions and Limitations
+- Assumes internet for resources; offline alternatives include library books or sketches.
+- Relies on Unit 2; recap Maya basics if needed.
