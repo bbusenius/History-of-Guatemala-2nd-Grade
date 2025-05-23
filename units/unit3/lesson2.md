@@ -28,8 +28,7 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
 
 - **Picture Study Image**: Wall paintings from a house in Chajul, Guatemala, depicting the Spanish influence on Maya culture. [View the image](https://cdn.sci.news/images/enlarge7/image_8558_1e-Chajul-Paintings.jpg) and [read more about it](https://www.sci.news/archaeology/chajul-maya-wall-paintings-guatemala-08558.html). The panel likely shows figures dancing the Conquista, a traditional dance still performed today, featuring two musicians in Spanish costumes playing a flute or chirimía and a large drum, and a man in Indian-Spanish attire possibly holding a bottle, showing a blend of European and indigenous elements.
 - **Dictation Sentence**: "On the day one the Quiches were destroyed by the Spanish. Pedro de Alvarado conquered all the towns." (English) or "El primer día, los quichés fueron destruidos por los españoles. Pedro de Alvarado conquistó todas las ciudades." (Spanish)
-- **Coloring Page**: Colonial scene from [resources/colonial_coloring_page.md](resources/colonial_coloring_page.md) (printable or hand-drawn).
-- **Crayons or Colored Pencils**: For coloring (household or ~$2-$5).
+
 - **Paper and Pencil**: For dictation (household items).
 - **Optional Visuals**: Spanish ship images (e.g., search “Spanish galleon for kids” online; free).
 - **Timeline**: Reusable timeline from [resources/timeline_template.pdf](resources/timeline_template.pdf).
@@ -47,7 +46,6 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
         - **Note**: "Tunatiuh Avilantaro" refers to [Pedro de Alvarado](https://en.wikipedia.org/wiki/Pedro_de_Alvarado). Make sure the student understands this. Consider discussing Pedro de Alvarado in more detail.
      - **Picture Study (5 minutes)**: Show the [Chajul mural image](https://cdn.sci.news/images/enlarge7/image_8558_1e-Chajul-Paintings.jpg). Say, “Look for 2 minutes. Notice people and things.” After, cover it and ask, “What did you see?” Then, uncover and discuss: “Who’s in this picture? What are they doing? Do you see Spanish and Maya styles mixed?” Consider reading [this article](https://www.sci.news/archaeology/chajul-maya-wall-paintings-guatemala-08558.html) to the child for more information.
      - **Dictation (5 minutes)**: Dictate "On the day one the Quiches were destroyed by the Spanish. Pedro de Alvarado conquered all the towns." (English) or "El primer día, los quichés fueron destruidos por los españoles. Pedro de Alvarado conquistó todas las ciudades." (Spanish), slowly. Check spelling and praise effort.
-     - **Coloring (10 minutes)**: Provide the [coloring page](https://colorconfetti.com/img/guatemala-coloring-page-w3.png). Say, “Color this colonial town—like where the Spanish landed!” Ask, “What buildings do you see?”
 3. **Narration and Discussion (10 minutes)**:
    - **Objective**: Reflect on learning and Maya perspectives.
    - **Procedure**:
@@ -66,14 +64,13 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
   - **Storytelling (20 minutes)**: Listening to a narrative about the Spanish arrival.
   - **Picture Study (5 minutes)**: Observing a colonial painting.
   - **Dictation (5 minutes)**: Writing a sentence about the arrival.
-  - **Coloring (10 minutes)**: Coloring a colonial scene.
 - **Formative Assessment**:
   - **Storytelling**: Check narration for details (e.g., ships, Spanish) to assess comprehension.
   - **Picture Study**: Evaluate observations (e.g., “Men with hats”) for detail.
   - **Dictation**: Verify spelling accuracy (e.g., “ship” or “barco” correct).
   - **Discussion**: Note empathy in responses (e.g., “The Maya were scared”) to assess perspective-taking.
 - **Summative Assessment**:
-  - Collect dictation and coloring for the portfolio, assessing participation and connection informally (no rubric; based on effort and inclusion of key ideas).
+  - Collect dictation for the portfolio, assessing participation and connection informally (no rubric; based on effort and inclusion of key ideas).
   - In Week 10, review timeline for Unit 3 connection.
 
 ### Differentiation Strategies
@@ -84,10 +81,10 @@ This lesson introduces the Spanish arrival in Guatemala, marking the colonial pe
 
 ### Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 40 minutes
+- Main Activity: 30 minutes
 - Narration and Discussion: 10 minutes
 - Closing: 5 minutes
-- Total: 60 minutes
+- Total: 50 minutes
 
 ### Prerequisite Knowledge or Skills
 - **Student**: Basic listening, writing, and coloring skills; Unit 2’s Maya context.
