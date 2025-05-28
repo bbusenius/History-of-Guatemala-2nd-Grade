@@ -1,27 +1,30 @@
 # Lesson Plan: Unit 6, Lesson 1 - Modernization in Guatemala
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to the modernization of Guatemala, focusing on electricity’s arrival in the 20th century. Through storytelling with "Maria’s New World," a primary source newspaper clipping, a dictation exercise, and a paper lantern craft, the student learns about technological change. Aligned with Charlotte Mason-inspired methods—narration, living books, primary sources, and hands-on activities—it’s tailored for San Juan del Obispo near Antigua, connecting history to relatable concepts like light and building on Unit 5’s independence focus.
+This lesson introduces a 7-year-old 2nd-grade student to the modernization of Guatemala, focusing on electricity’s arrival in the 20th century. Through storytelling with "Maria’s New World," a primary source newspaper clipping, a dictation exercise, a paper lantern craft, and a composer study of Paco Pérez's "Chichicastenango," the student learns about technological change and Guatemala's cultural heritage. Aligned with Charlotte Mason-inspired methods—narration, living books, primary sources, hands-on activities, and composer study—it’s tailored for San Juan del Obispo near Antigua, connecting history to relatable concepts like light and building on Unit 5’s independence focus.
 
 ## Alignment with Charlotte Mason Guidelines
 - **Living Books and Primary Sources**: Features "Maria’s New World" and an unsimplified newspaper clipping from *Prensa Libre*, adhering to Charlotte Mason’s focus on authentic voices to make history relatable.
 - **Narration**: Encourages retelling for comprehension and memory.
 - **Short Lessons**: Limits storytelling and primary source segments to 15 minutes total to maintain focus.
+- **Composer Study**: Includes a musical component with Paco Pérez's "Chichicastenango," connecting to Guatemala's cultural heritage during the modernization period.
 - **Hands-On**: Uses a craft to reinforce historical concepts kinesthetically.
-- **Dictation**: Includes a dictation exercise to practice spelling and connect to modernization, aligning with Charlotte Mason’s method of engaging with content through writing.
+- **Dictation**: Includes a dictation exercise to practice spelling and connect to modernization, aligning with Charlotte Mason's method of engaging with content through writing.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
 1. Understand that Guatemala modernized with electricity in the 20th century.
-2. Retell key elements of "Maria’s New World" in their own words.
+2. Retell key elements of "Maria's New World" in their own words.
 3. Explain how electricity changed life based on the newspaper clipping.
-4. Write a dictated sentence about electricity with correct spelling.
-5. Create a paper lantern to symbolize this advancement.
+4. Experience and respond to traditional Guatemalan marimba music from the early 20th century.
+5. Write a dictated sentence about electricity with correct spelling.
+6. Create a paper lantern to symbolize this advancement.
 
 ## Materials and Resources Required
-- **Story**: "Maria’s New World" (from `units/unit6/resources/marias_new_world.md`; print or read from a device).
+- **Story**: "Maria's New World" (from `units/unit6/resources/marias_new_world.md`; print or read from a device).
 - **Primary Source**: Newspaper clipping from *Prensa Libre* (historical example): "Electricity Arrives in Guatemala City! The streets are now lit with electric lights, and soon, every home will have this modern convenience." (Spanish original: "¡La electricidad llega a la Ciudad de Guatemala! Las calles ahora están iluminadas con luces eléctricas, y pronto, cada hogar tendrá esta comodidad moderna." Available via online archives or historical texts; English translation provided.)
-- **Dictation Sentence**: "The lights came on." (English) or "Las luces se encendieron." (Spanish), derived from "Maria’s New World."
+- **Music for Composer Study**: [Chichicastenango](https://www.youtube.com/watch?v=Fb5528scfXU) by Paco Pérez (1916-1951), a traditional Guatemalan marimba piece composed during the early-to-mid 20th century (available on YouTube or other music platforms).
+- **Dictation Sentence**: "The lights came on." (English) or "Las luces se encendieron." (Spanish), derived from "Maria's New World."
 - **Craft Supplies**: Construction paper (any color), tissue paper (yellow/white), scissors, glue, markers (household or ~$5-$10 total).
 - **Craft Instructions**: From `units/unit6/resources/paper_lantern.md` (provided in curriculum).
 - **Paper and Pencil**: For dictation exercise (household items).
@@ -36,11 +39,18 @@ By the end of the lesson, the student will be able to:
      - Recap Unit 5: “Guatemala got free. Today, we’ll see how it got modern!”
      - Say, “Lights and cars came to Guatemala. Let’s find out how with a story and an old newspaper!”
      - Show optional images if available.
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore modernization through story, primary source, dictation, and craft.
+2. **Main Activity (35 minutes)**:
+   - **Objective**: Explore modernization through story, primary source, composer study, dictation, and craft.
    - **Procedure**:
      - **Storytelling (10 minutes)**: Read "Maria’s New World" aloud with enthusiasm. Ask, “How would lights change your night?” to connect to the story.
-     - **Primary Source (5 minutes)**: Read the newspaper clipping: "Electricity Arrives in Guatemala City! The streets are now lit with electric lights, and soon, every home will have this modern convenience." Ask, “How do you think people felt about getting electricity?” (Expect answers like “Happy” or “Excited”).
+     - **Primary Source (5 minutes)**: Read the newspaper clipping: "Electricity Arrives in Guatemala City! The streets are now lit with electric lights, and soon, every home will have this modern convenience." Ask, "How do you think people felt about getting electricity?" (Expect answers like “Happy” or “Excited”).
+     - **Composer Study (5 minutes)**:
+       - **Objective**: Connect with Guatemala's musical heritage during the modernization period.
+       - **Procedure**:
+         - Say, "Let's listen to 'Chichicastenango' by Paco Pérez, a famous Guatemalan composer who lived from 1916 to 1951. This was the time when Guatemala was getting modern with electricity and new inventions!"
+         - Play a 2–3 minute instrumental marimba version of "Chichicastenango" (sourced from YouTube, e.g., search "Chichicastenango Paco Pérez marimba," such as https://www.youtube.com/watch?v=Fb5528scfXU).
+         - After listening, ask, "How does this music make you feel?" and "Do you think this music sounds modern or traditional?"
+         - Explain, "The marimba is Guatemala's national instrument. Even as Guatemala was getting modern things like electricity, people kept playing traditional music. This shows how a country can keep its special culture while also getting new technology."
      - **Dictation (5 minutes)**:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
@@ -63,8 +73,9 @@ By the end of the lesson, the student will be able to:
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling**: Listen to "Maria’s New World" to understand modernization (10 minutes).
-  - **Primary Source Engagement**: Discuss the newspaper clipping to grasp electricity’s impact (5 minutes).
+  - **Storytelling**: Listen to "Maria's New World" to understand modernization (10 minutes).
+  - **Primary Source Engagement**: Discuss the newspaper clipping to grasp electricity's impact (5 minutes).
+  - **Composer Study**: Listen to "Chichicastenango" by Paco Pérez (1916-1951) to connect with Guatemala's musical heritage during the modernization period (5 minutes).
   - **Dictation**: Write a sentence to practice spelling and connect to the story (5 minutes).
   - **Crafting**: Make a paper lantern to symbolize technological change (10 minutes).
 - **Formative Assessment**:
@@ -84,10 +95,10 @@ By the end of the lesson, the student will be able to:
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (10 min story, 5 min primary source, 5 min dictation, 10 min craft)
+- Main Activity: 35 minutes (10 min story, 5 min primary source, 5 min composer study, 5 min dictation, 10 min craft)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 50 minutes (extended from 45 minutes to include dictation without reducing other sections)
+- Total: 55 minutes (adjustable to 30-60 minute range)
 
 ## Prerequisite Knowledge or Skills
 - **Student**: Basic listening, cutting, and writing skills (with help); independence from Unit 5.

@@ -1,117 +1,119 @@
-# Lesson Plan: Unit 5, Lesson 2 - Key Figures of Independence
+# Lesson Plan: Unit 5, Lesson 2 - Guatemala's Independence Story
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to key figures of Guatemala’s independence, focusing on Mariano Gálvez, within a 10-week homeschool curriculum. Through a biography from "Mariano Gálvez, A Hero of Freedom," a dictation exercise, a composer study with "Chichicastenango" by Paco Pérez, and a paper doll craft, the student will learn about Gálvez’s role and contributions to Guatemala’s early independence era. Designed with Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it’s engaging and connects to the student’s context in San Juan del Obispo, fostering appreciation for historical figures and building on Lesson 1’s independence foundation.
+This lesson introduces a 7-year-old 2nd-grade student to the story of Guatemala's independence within a 10-week homeschool curriculum. Through a narrative from "Guatemala's Independence: A Story," a dictation exercise, a composer study with "Chichicastenango" by Paco Pérez, and a drawing activity, the student will learn about the events and key figures of Guatemala's independence, particularly José Cecilio del Valle who wrote the Act of Independence. Designed with Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it's engaging and connects to the student's context in San Juan del Obispo, fostering appreciation for historical events and building on Lesson 1's foundation on indigenous resistance.
 
 ## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses "Mariano Gálvez, A Hero of Freedom" as a narrative-driven biography to bring history to life, adhering to Charlotte Mason’s emphasis on authentic, engaging texts.
-- **Narration**: Encourages oral retelling of Gálvez’s story to enhance memory and comprehension.
-- **Short Lessons**: Limits activities to 5-10 minute segments to suit a young learner’s attention span.
-- **Composer Study**: Introduces traditional Guatemalan music as a source of national pride.
-- **Hands-On**: Includes a paper doll craft to visualize Gálvez, supporting kinesthetic learning.
-- **Dictation**: Incorporates a dictation exercise to practice spelling and reinforce historical content, aligning with Charlotte Mason’s method of connecting writing to meaningful material.
+- **Living Books**: Uses "Guatemala's Independence" as a narrative-driven text to bring history to life, adhering to Charlotte Mason's emphasis on authentic, engaging texts.
+- **Narration**: Encourages oral retelling of Guatemala's independence story to enhance memory and comprehension.
+- **Short Lessons**: Limits activities to 5-10 minute segments to suit a young learner's attention span.
+- **Picture Study**: Includes careful observation of torch runners, a key symbol in Guatemala's independence celebrations.
+- **Hands-On**: Includes a drawing activity to visualize independence events, supporting kinesthetic learning.
+- **Dictation**: Incorporates a dictation exercise to practice spelling and reinforce historical content, aligning with Charlotte Mason's method of connecting writing to meaningful material.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Identify Mariano Gálvez as a key figure in Guatemala’s independence.
-2. Retell elements of Gálvez’s story in their own words.
-3. Experience and respond to traditional Guatemalan music.
+1. Understand the key events and figures in Guatemala's independence story.
+2. Identify José Cecilio del Valle as the author of the Act of Independence.
+3. Recognize the torch as an important symbol of Guatemala's independence celebrations.
 4. Write a dictated sentence about independence with correct spelling.
-5. Create a paper doll of Gálvez to demonstrate understanding of his role.
+5. Create a drawing of an independence scene to demonstrate understanding of this historical event.
 
 ## Materials and Resources Required
-- **Biography**: "Mariano Gálvez, A Hero of Freedom" (from `units/unit5/resources/a_hero_of_freedom.md`; print or read from a device).
-- **Dictation Sentence**: "Mariano helped Guatemala." (English) or "Mariano ayudó a Guatemala." (Spanish), derived from "Mariano Gálvez, A Hero of Freedom."
-- **Music for Composer Study**: [Chichicastenango](https://www.youtube.com/watch?v=Fb5528scfXU) by Paco Pérez, a traditional Guatemalan marimba piece (available on YouTube or other music platforms).
-- **Craft Supplies**: Paper (standard 8.5x11, household item), scissors (household; adult supervision required), markers (household or ~$2-$5), glue (household or ~$1).
+- **Story**: "Guatemala's Independence" from [units/unit5/resources/guatemala_independence.md](resources/guatemala_independence.md) (print or read from a device).
+- **Dictation Sentence**: "José Cecilio del Valle wrote the Act of Independence of Central America." (English) or "José Cecilio del Valle escribió el Acta de Independencia de Centroamérica." (Spanish).
+- **Picture Study Image**: Image of torch runners in Guatemala's independence celebrations (search online for [Guatemala independence torch runner](https://duckduckgo.com/?q=guatemala+independence+torch+runner&t=brave&ia=images&iax=images) or use [this one](https://thumbs.dreamstime.com/b/runners-torches-independence-day-antigua-guatemala-september-locals-run-streets-guatemalan-flags-lit-blowing-76966409.jpg).
+- **Drawing Supplies**: Paper (standard 8.5x11, household item), crayons or markers (household or ~$2-$5).
 - **Paper and Pencil**: For dictation exercise (household items).
-- **Optional Visuals**: Image of Mariano Gálvez (e.g., search “Mariano Gálvez Guatemala” online; free printable resources).
+- **Optional Visuals**: Image of the Act of Independence document or José Cecilio del Valle (search online; free printable resources).
 - **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
-- **Accessibility**: Low-cost or free household items; biography provided in curriculum; images optional.
+- **Accessibility**: Low-cost or free household items; story provided in curriculum; images optional.
 
 ## Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce key figures and engage interest.
+   - **Objective**: Introduce Guatemala's independence story and engage interest.
    - **Procedure**:
-     - Recap Lesson 1: “Guatemala became free in 1821. Today, we’ll meet someone who helped!”
-     - Say, “Mariano Gálvez was a hero who worked for freedom. We’ll learn about him, write a sentence, and make a doll of him!”
-     - Show the optional image if available to spark curiosity.
+     - Recap Lesson 1: "In our last lesson, we learned about Atanasio Tzul and Lucas Aguilar who stood up against unfair taxes. Today, we'll learn about how Guatemala became independent!"
+     - Say, "Guatemala became free from Spain on September 15, 1821. We'll learn about this important day and a special person named José Cecilio del Valle who wrote the independence document."
+     - Show the optional image of the Act of Independence if available to spark curiosity.
 2. **Main Activity (35 minutes)**:
-   - **Objective**: Explore Gálvez’s role through story, music, dictation, and craft.
+   - **Objective**: Explore Guatemala's independence through story, music, dictation, and drawing.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "Mariano Gálvez, A Hero of Freedom" aloud with expression. Pause to show the optional image and ask, “What makes someone a hero?” (Expect answers like “Helping people.”)
-     - **Composer Study (5 minutes)**:
-      - **Objective**: Connect the independence theme with a culturally significant Guatemalan piece.
+     - **Storytelling (10 minutes)**: Read "Guatemala's Independence" aloud with expression. Pause occasionally to check understanding and ask, "Why did people in Guatemala want to be free from Spain?" (Expect answers like "They wanted to make their own rules" or "Spain was far away").
+     - **Picture Study (5 minutes)**:
+      - **Objective**: Connect with an important symbol of Guatemala's independence celebrations.
       - **Procedure**:
-        - Say, “Let’s listen to ‘Chichicastenango’ by Paco Pérez, a lively marimba song that celebrates Guatemala’s spirit, like when we became free!”
-        - Play a 2–3 minute instrumental marimba version of “Chichicastenango” (sourced from YouTube, e.g., search “Chichicastenango Paco Pérez marimba,” such as the 2:50 version by ChichiMarimba at https://www.youtube.com/watch?v=5rO60jXDHUc). Ensure clear audio in a calm setting.[](https://www.youtube.com/watch?v=NBeHyQ0jXgY)
-        - After listening, ask, “Does this music sound happy or proud? How might people have felt playing it when Guatemala became free?” (Expect responses like “It’s happy” or “It makes me want to dance”).
+        - Show [an image of torch runners during Guatemala's independence celebrations](https://duckduckgo.com/?q=guatemala+independence+torch+runner&t=brave&ia=images&iax=images).
+        - Say, "This is a special tradition in Guatemala called the Independence Torch. People carry torches through towns and cities to celebrate independence day on September 15th."
+        - Allow the student to observe the image quietly for 1 minute.
+        - Then ask, "What do you notice about this picture?" and "Why do you think carrying a torch is important for independence celebrations?" (Expect responses like "The people look excited" or "The torch is bright").
+        - Explain, "The torch represents freedom and the spreading of independence news from town to town. Even today, students carry torches to celebrate independence!"
      - **Dictation (5 minutes)**:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
-         - Say, “Let’s write a sentence about what Mariano did.”
-         - Dictate the sentence: "Mariano helped Guatemala." (English) or "Mariano ayudó a Guatemala." (Spanish).
+         - Say, "Let's write a sentence about who wrote Guatemala's independence document."
+         - Dictate the sentence: "José Cecilio del Valle wrote the Act of Independence of Central America." (English) or "José Cecilio del Valle escribió el Acta de Independencia de Centroamérica." (Spanish).
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
-         - Check their spelling and praise their effort (e.g., “Great job with ‘helped’!”).
-     - **Craft (15 minutes)**: Provide paper, scissors, markers, and glue. Draw a simple figure (head, body, arms, legs), cut it out with adult help, and decorate (e.g., hat, coat). Say, “This is Mariano! Let’s make him look like a leader.”
+         - Check their spelling and praise their effort (e.g., "Great job with 'independence'!").
+     - **Drawing (15 minutes)**: Provide paper and crayons/markers. Guide the student: "Draw a picture showing how people might have celebrated when Guatemala became independent. You can include flags, people celebrating, or José Cecilio del Valle writing the important document."”
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
-     - Prompt, “Tell me about Mariano Gálvez” or “What did your doll do to help Guatemala?”
-     - Encourage a short story (e.g., “He made rules for freedom”). Note a key idea (e.g., “Mariano was a leader”) for the portfolio.
+     - Prompt, "Can you tell me how Guatemala became independent?" or "Who was José Cecilio del Valle and what did he do?"
+     - Encourage a short story about independence events. Note a key idea (e.g., "Guatemala voted to be free" or "José Cecilio del Valle wrote the independence document") for the portfolio.
 4. **Closing (5 minutes)**:
    - **Objective**: Summarize and preview field trip.
    - **Procedure**:
-     - Say, “Mariano helped Guatemala after it became free, making it a better place.”
-     - Preview, “Soon, we’ll visit the [Museo del Libro Antiguo](field_trip.md) to see old books from independence times!”
-     - **Update Timeline**: Add a hat drawing to the Independence section with the student.
+     - Say, "On September 15, 1821, Guatemala became independent from Spain. José Cecilio del Valle wrote the document that made it official."
+     - Preview, "Soon, we'll visit the [Museo del Libro Antiguo](field_trip.md) to see old books from independence times!"
+     - **Update Timeline**: Add a drawing of the independence celebration to the timeline's Independence section with the student.
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling**: Listen to "Mariano Gálvez, A Hero of Freedom" to learn his role (10 minutes).
-  - **Composer Study**: Listen to "Chichicastenango" by Paco Pérez to connect with the cultural context of the independence era (5 minutes).
-  - **Dictation**: Write a sentence to practice spelling and connect to independence (5 minutes).
-  - **Craft**: Make a paper doll to visualize Gálvez’s contribution (15 minutes).
+  - **Storytelling**: Listen to "Guatemala's Independence" to learn about independence events (10 minutes).
+  - **Picture Study**: Observe and discuss an image of torch runners during Guatemala's independence celebrations (5 minutes).
+  - **Dictation**: Write a sentence about José Cecilio del Valle to practice spelling and connect to independence (5 minutes).
+  - **Drawing**: Create a picture of independence celebrations to visualize the historical event (15 minutes).
 - **Formative Assessment**:
-  - **Story**: Listen for narration details (e.g., leadership, freedom) to assess comprehension.
-  - **Composer Study**: Note the student's response to the music (e.g., "It sounds happy" or "It makes me think of dancing") to assess engagement with the cultural aspect.
-  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of “helped” or “ayudó”).
-  - **Craft**: Observe effort and decoration (e.g., hat) to gauge engagement and understanding.
+  - **Story**: Listen for narration details (e.g., dates, key figures, voting) to assess comprehension.
+  - **Picture Study**: Note the student's observations about the torch runners (e.g., "They're carrying flames" or "They look excited") to assess visual engagement and understanding of symbols.
+  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of "independence" or "Valle").
+  - **Drawing**: Observe inclusion of independence elements (e.g., flags, people celebrating, torches) to gauge engagement and understanding.
 - **Summative Assessment**:
-  - Collect the dictation sentence and paper doll for the portfolio, assessing participation and historical connection informally based on effort and engagement.
+  - Collect the dictation sentence and drawing for the portfolio, assessing participation and historical connection informally based on effort and engagement.
   - In Week 10, review timeline additions for Unit 5 connection; no formal rubric.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Add details to the doll (e.g., book for leadership) or narrate extra facts (e.g., “He built schools”); write an additional dictation sentence.
-- **Struggling Learners**: Pre-draw the doll figure for tracing; simplify narration to “What did Mariano do?”; allow tracing for dictation.
-- **Kinesthetic Learners**: Use the doll as a prop while narrating (e.g., move it as if speaking).
-- **Visual Learners**: Use the optional image to inspire craft details and reinforce the story.
+- **Advanced Learners**: Add more details to their independence drawing (e.g., specific scenes from the story) or narrate extra facts (e.g., "There were 23 votes for independence"); write an additional dictation sentence.
+- **Struggling Learners**: Provide a simpler dictation sentence (e.g., "José wrote an important paper"); simplify narration to "What happened when Guatemala became free?"; offer drawing prompts.
+- **Kinesthetic Learners**: Act out a scene from independence (e.g., pretend to write the Act of Independence) while narrating.
+- **Visual Learners**: Use the optional images to inspire drawing details and reinforce the story.
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 35 minutes (10 min story, 5 min composer study, 5 min dictation, 15 min craft)
+- Main Activity: 35 minutes (10 min story, 5 min picture study, 5 min dictation, 15 min drawing)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 55 minutes (extended to include composer study while maintaining other activities)
+- Total: 55 minutes
 
 ## Prerequisite Knowledge or Skills
-- **Student**: Basic cutting, drawing, and writing skills (with help); Lesson 1’s independence intro.
-- **Parent**: Ability to read aloud, assist with craft, conduct dictation, and play audio; no historical expertise required.
+- **Student**: Basic drawing and writing skills (with help); Lesson 1's introduction to resistance against Spanish rule.
+- **Parent**: Ability to read aloud, guide drawing activities, conduct dictation, and play audio; no historical expertise required.
 
 ## Parental Involvement
-- **Preparation**: Print or load the biography; gather craft supplies; prepare audio for "Chichicastenango" (~5-10 minutes).
-- **Facilitation**: Read the biography, dictate the sentence clearly, help with cutting and decorating, and prompt narration.
-- **Engagement**: Co-learn by asking, “What makes Mariano special to you?”
-- **Follow-Up**: Store the dictation sentence and doll in the portfolio and update the timeline.
+- **Preparation**: Print or load the independence story; gather drawing supplies; find an image of torch runners (~5-10 minutes).
+- **Facilitation**: Read the story, guide picture study discussion, dictate the sentence clearly, guide drawing activity, and prompt narration.
+- **Engagement**: Co-learn by asking, "How would you feel if you were there when Guatemala became independent?"
+- **Follow-Up**: Store the dictation sentence and drawing in the portfolio and update the timeline.
 
 ## Accommodations
-- **Visual Needs**: Enlarge biography text or use bold markers; describe the image aloud (e.g., “He’s wearing a coat”).
-- **Auditory Needs**: Read slowly; repeat key phrases (e.g., “Mariano helped”).
-- **Motor Challenges**: Pre-cut the doll; assist with writing; use large paper.
-- **Attention Span**: Shorten storytelling to 7 minutes or craft to 10 minutes with a break.
-- **Language Support**: Use “ayudó/helped” and “Guatemala/Guatemala” bilingually; allow dictation in preferred language.
+- **Visual Needs**: Enlarge story text or use bold markers; describe the torch runner image in detail (e.g., "This shows people running with bright flames").
+- **Auditory Needs**: Read slowly; repeat key phrases (e.g., "José Cecilio del Valle").
+- **Motor Challenges**: Assist with writing; use larger paper for drawing; provide drawing templates if needed.
+- **Attention Span**: Shorten storytelling to 7 minutes or drawing to 10 minutes with a break.
+- **Language Support**: Use key terms bilingually (e.g., "independence/independencia", "torch/antorcha"); allow dictation in preferred language.
 
 ## Assumptions and Limitations
-- Assumes access to basic craft supplies; pencils substitute if markers unavailable.
-- Requires adult supervision for scissors; pre-cut if no help available.
-- Assumes Lesson 1 context; recap independence briefly if missed.
+- Assumes access to basic drawing supplies; pencils are sufficient if markers/crayons unavailable.
+- Assumes Lesson 1 context about Tzul and Aguilar; briefly recap indigenous resistance if needed.
+- Assumes access to an image of torch runners; if unavailable, a verbal description can be provided.
