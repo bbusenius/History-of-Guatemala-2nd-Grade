@@ -18,8 +18,8 @@ By the end of the lesson, the student will be able to:
 4. Narrate one architectural feature (e.g., arches, bell towers) or painting observation.
 
 ## Materials and Resources Required
-- **Map**: Printable or hand-drawn map of colonial Antigua from [units/unit4/resources/colonial_antigua_map.md](resources/colonial_antigua_map.md); instructions for sourcing or drawing provided. [Possible option](https://c7.alamy.com/comp/PE1Y7K/antigua-guatemala-location-map-PE1Y7K.jpg)
-- **Picture Study Image**: A high-quality image of a colonial painting, such as "View of Antigua" by an 18th-century artist from the Museo de Arte Colonial collection. Source online via museum websites (e.g., search “Museo de Arte Colonial Antigua Guatemala paintings” on Google Arts & Culture, https://artsandculture.google.com) or use a free, high-resolution image labeled for reuse (e.g., via Wikimedia Commons).
+- **Map**: Printable or hand-drawn map of colonial Antigua from [units/unit4/resources/colonial_antigua_map.md](resources/colonial_antigua_map.md); instructions for sourcing or drawing provided. [Possible option](https://commons.m.wikimedia.org/wiki/File:Antigua_Guatemala_location_map.JPG#mw-jump-to-license)
+- **Picture Study Image**: A high-quality image of a colonial painting, such as [San Miguel Arcángel con las ánimas del Purgatorio](https://maps.app.goo.gl/hjV2X82wC666FdNy6), Siglo XVIII (artist unknown) or use a free, high-resolution image labeled for reuse (e.g., via Wikimedia Commons).
 - **Crayons or Markers**: For coloring or labeling the map (household items or ~$2-$5).
 - **Paper and Pencil**: For noting narration observations if desired (household items).
 - **Optional**: Additional images of colonial buildings for reference (e.g., search “Antigua Guatemala colonial architecture” online; free printable resources).
@@ -56,12 +56,12 @@ By the end of the lesson, the student will be able to:
        - Point out that many buildings in Antigua have these special Spanish Colonial features.
 
      - **Mapping (15 minutes)**: 
-       - Provide [the map](https://c7.alamy.com/comp/PE1Y7K/antigua-guatemala-location-map-PE1Y7K.jpg) and crayons. Guide the student to color or label the Catedral de San José, La Merced Church, and central plaza.
+       - Provide [the map](https://commons.m.wikimedia.org/wiki/File:Antigua_Guatemala_location_map.JPG#mw-jump-to-license) and crayons. Guide the student to color or label the Catedral de San José, La Merced Church, and central plaza.
        - Ask, "What Spanish Colonial features do you think these buildings have? Let's look for them on the map!"
      
      - **Picture Study (5 minutes)**: 
-       - Show the colonial painting image: [The Last Judgement](https://maps.app.goo.gl/hjV2X82wC666FdNy6)
-       - Say, "Now let's look at this colonial painting. 
+       - Show the colonial painting image: [San Miguel Arcángel con las ánimas del Purgatorio](https://maps.app.goo.gl/hjV2X82wC666FdNy6), Siglo XVIII (artist unknown)
+       - Say, "Now let's look at this colonial painting from the 18th century."
        - After 2 minutes of observation, discuss: "What did you see?"
 
 4. **Narration (10 minutes)**:

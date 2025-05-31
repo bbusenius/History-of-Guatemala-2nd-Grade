@@ -35,11 +35,15 @@ By the end of the field trip, the student will be able to:
 2. **Arrival and Orientation (10-15 minutes per site)**:
    - **Objective**: Familiarize the student with the site(s).
    - **Procedure for Museo Colonial**:
-     - Arrive at the museum; point out the entrance: “This museum has old art from colonial times.”
-     - Say, “Let’s look at paintings or objects and draw something you like.”
+     - Arrive at the museum; point out the entrance (preferably through Paseo de Los Museos on 1a Avenida Norte to save on entrance fees): "This museum has old art from colonial times."
+     - Say, "Let's look at paintings or objects and draw something you like."
+     - Make sure to visit and draw attention to the painting of [San Miguel Arcángel con las ánimas del Purgatorio](https://maps.app.goo.gl/hjV2X82wC666FdNy6), connecting it back to lessons on colonial religious art.
+     - Visit the crypts in the bottom of the churches.
    - **Procedure for Catedral de San José**:
-     - Arrive at the cathedral; point out features: “Look at the big doors and tower!”
-     - Say, “This is from colonial times. We’ll draw something you like.”
+     - Arrive at the cathedral; point out features: "Look at the big doors and tower!"
+     - Say, "This is from colonial times. We'll draw something you like."
+     - Make sure to visit both the main cathedral and the cathedral ruins on 5a Calle Oriente.
+     - Visit the "Capilla de los Reyes" in the ruins and explain that this is likely where Pedro de Alvarado, the Spanish conquistador who led the conquest of Guatemala, is buried.
 3. **Exploration and Activity (1-2 hours per site)**:
    - **Objective**: Engage with the site(s) and sketch.
    - **Procedure for Museo Colonial**:
@@ -101,15 +105,16 @@ By the end of the field trip, the student will be able to:
 - **Name**: Museo Colonial
 - **Address**: 5a Calle Oriente #5, Antigua Guatemala (near central plaza)
 - **Opening Hours**: Typically 9 AM - 5 PM (verify current hours)
-- **Cost**: ~$3-$5 (verify current rates)
+- **Cost**: 40Q (~$5) when entering from Paseo de Los Museos on 1a Avenida Norte; 55Q (~$7) when entering from Casa Santo Domingo on 3a Calle Oriente. Same price for nationals and foreigners. Children enter for free.
+- **Access**: Can be accessed through Paseo de Los Museos on 1a Avenida Norte (recommended, 15Q cheaper) or through Casa Santo Domingo on 3a Calle Oriente.
 - **Name**: Catedral de San José
 - **Address**: 5a Calle Oriente, Antigua Guatemala
 - **Opening Hours**: Typically 9 AM - 5 PM (verify current hours)
-- **Cost**: Free or small donation (~$1-$2)
+- **Cost**: Main cathedral may require a small donation (~$1-$2); Cathedral ruins on 5a Calle Oriente: 20Q (~$2.50) for foreigners, 10Q (~$1.25) for nationals. Children enter for free.
 
 ## What to See
-- **Museo Colonial**: Colonial paintings, sculptures, artifacts showcasing religious and daily life themes.
-- **Catedral de San José**: Main facade with arches and sculptures, bell towers, dome, interior altars/artwork (if accessible).
+- **Museo Colonial**: Colonial paintings (including [San Miguel Arcángel con las ánimas del Purgatorio](https://maps.app.goo.gl/hjV2X82wC666FdNy6), which should be highlighted during the visit), sculptures, artifacts showcasing religious and daily life themes, and crypts in the bottom of the churches.
+- **Catedral de San José**: Main facade with arches and sculptures, bell towers, dome, interior altars/artwork (if accessible). Make sure to enter not only the main cathedral but also the cathedral ruins on 5a Calle Oriente, which include the "Capilla de los Reyes" where Pedro de Alvarado is likely buried.
 
 ## Activity
 - Sketch one feature or art piece from each visited site (e.g., painting or sculpture at Museo Colonial; window or door at Catedral) in 15-20 minutes per sketch, noting its purpose (e.g., “For decoration” or “For looking out”).
