@@ -6,7 +6,7 @@
 | 2    | Maya Achievements and Calendar     | Maya Art and Writing               | -                                  | Casa K'ojom                        |
 | 3    | Spanish Arrival in Guatemala: Pedro de Alvarado and Tecun Uman | Continuation of the Spanish Conquest | Colonial Life in Guatemala         | Iximché Ruins                      |
 | 4    | Colonial Architecture in Antigua   | Daily Life in Colonial Times       | -                                  | Museo Colonial and Catedral de San José |
-| 5    | Road to Independence               | Key Figures of Independence        | -                                  | Museo del Libro Antiguo, Antigua   |
+| 5    | Road to Independence               | Key Figures of Independence        | -                                  | MUNAG (Museo Nacional de Arte de Guatemala), Antigua   |
 | 6    | 20th Century Guatemala             | Modern Political Changes           | -                                  | Local Market or Festival           |
 | 7    | Contemporary Guatemalan Culture    | Traditions and Festivals           | -                                  | Artisan Workshop or Cultural Center|
 | 8    | History of San Juan del Obispo     | Local Legends and Stories          | -                                  | San Juan del Obispo Church         |

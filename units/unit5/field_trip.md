@@ -1,56 +1,61 @@
-# Field Trip Plan: Unit 5 - Museo del Libro Antiguo
+# Field Trip Plan: Unit 5 - MUNAG (Museo Nacional de Arte de Guatemala)
 
 ## Overview
-This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. It focuses on Guatemala’s independence by visiting the Museo del Libro Antiguo in Antigua, Guatemala, connecting Unit 5’s Lessons 1 and 2 (Road to Independence and Key Figures) to historical documents and artifacts. Using Charlotte Mason-inspired observation and narration, this optional 2-3 hour trip leverages the student’s proximity to San Juan del Obispo, requiring minimal preparation and offering a virtual alternative.
+This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. It connects to Unit 5's Lessons 1 and 2 (Road to Independence and Key Figures) by visiting the MUNAG (Museo Nacional de Arte de Guatemala) in Antigua, Guatemala. While the museum primarily features a diverse collection of art spanning multiple periods (including modern, precolumbian Maya, and colonial), we will look for the "escudo de Guatemala" (coat of arms) and any independence-related pieces if available. Using Charlotte Mason-inspired observation and narration, this optional 2-3 hour trip leverages the student's proximity to San Juan del Obispo, requiring minimal preparation and offering a virtual alternative.
 
 ## Alignment with Educational Standards
-This curriculum adheres to homeschool requirements and Charlotte Mason’s philosophy, not following Common Core State Standards. The field trip supports educational goals by:
-- Reinforcing historical understanding through observation of independence-related artifacts.
+This curriculum adheres to homeschool requirements and Charlotte Mason's philosophy, not following Common Core State Standards. The field trip supports educational goals by:
+- Reinforcing historical understanding through observation of Guatemalan art across different time periods.
 - Encouraging narrative skills via post-trip discussion, a Charlotte Mason focus.
 - Integrating art through sketching, supporting cross-subject goals (art).
-- Promoting cultural appreciation by connecting to Guatemala’s independence heritage.
+- Promoting cultural appreciation by exploring Guatemala's artistic heritage across various time periods.
+- Building connections between lessons on Maya and colonial periods through art, while looking for independence-related elements when possible.
 
 ## Learning Objectives
 By the end of the field trip, the student will be able to:
-1. Observe historical documents or artifacts related to Guatemala’s independence (e.g., old books, maps).
-2. Connect the museum visit to Lessons 1-2 about independence and key figures.
-3. Sketch one artifact or document, demonstrating engagement with the site.
+1. Observe artwork and artifacts from various periods in Guatemalan history, looking for the national coat of arms (escudo de Guatemala) if available.
+2. Make connections between art viewed and previous lessons, including independence themes when relevant.
+3. Identify differences between artistic styles across different periods (Maya, colonial, modern).
+4. Sketch one artwork or artifact, demonstrating engagement with the site.
 
 ## Materials and Resources Required
 - **Essentials**: Water, snacks, comfortable clothing/shoes, transportation to Antigua (~15-30 minutes from San Juan del Obispo by bus or car).
-- **Activity Materials**: Sketchbook (or paper), pencils, crayons (household or ~$2-$5).
-- **Optional**: Camera/smartphone for photos (to aid narration), magnifying glass for details (household).
-- **Accessibility**: Low-cost materials; museum entry is approximately $2-$3 per person (verify current rates); transportation costs vary (e.g., bus ~$1-$2).
+- **Activity Materials**: Sketchbook (or paper), pencils, colored pencils/crayons (household or ~$2-$5).
+- **Optional**: Camera/smartphone for photos (to aid narration).
+- **Accessibility**: Low-cost materials; museum entry fee may apply (verify current rates); transportation costs vary (e.g., bus ~$1-$2).
 
 ## Step-by-Step Instructional Procedures
 1. **Preparation (30 minutes, before departure)**:
    - **Objective**: Ensure readiness for an educational trip.
    - **Procedure**:
-     - Review this plan and say, “We’re visiting a museum to see old books from independence time!”
-     - Pack water, snacks, sketchbook, pencils in a bag.
-     - Plan transportation (e.g., bus or car); check museum hours (typically 9 AM - 5 PM).
+     - Review this plan and say, "We're visiting an art museum to see Guatemalan paintings from different time periods!"
+     - Pack water, snacks, sketchbook, pencils, and colored pencils in a bag.
+     - Plan transportation (e.g., bus or car); check museum hours.
 2. **Arrival and Orientation (10 minutes)**:
    - **Objective**: Familiarize the student with the museum.
    - **Procedure**:
-     - Arrive at the museum; point out the entrance: “This place has books from long ago!”
-     - Say, “We’ll look for things about independence and draw one.”
+     - Arrive at the museum located at Palacio de los Capitanes in Antigua; point out the entrance.
+     - Say, "We'll look for art from different time periods in Guatemala's history, and see if we can find the special coat of arms of Guatemala."
 3. **Exploration and Activity (1-2 hours)**:
-   - **Objective**: Engage with artifacts and sketch.
+   - **Objective**: Engage with artwork and sketch.
    - **Procedure**:
-     - Explore exhibits with old books, maps, or independence documents (e.g., printing press, historical texts).
-     - Ask, “What do you think this was used for?” (e.g., “To tell people about freedom”).
-     - Sketch one item (e.g., a book) in 15-20 minutes; encourage simple lines/colors.
+     - Look for the escudo de Guatemala (coat of arms) and discuss its connection to independence.
+     - Explore exhibits with paintings and artwork from various periods (Maya, colonial, modern).
+     - Compare different artistic styles: "How is this Maya art different from colonial art?"
+     - If independence-related art is found, make connections to our lessons: "Remember when we learned about Guatemala's independence?"
+     - Ask, "What do you think this painting shows?" when looking at interesting pieces.
+     - Sketch one artwork that catches your interest in 15-20 minutes; encourage simple lines/colors.
      - Allow free exploration if time permits.
 4. **Wrap-Up and Departure (15 minutes)**:
    - **Objective**: Reflect and leave.
    - **Procedure**:
-     - Review the sketch: “What did you draw? Why?”
-     - Ask, “What did you learn?” and depart with all items.
+     - Review the sketch: "What did you draw? Why did you choose this?"
+     - Ask, "What did you learn about Guatemala's independence from the art?" and depart with all items.
 
 ## Activities and Assessments
-- **Activity**: Sketch one artifact (e.g., book, map) in 15-20 minutes, noting its purpose (e.g., “For writing freedom”).
-- **Formative Assessment**: Observe engagement; listen to wrap-up reflections (e.g., “What did you see?”).
-- **Summative Assessment**: Collect the sketch for the portfolio; use post-trip discussion to assess recall and connection to lessons informally.
+- **Activity**: Sketch one artwork that interests the student in 15-20 minutes, noting what period it's from.
+- **Formative Assessment**: Observe engagement; listen to wrap-up reflections (e.g., "What type of art did you find most interesting?").
+- **Summative Assessment**: Collect the sketch for the portfolio; use post-trip discussion to assess recall and connection to previous lessons informally.
 
 ## Differentiation Strategies
 - **Advanced Learners**: Sketch multiple items or add a note (e.g., “This is from 1821”).
@@ -72,7 +77,7 @@ By the end of the field trip, the student will be able to:
 ## Parental Involvement
 - **Preparation**: Plan transport, pack materials.
 - **Facilitation**: Guide exploration, assist with sketching, prompt questions.
-- **Engagement**: Discuss observations (e.g., “How is this book old?”).
+- **Engagement**: Discuss observations (e.g., “How is this painting related to independence?”).
 - **Follow-Up**: Conduct discussion, store sketch in portfolio.
 
 ## Accommodations
@@ -87,18 +92,21 @@ By the end of the field trip, the student will be able to:
 - Assumes artifact relevance; adapt activity if limited.
 
 ## Location Details
-- **Name**: Museo del Libro Antiguo
-- **Address**: Portal de las Panaderas, Antigua Guatemala (inside Casa del Turista)
-- **Opening Hours**: Typically 9 AM - 5 PM (verify current hours)
-- **Cost**: Approximately $2-$3 per person (confirm current rates)
+- **Name**: MUNAG - Museo Nacional de Arte de Guatemala
+- **Address**: H748+GF8 Palacio de los Capitanes, 5a Calle Poniente, Antigua Guatemala, Guatemala
+- **Opening Hours**: Verify current hours before visiting
+- **Cost**: Verify current rates before visiting
 
 ## What to See
-- Old books and printing press from colonial times.
-- Historical documents or maps (look for independence references).
-- Displays on early printing in Guatemala.
+- A diverse collection of Guatemalan art spanning multiple time periods.
+- The escudo de Guatemala (national coat of arms) if available in the collection.
+- Artwork from the Maya period that connects to earlier units.
+- Colonial-era paintings and artwork that show Guatemala's artistic history.
+- Modern Guatemalan art that reflects the country's cultural evolution.
+- Any independence-related artwork or representations that might be available.
 
 ## Activity
-- Sketch one artifact (e.g., book) in 15-20 minutes, noting its purpose (e.g., “For reading about freedom”).
+- Sketch any artwork that catches your interest in 15-20 minutes, noting which time period it's from and any connections to our previous lessons.
 
 ## Logistical Information
 - Travel ~15-30 minutes from San Juan del Obispo by bus/car.
@@ -106,9 +114,13 @@ By the end of the field trip, the student will be able to:
 - Bring sun protection for walking to the museum.
 
 ## Virtual Alternative
-- Use an online tour or images (e.g., search “Museo del Libro Antiguo virtual tour” or “colonial Guatemala documents”); sketch from screen or printouts.
+- Use online images of the MUNAG collection or search for "Guatemalan art through history"; sketch from screen or printouts.
+- Look for images of the "escudo de Guatemala" online to discuss its connection to independence.
+- Virtual tours of similar museums with Guatemalan art collections can be substituted if available.
 
 ## Post-Trip Discussion
-- What was your favorite thing you saw? Why?
-- How does this connect to Guatemala becoming free?
-- What did you learn from the museum?
+- What was your favorite artwork you saw? Why?
+- What different time periods of art did we see? (Maya, colonial, modern)
+- If we saw the escudo de Guatemala: How might this symbol connect to independence?
+- How are the different styles of art different from each other?
+- What new things did you learn about Guatemala's history from the artwork?
