@@ -1,87 +1,91 @@
-# Unit 8, Lesson 1: Introduction to San Juan del Obispo's History
+# Unit 8, Lesson 1: Preparing Interview Questions for Señora Mayarí de León
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to the history of their hometown, San Juan del Obispo, within a 10-week homeschool curriculum on Guatemalan history. Through storytelling with "The Bishop's Town," picture study of a colonial scene, a dictation exercise, and mapping, the student learns about the town’s founding by Bishop Francisco Marroquín. Aligned with Charlotte Mason-inspired methods—narration, living stories, and hands-on activities—it fosters a sense of place and heritage, leveraging the student’s proximity to Antigua, Guatemala, and building on prior units’ colonial context.
+This lesson prepares a 7-year-old 2nd-grade student to conduct an interview with Señora Mayarí de León, the daughter of Luis de Lión, as part of a 10-week homeschool curriculum on Guatemalan history. Building on Unit 7's introduction to Luis de Lión's life and work, this lesson focuses on developing thoughtful, age-appropriate interview questions about his life, teaching career, literary works, and legacy. Through brainstorming, guided writing, and categorization activities, the student will learn the basics of conducting a respectful and meaningful interview. Aligned with Charlotte Mason-inspired methods—narration, living books, and authentic learning experiences—this lesson prepares the student for a personal connection with history through firsthand testimony.
 
 ## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses "The Bishop's Town" as a narrative-driven story to bring local history to life, per Charlotte Mason’s emphasis on engaging texts.
-- **Narration**: Encourages retelling to enhance comprehension and memory.
-- **Short Lessons**: Limits storytelling and picture study to concise segments (e.g., 5-minute picture study) for focus.
-- **Picture Study**: Adds a 5-minute segment with a colonial painting to foster observation and cultural context, aligning with Charlotte Mason’s art appreciation approach.
-- **Hands-On**: Includes mapping to engage kinesthetic learning with historical geography.
-- **Dictation**: Incorporates a dictation exercise to practice spelling and connect to historical content, per Charlotte Mason’s method.
+- **Living Books**: Builds on prior readings about Luis de Lión's life and work, using primary sources to create meaningful connections.
+- **Narration**: Encourages the student to articulate what they've learned about Luis de Lión through question formation.
+- **Short Lessons**: Divides the interview preparation into manageable segments, focusing on different question categories.
+- **Authentic Learning**: Prepares for a real-world interaction with a primary historical source (Señora Mayarí).
+- **Writing Practice**: Develops writing skills through crafting clear, concise questions.
+- **Respectful Relationships**: Emphasizes respect and empathy when discussing potentially sensitive historical topics.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Understand that San Juan del Obispo was founded by Bishop Francisco Marroquín in colonial times.
-2. Locate key features of San Juan del Obispo on a map (e.g., church, school).
-3. Observe and narrate features of a colonial painting (e.g., colors, buildings).
-4. Write a dictated sentence about the town’s founding with correct spelling.
-5. Retell elements of "The Bishop's Town" in their own words.
+1. Develop thoughtful, age-appropriate interview questions about Luis de Lión's life, teaching career, literary works, and legacy.
+2. Categorize questions into different areas of inquiry (e.g., personal life, teaching, writing).
+3. Write clear, concise questions that demonstrate respect and empathy.
+4. Prepare for a respectful and meaningful interview with Señora Mayarí de León.
+5. Understand the importance of listening and showing appreciation when someone shares personal memories.
 
 ## Materials and Resources Required
-- **Story**: "The Bishop's Town" (from `units/unit8/resources/the_bishops_town.md`; print or read from a device).
-- **Picture Study Image**: A high-quality image of a colonial painting of San Juan del Obispo or a similar scene, such as “Antigua and Surrounding Towns” by an 18th-century artist (search “colonial San Juan del Obispo painting” on Wikimedia Commons, https://commons.wikimedia.org, or museum sites like Google Arts & Culture, https://artsandculture.google.com, ensuring free use).
-- **Map Worksheet**: Prepared as per `units/unit8/resources/san_juan_map.md` (hand-drawn or printed).
-- **Dictation Sentence**: "Bishop Marroquín built a church in San Juan del Obispo." (English) or "El obispo Marroquín construyó una iglesia en San Juan del Obispo." (Spanish), from "The Bishop's Town".
-- **Crayons or Markers**: For coloring the map (household items or ~$2-$5).
-- **Paper and Pencil**: For dictation exercise (household items).
-- **Optional Visuals**: Images of San Juan del Obispo or its church (e.g., search “San Juan del Obispo church” online; free printable resources).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
-- **Accessibility**: Low-cost materials; map can be hand-drawn if no printer; internet access needed for image sourcing, with offline alternatives provided.
+- **Luis de Lión Article**: Previously read in Unit 7 about Luis de Lión's life and work
+- **Luis de Lión Poem**: "Acerca de la ternura" (from Unit 7)
+- **Writing Materials**: Colorful index cards or small paper squares, markers, pencils
+- **Question Categories**: Four sheets of paper labeled: "Childhood/Family", "Teaching", "Writing", and "Museum/Memory"
+- **Sample Questions**: Pre-written examples to guide the student
+- **Special Notebook**: A small, dedicated notebook for the interview questions
+
+## Time Required
+45-50 minutes
 
 ## Step-by-Step Instructional Procedures
-1. **Introduction (5 minutes)**:
-   - **Objective**: Engage the student and introduce local history.
+
+1. **Introduction (10 minutes)**:
+   - **Objective**: Introduce the concept of an interview and its purpose.
    - **Procedure**:
-     - Say, “Today, we’ll learn about our town, San Juan del Obispo, and how it started long ago!”
-     - Ask, “Do you know who built the big church we see?” to spark curiosity.
-     - Recap briefly: “This happened after the Spanish came.”
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore the town’s history through storytelling, picture study, dictation, and mapping.
+     - Begin by saying: "Next week, we will visit Casa Museo Luis de Lión and meet Señora Mayarí, Luis de Lión's daughter. Today we'll prepare questions to ask her about her father."
+     - Discuss what an interview is: "An interview is when we ask someone questions to learn from their experiences."
+     - Watch a 3-minute child-appropriate video clip of an interview (if available) or demonstrate with a simple role-play.
+     - Emphasize respectful listening: "When someone shares their memories, we listen carefully and say thank you because they're giving us a special gift—their stories."
+
+2. **Review and Remember (10 minutes)**:
+   - **Objective**: Recall key facts about Luis de Lión to inform question development.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "The Bishop's Town" aloud with expression. Show optional images if available. Pause to ask, “What did Bishop Marroquín do for our town?”
-     - **Picture Study (5 minutes)**: Show the colonial painting image. Say, “Look at this picture for 2 minutes. Notice the buildings and colors.” After 2 minutes, cover it and ask, “What did you see? What colors or shapes stood out?” Then, uncover and discuss: “Does this look like our town? What buildings do you see?”
-     - **Dictation (5 minutes)**:
-       - **Objective**: Practice spelling and reinforce historical content.
-       - **Procedure**:
-         - Say, “Let’s write a sentence about who started our town.”
-         - Dictate the sentence: "Bishop Marroquín built a church in San Juan del Obispo." (English) or "El obispo Marroquín construyó una iglesia en San Juan del Obispo." (Spanish).
-         - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
-         - Check their spelling and praise their effort (e.g., “You wrote ‘church’ great!”).
-     - **Mapping (10 minutes)**: Provide the map and crayons. Guide the student to color and label key features (e.g., church in yellow, hills green). Say, “Let’s find where we live on this map!”
-3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through retelling.
+     - Review the Luis de Lión article from Unit 7: "Let's remember what we learned about Luis de Lión."
+     - Ask guided recall questions: "What did he do for work? What did he write? What happened to him during the civil war?"
+     - Have the student narrate 2-3 facts they remember about Luis de Lión.
+     - Create a simple mind map on paper with "Luis de Lión" in the center and the student's recalled facts around it.
+
+3. **Question Brainstorming (15 minutes)**:
+   - **Objective**: Generate potential interview questions across categories.
    - **Procedure**:
-     - Prompt, “Tell me about the story” or “What’s on your map or in the picture?”
-     - Encourage simple sentences (e.g., “Bishop built the church”). Note a key phrase (e.g., “San Juan has a big church”) for the portfolio.
-4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview next lesson.
+     - Introduce the question categories laid out on the table: "We'll think of questions in four different areas."
+     - Model with an example for each category:
+       - Childhood/Family: "What was your father like at home?"
+       - Teaching: "What subjects did your father like to teach?"
+       - Writing: "Did your father read his poems to you?"
+       - Museum/Memory: "How did you decide to create a museum for your father?"
+     - For each category, help the student brainstorm 2-3 questions, writing each on a separate index card.
+     - Guide the student to keep questions simple, respectful, and open-ended.
+     - Place each question card in the appropriate category.
+
+4. **Question Selection and Refinement (10 minutes)**:
+   - **Objective**: Select and improve final interview questions.
    - **Procedure**:
-     - Say, “San Juan del Obispo began with Bishop Marroquín, and it’s our home!”
-     - Preview, “Next, we’ll learn more about the church we see every day!”
-     - Add a church drawing to the timeline’s Local History section.
+     - Review all question cards and select 5-7 best questions total (at least one from each category).
+     - Help the student refine selected questions for clarity: "Let's make sure our questions are clear and easy to understand."
+     - Discuss why some questions might be better than others: "This question helps us learn something new" or "This question is respectful of Señora Mayarí's feelings."
+     - Copy the final questions into the special interview notebook in neat handwriting.
+
+5. **Wrap-Up and Preview (5 minutes)**:
+   - **Objective**: Summarize learning and prepare for next lesson.
+   - **Procedure**:
+     - Review the final questions together: "These are excellent questions to ask Señora Mayarí. You've prepared well for our interview."
+     - Preview the next lesson: "In our next lesson, we'll practice asking these questions and learn more about being a good interviewer."
+     - End with appreciation: "Thank you for creating such thoughtful questions. I know Señora Mayarí will appreciate your interest in her father's story."
 
 ## Activities and Assessments
-- **Activities**:
-  - **Storytelling**: Listen to "The Bishop's Town" to learn about the town’s founding (10 minutes).
-  - **Picture Study**: Observe and discuss a colonial painting to appreciate historical context (5 minutes).
-  - **Dictation**: Write a sentence to practice spelling and connect to the story (5 minutes).
-  - **Mapping**: Color and label a map of San Juan del Obispo to explore geography (10 minutes).
-- **Formative Assessment**:
-  - **Storytelling**: Listen for narration details (e.g., bishop, church) to assess comprehension.
-  - **Picture Study**: Evaluate observations (e.g., “I saw a white building”) for memory and detail.
-  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of “built” or “construyó”).
-  - **Mapping**: Observe accuracy in coloring/labeling (e.g., church location) to gauge engagement and spatial awareness.
-- **Summative Assessment**:
-  - Collect the dictation sentence and map for the portfolio, assessing participation and historical understanding informally based on effort and accuracy.
-  - In Week 10, review timeline additions for Unit 8 connection, focusing on creativity and relevance (no formal rubric; based on engagement).
+- **Formative Assessment**: Observe the student's ability to generate relevant questions and categorize them appropriately.
+- **Summative Assessment**: Review the final selected questions for clarity, respect, and relevance to Luis de Lión's life and legacy.
+- **Extension Activity**: Have the student illustrate one or two questions with simple drawings to help remember what they want to ask.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Label extra map features (e.g., “Our Home”) or narrate additional story details (e.g., “He helped people”); write an extra dictation sentence.
-- **Struggling Learners**: Pre-label the map with stickers; simplify narration to “Who built the church?”; allow tracing for dictation.
-- **Kinesthetic Learners**: Point to map locations or hold the painting image while narrating.
-- **Visual Learners**: Use optional images or emphasize the picture study to reinforce concepts.
+- **Advanced Learners**: Narrate additional story details (e.g., “He helped people”); write an extra question.
+- **Struggling Learners**: Simplify narration to “Who was Luis de Lión?”; allow tracing for writing questions.
+- **Kinesthetic Learners**: Use gestures while narrating or hold the interview notebook while brainstorming.
+- **Visual Learners**: Use images or emphasize the importance of clear handwriting in the interview notebook.
 
 ## Time Estimates
 - Introduction: 5 minutes

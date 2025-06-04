@@ -1,91 +1,98 @@
-# Lesson Plan: Unit 9, Lesson 2 - Community Life in San Juan del Obispo
+# Unit 9, Lesson 2: The San Juan del Obispo Church
 
-## Overview
-This lesson explores daily life in San Juan del Obispo, helping the student understand their community’s culture and traditions. Through storytelling and a drawing activity, the student will connect with local life and reflect on their own experiences. Designed for a 7-year-old, it aligns with Charlotte Mason’s methods by using narration and hands-on engagement to foster cultural appreciation and historical understanding.
+### Overview
+This lesson explores the historical significance of the San Juan del Obispo Church for a 7-year-old 2nd-grade student, as part of a 10-week homeschool curriculum on Guatemalan history. Through discussion, an outdoor walk, and crafting a paper church model, the student will learn about the church’s role in local history, building on Lesson 1’s introduction. Designed with Charlotte Mason-inspired methods—narration, short lessons, and hands-on activities—it connects the student to their community’s heritage near Antigua, Guatemala, enhancing engagement with a nature-based observation.
 
-## Alignment with Educational Standards
-This curriculum adheres to homeschool requirements and Charlotte Mason’s philosophy, not following Common Core State Standards. The lesson supports educational goals by:
-- Encouraging cultural understanding through exploration of daily routines and community life.
-- Enhancing narrative skills via oral retelling, a Charlotte Mason emphasis.
-- Integrating art with cultural studies through drawing, supporting cross-subject goals (art).
+### Alignment with Charlotte Mason Guidelines
+- **Narration**: Encourages oral retelling of the church’s story, enhancing comprehension and memory.
+- **Short Lessons**: Limits discussion to 10 minutes, outdoor walk to 5-10 minutes, and crafting to 15 minutes to maintain focus.
+- **Hands-On**: Uses crafting and an outdoor walk for kinesthetic engagement, aligning with Charlotte Mason’s emphasis on nature and practical activities.
+- **Nature Study**: Incorporates an outdoor walk to observe the church’s surroundings, fostering a connection to the environment as per Charlotte Mason’s principles.
 
-## Learning Objectives
+### Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Describe at least two aspects of daily life in San Juan del Obispo (e.g., school, family activities).
-2. Draw a scene from the community to reflect on local life.
-3. Retell elements of "A Day in San Juan del Obispo" in their own words.
+1. Understand the San Juan del Obispo Church’s importance in the town’s history, founded by Bishop Marroquín.
+2. Observe and describe features of the church’s surroundings (e.g., architecture, gardens).
+3. Create a paper model of the church to visualize its design.
 
-## Materials and Resources Required
-- **Story**: "A Day in San Juan del Obispo" (from `units/unit9/resources/community_story.md`; print or read from a device).
-- **Drawing Supplies**: Paper (standard 8.5x11), crayons or markers (household or ~$2-$5).
-- **Optional Visuals**: Images of San Juan del Obispo (e.g., search “San Juan del Obispo town” online; free printable resources).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for optional addition.
-- **Accessibility**: Low-cost materials; printer or device for story; drawing supplies are household items.
+### Materials and Resources Required
+- **Craft Supplies**: Construction paper (white/light color for church, red/brown for roof, other colors for details), scissors (household; adult supervision required), glue or tape (household or ~$1), markers or crayons (household or ~$2-$5).
+- **Craft Instructions**: From `units/unit8/resources/church_craft.md` (provided in curriculum).
+- **Outdoor Space**: Area around the San Juan del Obispo Church or a similar local building (accessible by short walk for residents).
+- **Optional Visuals**: Images of the San Juan del Obispo Church (e.g., search “San Juan del Obispo church” online; free printable resources).
+- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
+- **Accessibility**: Low-cost, common materials; substitutes (e.g., plain paper, pencils) viable; outdoor space assumed accessible for San Juan residents.
 
-## Step-by-Step Instructional Procedures
+### Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce community life and engage interest.
+   - **Objective**: Introduce the church and its historical role.
    - **Procedure**:
-     - Say, “Today, we’ll learn about what it’s like to live in our town!”
-     - Ask, “What do you do every day? Do you think kids long ago did the same things?”
-2. **Main Activity (25 minutes)**:
-   - **Objective**: Explore daily life through story and art.
+     - Recap Lesson 1: “Bishop Marroquín started our town. Today, we’ll learn about his church!”
+     - Say, “The church is old and special. We’ll talk about it, see it outside, and make one!”
+     - Show optional images and ask, “What do you like about our church?”
+2. **Main Activity (30 minutes)**:
+   - **Objective**: Explore the church through discussion, outdoor observation, and crafting.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "A Day in San Juan del Obispo" aloud. Discuss similarities (e.g., “Juan goes to school like you!”) and differences (e.g., “He helps in the garden”).
-     - **Drawing (15 minutes)**: Provide paper and crayons. Say, “Draw your favorite place in our town or something you do every day.” Encourage including one detail from the story (e.g., plaza).
+     - **Discussion (10 minutes)**: Talk about the church’s history: “Bishop Marroquín built it long ago for praying and teaching.” Use images if available. Ask, “What do you see when we pass the church?”
+     - **Outdoor Church Walk (5-10 minutes)**: Take a short walk to the church (or a nearby building if inaccessible). Say, “Let’s look at the church’s outside!” Point out features (e.g., bell tower, windows, gardens). Ask, “What do you notice? How might it have looked long ago?” Supervise closely for safety.
+     - **Craft (15 minutes)**: Return indoors. Provide materials and follow the craft guide: Cut and fold a church base (6x4 inches), add a roof (4x2 inches) and bell tower (2x2 inches), decorate with markers. Say, “Let’s make it look like our church with a tower!”
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
-     - Prompt, “Tell me about Juan’s day” or “What’s in your drawing?”
-     - Listen for details (e.g., school, garden) and note a key comparison for the portfolio.
+     - Prompt, “Tell me about your church” or “What did you see outside?”
+     - Encourage details (e.g., “It has a big tower”). Note a key idea (e.g., “The church is old”) for the portfolio.
 4. **Closing (5 minutes)**:
    - **Objective**: Summarize and preview field trip.
    - **Procedure**:
-     - Say, “Our town has special traditions and daily life.”
-     - Preview, “Next, we’ll visit a market to see more of our community!”
-     - Optionally, add a drawing to the timeline’s Local History section.
+     - Say, “The church is a big part of San Juan’s history, and we saw it today.”
+     - Preview, “Next, we’ll visit it again to learn more!”
+     - Add a church craft drawing to the timeline’s Local History section.
 
-## Activities and Assessments
+### Activities and Assessments
 - **Activities**:
-  - **Storytelling**: Listen to "A Day in San Juan del Obispo" to understand community life (10 minutes).
-  - **Drawing**: Create a scene of local life to reflect on the community (15 minutes).
+  - **Discussion (10 minutes)**: Talking about the church’s history and features.
+  - **Outdoor Church Walk (5-10 minutes)**: Observing the church’s surroundings to connect to its history.
+  - **Crafting (15 minutes)**: Making a paper church model to visualize its design.
 - **Formative Assessment**:
-  - **Story**: Check narration for details (e.g., school, family) to gauge comprehension.
-  - **Drawing**: Observe inclusion of community elements to assess engagement.
+  - **Discussion**: Listen for understanding (e.g., mentions bishop or purpose) to assess comprehension.
+  - **Outdoor Walk**: Check observations (e.g., “The tower is tall”) to gauge engagement with the environment.
+  - **Craft**: Observe effort and connection to the church (e.g., adds windows) to evaluate creativity.
 - **Summative Assessment**:
-  - Collect the drawing for the portfolio, evaluating participation and cultural connection informally.
-  - In Week 10, review timeline additions for Unit 9 connection.
+  - Collect the craft for the portfolio, assessing participation and comprehension informally (no rubric; based on effort and connection to the church).
+  - In Week 10, review timeline additions for Unit 8 connection to evaluate long-term retention.
 
-## Differentiation Strategies
-- **Advanced Learners**: Draw a detailed scene with labels or narrate more differences (e.g., “They play soccer”).
-- **Struggling Learners**: Simplify drawing to one item (e.g., house) and narration to “What does Juan do?”
-- **Kinesthetic Learners**: Act out parts of Juan’s day (e.g., walking to school).
-- **Visual Learners**: Use optional images to inspire drawing.
+### Differentiation Strategies
+- **Advanced Learners**: Add more craft details (e.g., stained glass) or narrate extra facts (e.g., “It helped sick people”); describe additional outdoor features (e.g., garden plants).
+- **Struggling Learners**: Pre-cut craft pieces; simplify narration to “What’s your church for?”; shorten outdoor walk to 5 minutes with one focus (e.g., tower).
+- **Kinesthetic Learners**: Use the craft as a prop while narrating (e.g., point to tower); walk around during outdoor observation.
+- **Visual Learners**: Use images to inspire craft decoration; emphasize visual details during the walk (e.g., colors).
 
-## Time Estimates
+### Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 25 minutes (10 min story, 15 min drawing)
+- Main Activity: 30 minutes (10 min discussion, 5-10 min outdoor walk, 15 min craft)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 45 minutes
+- Total: 50-55 minutes (adjustable to 45 minutes by limiting outdoor walk to 5 minutes)
 
-## Prerequisite Knowledge or Skills
-- **Student**: Basic listening and drawing skills; prior units’ context.
-- **Parent**: Ability to read aloud and assist with drawing; no expertise required.
+### Prerequisite Knowledge or Skills
+- **Student**: Basic cutting and gluing skills (with adult help); familiarity with San Juan del Obispo’s history from Lesson 1.
+- **Parent**: Ability to facilitate discussion, supervise outdoor activity, and assist with craft; no historical expertise required.
 
-## Parental Involvement
-- **Preparation**: Print or load the story; gather drawing supplies (~5-10 minutes).
-- **Facilitation**: Read the story, guide the drawing, and prompt narration.
-- **Engagement**: Discuss, “What’s your favorite thing about our town?”
-- **Follow-Up**: Store the drawing in the portfolio and optionally update the timeline.
+### Parental Involvement
+- **Preparation**: Gather craft supplies as per `units/unit8/resources/church_craft.md` and ensure access to the church or a similar site (~5-10 minutes).
+- **Facilitation**: Lead the discussion, supervise the outdoor walk (ensuring safety), help with cutting and assembling the craft, and prompt narration with provided questions.
+- **Engagement**: Co-learn by asking, “What do you see when we go to the church?” or “How does it look different from our house?”
+- **Follow-Up**: Store the craft in the portfolio and update the timeline with the student.
 
-## Accommodations
-- **Visual Needs**: Enlarge text or use bold crayons; describe images aloud.
-- **Motor Challenges**: Assist with drawing or provide a pre-drawn outline; use large paper.
-- **Attention Span**: Split story and drawing into two 12-minute segments with a break.
-- **Language Support**: Use “pueblo/town” and “escuela/school” bilingually.
+### Accommodations
+- **Visual Needs**: Use high-contrast colors for the craft (e.g., dark roof, light walls); describe outdoor features aloud (e.g., “The tower is tall and white”); enlarge images if used.
+- **Auditory Needs**: Speak clearly during discussion; repeat outdoor observations (e.g., “The windows are big”); allow extra time for narration responses.
+- **Motor Challenges**: Pre-cut craft pieces; assist with gluing or drawing; simplify outdoor walk to pointing from a stationary spot if mobility is limited.
+- **Attention Span**: Shorten discussion to 7 minutes or outdoor walk to 5 minutes with a brief break; adjust craft time as needed.
+- **Language Support**: Use bilingual terms (e.g., “iglesia/church,” “torre/tower”) to reinforce vocabulary; allow narration in Spanish if preferred.
 
-## Assumptions and Limitations
-- Assumes printer or device access for the story; oral telling works if unavailable.
-- Assumes drawing supplies are accessible; pencils substitute if crayons/markers are lacking.
-- Relies on prior units; recap briefly if needed.
+### Assumptions and Limitations
+- Assumes the student lives in San Juan del Obispo with walking access to the church; if unavailable, use a nearby building or photos as an alternative.
+- Assumes access to basic craft supplies; plain paper and pencils can substitute if construction paper or markers are lacking.
+- Assumes weather permits a short outdoor walk; if not, use indoor photos or drawings of the church’s exterior as a substitute.
+- Relies on Lesson 1’s introduction; recap Bishop Marroquín’s role briefly (“He built our town and church”) if missed.

@@ -1,100 +1,120 @@
-# Unit 7, Lesson 2: Traditions and Festivals
+# Unit 7, Lesson 2: Luis de Lión - Poetry and Legacy
 
 ## Overview
-This lesson explores Guatemalan traditions and festivals, focusing on the Giant Kite Festival of Sumpango, within a 10-week homeschool curriculum for a 7-year-old 2nd-grade student in San Juan del Obispo, Guatemala. Through storytelling, picture study, and crafting a paper kite, the student will learn how kites are used to honor loved ones during the Day of the Dead. Aligned with Charlotte Mason-inspired methods—narration, living stories, and hands-on activities—it fosters cultural appreciation and connects traditions to the student’s heritage near Antigua, building on Lesson 1’s cultural foundation.
+This lesson explores the poetry and legacy of Luis de Lión, an important Guatemalan poet, writer, and educator from San Juan del Obispo. Within this 10-week homeschool curriculum for a 7-year-old 2nd-grade student, we will read and appreciate two poems by Luis de Lión, followed by a visit to the Proyecto Luis de Lión where we'll observe poetry displayed on the building. Aligned with Charlotte Mason-inspired methods—narration, living poetry, and hands-on activities—this lesson fosters cultural appreciation and connects the student to a significant literary figure from their own community, building on the cultural foundation established in Lesson 1.
 
 ## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses "The Giant Kite Festival" as a narrative-driven story to bring cultural traditions to life, per Charlotte Mason’s emphasis on engaging texts.
-- **Narration**: Encourages oral retelling to enhance comprehension and memory.
-- **Short Lessons**: Segments storytelling and picture study into concise blocks (e.g., 5-minute picture study) to maintain focus.
-- **Picture Study**: Incorporates a 5-minute segment with a kite festival image to cultivate observation skills and cultural context, aligning with Charlotte Mason’s art appreciation approach.
-- **Hands-On**: Crafting a kite provides kinesthetic engagement with festival traditions.
+- **Living Books**: Uses original poems by Luis de Lión as authentic literary works that bring his voice to life.
+- **Narration**: Encourages oral retelling and personal response to poems.
+- **Short Lessons**: Segments poetry reading and observation into concise blocks to maintain focus.
+- **Picture Study**: Incorporates observation of poetry displayed on the Proyecto Luis de Lión building.
+- **Hands-On**: Copying a poem and creating accompanying sketches provides kinesthetic engagement with literature.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Describe the Giant Kite Festival and its connection to the Day of the Dead.
-2. Observe and narrate features of a festival kite image (e.g., colors, designs).
-3. Create a paper kite to represent the festival’s symbolism.
-4. Retell elements of the festival story or kite observations during narration.
+1. Listen to and appreciate two poems by Luis de Lión.
+2. Visit the Proyecto Luis de Lión and observe poetry displayed on the building.
+3. Copy a poem from the building and create an accompanying sketch.
+4. Share thoughts and observations about Luis de Lión's poetry.
 
 ## Materials and Resources Required
-- **Story**: "The Giant Kite Festival" (from `units/unit7/resources/the_giant_kite_festival.md`; print or read from a device).
-- **Picture Study Image**: A high-quality image of a Giant Kite Festival kite from Sumpango, sourced online (e.g., search “Giant Kite Festival Sumpango Guatemala” on Wikimedia Commons, https://commons.wikimedia.org, or cultural blogs like “Visit Guatemala,” ensuring free use or educational licensing). Alternatively, a photo from a Guatemalan tourism site or local archives.
-- **Craft Supplies**: Construction paper (any color), scissors, glue or tape, string or yarn, markers or crayons (household or ~$5-$10 total).
-- **Craft Instructions**: From `units/unit7/resources/paper_kite_craft.md` (provided in curriculum).
-- **Paper and Pencil**: For noting narration observations if desired (household items).
-- **Optional Visuals**: Additional festival images for reference (e.g., search “Day of the Dead Guatemala kites” online; free printable resources).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for optional addition.
-- **Accessibility**: Low-cost materials; internet access needed for image sourcing, with offline alternatives provided (e.g., parent-drawn kite sketch).
+- **Poems**: Two Luis de Lión poems (provided in lesson plan below)
+- **Background Information**: Luis de Lión resource (from `units/unit7/resources/luis_de_lion.md`; read before the lesson)
+- **Notebook or Paper**: For copying poems and sketching
+- **Drawing Supplies**: Pencils, colored pencils or crayons
+- **Walking Shoes**: For the walk to Proyecto Luis de Lión
 
 ## Step-by-Step Instructional Procedures
-1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce Guatemalan festivals and engage interest.
+1. **Introduction (10 minutes)**:
+   - **Objective**: Introduce Luis de Lión and engage interest in his poetry.
    - **Procedure**:
-     - Recap Lesson 1: “We learned about life in Guatemala today. Now, we’ll explore a special celebration!”
-     - Say, “The Giant Kite Festival uses big kites to remember people. Let’s hear about it and make one!”
-     - Ask, “Have you ever flown a kite?” to spark curiosity.
-2. **Main Activity (25 minutes)**:
-   - **Objective**: Explore the festival through storytelling, picture study, and crafting.
+     - Refer to the Luis de Lión resource: "Remember when we learned about Luis de Lión? He was a poet and teacher from our town, San Juan del Obispo."
+     - Explain: "Today we will read two of his poems and then visit the special place named after him: Proyecto Luis de Lión."
+     - Ask: "Do you know what poetry is? What makes poetry different from other types of writing?"
+
+2. **Poetry Reading (15 minutes)**:
+   - **Objective**: Introduce students to Luis de Lión's poetry through reading and discussion.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "The Giant Kite Festival" aloud with enthusiasm. Show optional images if available. Pause to ask, “Why do they fly kites on this day?”
-     - **Picture Study (5 minutes)**: Show the kite festival image. Say, “Look at this kite for 2 minutes. Notice the colors and designs.” After 2 minutes, cover the image and ask, “What did you see? What colors or shapes stood out?” Then, uncover it and discuss: “What do you think this kite is saying?”
-     - **Crafting (10 minutes)**: Provide materials and follow the craft guide: Cut a diamond-shaped kite from construction paper, decorate with markers, attach tails and string. Say, “Make your kite special—who would you remember with it?”
-3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through retelling.
+     - **First Poem (7 minutes)**: Read this poem slowly and with expression:
+       ```
+       De tanta prisa
+       y distancia,
+       el río llegó sediento.
+       
+       Pero el mar era salado.
+       Y el río se detuvo un instante
+       para beber de sus propias aguas.
+       ```
+       - Ask: "What do you think this poem means? How would you feel if you were the river?"
+       - Explain any unfamiliar words and discuss the imagery.
+     
+     - **Second Poem (8 minutes)**: Read the second poem:
+       ```
+       Barrilete mío,
+       mi pequeño cosmonauta
+       ¿por qué buscaste el cielo
+       en el subsuelo?
+       ```
+       - Ask: "What is a 'barrilete'? Do you know what a 'cosmonauta' is?"
+       - Discuss: "What do you think the poet is trying to say about the kite?"
+
+3. **Visit to Proyecto Luis de Lión (30 minutes)**:
+   - **Objective**: Experience poetry in a community setting and engage with Luis de Lión's legacy.
    - **Procedure**:
-     - Prompt, “Tell me about the kite festival” or “What’s on your kite and why?”
-     - Encourage details (e.g., “It’s for the Day of the Dead” or “My kite is blue”). Note a key idea (e.g., “Kites honor people”) for the portfolio.
-4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview field trip.
+     - **Walk (10 minutes)**: Walk together to the Proyecto Luis de Lión building.
+     - **Observation (10 minutes)**: Read the poems written on the building. Say: "Look at how poetry can be part of buildings and public spaces. Let's read some of the poems displayed here."
+     - **Activity (10 minutes)**: Have the student select a poem they like from the building, copy it into their notebook, and create a sketch inspired by the poem.
+
+4. **Discussion and Reflection (15 minutes)**:
+   - **Objective**: Process the experience and connect to Luis de Lión's legacy.
    - **Procedure**:
-     - Say, “The Giant Kite Festival is a way to celebrate and remember loved ones.”
-     - Preview, “Next, we’ll visit a market to see more of our town!”
-     - Add a kite sketch to the timeline’s Modern section.
+     - Ask: "Which poem did you choose to copy? Why did you like it?"
+     - Discuss: "How do you think Luis de Lión's poems help people in our community remember him?"
+     - Connect to the resource: "Remember how we learned that Luis de Lión's daughter continues his work with children through this project? What kinds of things happen here?"
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling**: Listen to "The Giant Kite Festival" to understand the tradition (10 minutes).
-  - **Picture Study**: Observe and discuss a kite image to appreciate festival art (5 minutes).
-  - **Crafting**: Create a paper kite to engage with festival symbolism (10 minutes).
+  - **Poetry Reading**: Listen to two poems by Luis de Lión (15 minutes)
+  - **Visit**: Walk to and observe Proyecto Luis de Lión (20 minutes)
+  - **Writing/Art**: Copy a poem and create an accompanying sketch (10 minutes)
 - **Formative Assessment**:
-  - **Storytelling**: Check narration for festival details (e.g., kites, Day of the Dead) to assess comprehension.
-  - **Picture Study**: Evaluate observations (e.g., “It’s colorful”) for memory and detail.
-  - **Crafting**: Observe effort and connection (e.g., decoration reflects remembrance) to gauge engagement.
+  - **Poetry Comprehension**: Observe responses to discussion questions about the poems
+  - **Observation**: Note which poems attract the student's attention at the Proyecto
+  - **Creativity**: Review the student's poem copy and illustration for understanding and engagement
 - **Summative Assessment**:
-  - Collect the kite for the portfolio, assessing participation and cultural understanding informally based on effort and relevance.
-  - In Week 10, review timeline additions for Unit 7 connection, focusing on creativity and link to traditions (no formal rubric; based on engagement).
+  - Collect the copied poem and sketch for the portfolio
+  - In Week 10, review how this activity connected to the student's understanding of Guatemalan literature and culture
 
 ## Differentiation Strategies
-- **Advanced Learners**: Add a written message to the kite (e.g., “For Grandma”) or narrate additional festival facts (e.g., “They play music”).
-- **Struggling Learners**: Pre-cut the kite shape; simplify narration to “What’s the kite for?”
-- **Kinesthetic Learners**: Pretend to fly the kite while narrating.
-- **Visual Learners**: Use additional festival images or emphasize the picture study to inspire craft design.
+- **Advanced Learners**: Encourage writing a short response to the poem or create an original poem inspired by Luis de Lión
+- **Struggling Learners**: Focus on shorter poems; help with copying; emphasize the illustration component
+- **Kinesthetic Learners**: Act out the imagery in the poems; use body movements to express the poems' meanings
+- **Visual Learners**: Emphasize the visual observation of poetry on the building and the sketching activity
 
 ## Time Estimates
-- Introduction: 5 minutes
-- Main Activity: 25 minutes (10 min storytelling, 5 min picture study, 10 min crafting)
-- Narration: 10 minutes
-- Closing: 5 minutes
-- Total: 45 minutes
+- Introduction: 10 minutes
+- Poetry Reading: 15 minutes
+- Visit to Proyecto Luis de Lión: 30 minutes
+- Discussion and Reflection: 15 minutes
+- Total: 70 minutes
 
 ## Prerequisite Knowledge or Skills
-- **Student**: Basic cutting and drawing skills (with help); familiarity with contemporary culture from Lesson 1.
-- **Parent**: Ability to read aloud, source an online image, and assist with craft; no historical expertise required.
+- **Student**: Basic writing skills for copying; exposure to the Luis de Lión resource
+- **Parent**: Familiarity with the background information on Luis de Lión; knowledge of the Proyecto Luis de Lión location
 
 ## Parental Involvement
-- **Preparation**: Print or load the story and source a kite festival image online (~10-15 minutes); gather craft supplies as per `units/unit7/resources/paper_kite_craft.md`.
-- **Facilitation**: Read the story, present the picture study, help with cutting and decorating, and prompt narration with provided questions.
-- **Engagement**: Co-learn by asking, “What would you put on your kite?”
-- **Follow-Up**: Store the kite in the portfolio and update the timeline with the student’s sketch.
+- **Preparation**: Review the Luis de Lión resource; plan the walking route to Proyecto Luis de Lión
+- **Facilitation**: Read the poems with expression; guide discussion; assist with copying poems
+- **Engagement**: Share your own thoughts about the poems; encourage respectful observation at the Proyecto
+- **Follow-Up**: Display the student's copied poem and illustration at home; reference Luis de Lión's work in future discussions
 
 ## Accommodations
-- **Visual Needs**: Enlarge the story text and kite image; describe features aloud (e.g., “The kite is red with circles”).
-- **Motor Challenges**: Pre-cut the kite shape or assist with assembly; allow verbal narration without extensive crafting.
-- **Attention Span**: Shorten storytelling to 7 minutes or crafting to 8 minutes with a short movement break.
-- **Language Support**: Use bilingual terms (e.g., “cometa/kite,” “festival/festival”) to reinforce vocabulary; allow narration in preferred language.
+- **Visual Needs**: Enlarge text of poems; describe visual elements of the building
+- **Motor Challenges**: Adjust the walking pace; provide support for writing/drawing
+- **Attention Span**: Break the visit into shorter segments; provide movement breaks
+- **Language Support**: Explain unfamiliar Spanish terms; connect Spanish and English vocabulary in the poems
 
 ## Assumptions and Limitations
-- Assumes internet access for sourcing the kite image; an offline alternative is a parent-drawn kite sketch if unavailable.
-- Assumes craft supply access; substitutes (e.g., plain paper, pencils) work if construction paper or markers are lacking.
-- Relies on Lesson 1’s cultural context; recap briefly (“We learned about life today”) if needed.
+- Assumes the Proyecto Luis de Lión is within walking distance
+- Assumes poetry is visible and accessible on the building exterior
+- Considers weather conditions may affect the outdoor portion of the lesson

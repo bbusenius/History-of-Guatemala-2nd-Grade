@@ -1,108 +1,147 @@
-# Lesson Plan: Unit 7, Lesson 1 - Contemporary Guatemalan Culture
+# Lesson Plan: Unit 7, Lesson 1 - Luis de Lión: A Voice Silenced During the Civil War
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to modern Guatemalan culture through a child’s daily life within a 10-week homeschool curriculum. Through storytelling with a living book excerpt, a dictation exercise, and a drawing activity, the student compares their routine to a Guatemalan peer’s. Aligned with Charlotte Mason-inspired methods—narration, living books, and hands-on activities—it’s tailored for San Juan del Obispo, connecting contemporary culture to the student’s experience and building on Unit 6’s modernization focus.
+This lesson introduces the life and legacy of Luis de Lión, a Kaqchikel Maya writer and teacher who was forcibly disappeared during Guatemala's civil war. Following the previous lesson on the civil war, this session provides a personal narrative that helps a 7-year-old student understand the human impact of historical events. Through age-appropriate reading and discussion of the ["Luis de Lión: A Brave Teacher and Writer"](resources/luis_de_lion.md) resource and exploration of his poem ["Acerca de la ternura"](resources/luis_de_lion_poem.md), the student will learn about Luis's contributions to education and literature, as well as the consequences of political conflict. This lesson uses Charlotte Mason-inspired methods—narration, guided reading, reflection, and copywork—to engage the student in San Juan del Obispo, where Luis de Lión was born, creating a meaningful local connection to history.
 
-## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses an excerpt from *Mayan Folktales* or *Cuentos y Leyendas de Guatemala*, replacing custom stories with narrative-driven texts to engage the student.
-- **Narration**: Encourages retelling to enhance comprehension and memory.
-- **Short Lessons**: Limits storytelling to 10 minutes and dictation to 5 minutes for focus.
-- **Hands-On**: Includes a drawing activity to foster comparison and creativity.
-- **Dictation**: Incorporates a dictation exercise to practice spelling and reinforce cultural content, aligning with Charlotte Mason’s method of connecting writing to meaningful material.
+## Alignment with Educational Standards
+This curriculum adheres to homeschool requirements and Charlotte Mason's philosophy, not following Common Core State Standards per the course rules. The lesson supports educational goals by:
+- Building on historical understanding from the previous lesson on Guatemala's civil war.
+- Encouraging narrative skills through oral retelling and discussion.
+- Promoting cultural appreciation by connecting to a specific Guatemalan cultural figure.
+- Creating empathy and understanding through learning about real people affected by historical events.
+- Developing handwriting skills and attention to detail through copywork of authentic Spanish poetry.
+- Exposing the student to literary techniques and emotional expression through poetry appreciation.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Describe two aspects of modern Guatemalan life from the story (e.g., school, family).
-2. Compare their routine to the story’s through drawing and narration.
-3. Write a dictated sentence about modern culture with correct spelling.
-4. Retell elements of the story in their own words.
+1. Identify who Luis de Lión was and describe his contributions as a teacher and writer.
+2. Explain what happened to Luis de Lión during Guatemala's civil war and why it happened.
+3. Describe how Luis de Lión's legacy continues through his museum and library.
+4. Connect Luis de Lión's story to the broader context of Guatemala's civil war.
+5. Experience one of Luis de Lión's poems and express what it means to them.
+6. Practice careful handwriting through copywork of selected lines from the poem.
 
 ## Materials and Resources Required
-- **Living Book**: A 5-10 minute excerpt from:
-  - *Mayan Folktales: Folklore from Lake Atitlán, Guatemala* translated by James D. Sexton (English, ebook on [Amazon Kindle](https://www.amazon.com/Mayan-Folktales-Folklore-Atitlán-Guatemala-ebook/dp/B00B9I2H0I), ~$9).
-  - *Cuentos y Leyendas de Guatemala* by Francisco Barnoya Gálvez (Spanish, physical book via [Piedra Santa](https://www.piedrasanta.com/libro/cuentos-y-leyendas-de-guatemala_1607), ~$10-$15).
-  - Sourcing details in `overview/parent_guide.md`.
-- **Dictation Sentence**: "People in Guatemala go to school." (English) or "La gente en Guatemala va a la escuela." (Spanish), reflecting modern life from the story context.
-- **Drawing Supplies**: Paper (standard 8.5x11, household item), crayons or markers (household or ~$2-$5).
-- **Paper and Pencil**: For dictation exercise (household items).
-- **Optional Visuals**: Images of modern Guatemalan life (e.g., search “Antigua Guatemala daily life” online; free printable resources).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
-- **Accessibility**: Ebook for *Mayan Folktales* prioritizes access; physical book may need local sourcing; drawing supplies are household items.
+- **Reading**: ["Luis de Lión: A Brave Teacher and Writer"](resources/luis_de_lion.md) (print or read from a device).
+- **Poem**: ["Acerca de la ternura"](resources/luis_de_lion_poem.md) by Luis de Lión.
+- **Timeline**: Reusable timeline from previous lessons to add Luis de Lión's birth (1939), disappearance (1984), and confirmation of his fate (1999).
+- **Map**: Map of Guatemala to locate San Juan del Obispo, where Luis de Lión was born.
+- **Notebook/Paper**: For student to take notes or draw scenes from Luis de Lión's life.
+- **Lined Paper**: For poem copywork.
+- **Pencils/Colored Pencils**: For writing and drawing activities.
+- **Optional**: Images of La Casa Museo Luis de Lión if available.
 
 ## Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce contemporary culture and engage interest.
+   - **Objective**: Connect to previous lesson and introduce Luis de Lión.
    - **Procedure**:
-     - Recap Unit 6: “Guatemala got modern. Today, we’ll see what life is like now!”
-     - Say, “We’ll hear a story about a kid like you, write about it, and draw your day!”
-     - Ask, “What do you do every day?” to set the stage.
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore modern life through story, dictation, and drawing.
+     - Recap Lesson 2: "Last time, we learned about Guatemala's civil war. Remember how many people were 'disappeared' during this time? Today, we'll learn about one of those people—Luis de Lión."
+     - Say, "Luis de Lión was a teacher and writer who was born very close to where we are now, in San Juan del Obispo. His story helps us understand what happened to real people during the civil war."
+     - Point out San Juan del Obispo on the map, emphasizing the local connection.
+
+2. **Main Activity (35 minutes)**:
+   - **Objective**: Learn about Luis de Lión's life, work, and disappearance.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read a 5-10 minute excerpt from *Mayan Folktales* (e.g., a modern tale) or *Cuentos y Leyendas de Guatemala* (e.g., a contemporary story). Show optional images. Ask, “What’s similar to your day?”
-     - **Dictation (5 minutes)**:
-       - **Objective**: Practice spelling and reinforce cultural content.
-       - **Procedure**:
-         - Say, “Let’s write a sentence about life in Guatemala today.”
-         - Dictate the sentence: "People in Guatemala go to school." (English) or "La gente en Guatemala va a la escuela." (Spanish).
-         - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
-         - Check their spelling and praise their effort (e.g., “You wrote ‘school’ perfectly!”).
-     - **Drawing (15 minutes)**: Provide paper and crayons. Say, “Draw your day and something from the story, like going to school.” Guide them to compare routines.
-3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through retelling.
+     - **Guided Reading (15 minutes)**: Read sections of ["Luis de Lión: A Brave Teacher and Writer"](resources/luis_de_lion.md) aloud, pausing after each section to discuss. For a 7-year-old, focus on:
+       - Who Luis de Lión was (his Maya heritage and family background)
+       - His work as a teacher and his love for children's education
+       - The library he created and how it still exists today
+       - His disappearance during the civil war
+       - How his story was eventually discovered
+     - **Poem Reading (5 minutes)**: Read Luis de Lión's poem ["Acerca de la ternura"](resources/luis_de_lion_poem.md) aloud in both Spanish and English.
+       - Discuss how this poem shows Luis de Lión's sensitive side and his appreciation for tenderness and connection
+       - Ask: "What do you think this poem is about? How does it make you feel?"
+     - **Copywork Activity (10 minutes)**: Have the student copy a few lines from the English translation of the poem onto lined paper.
+       - Choose 2-4 lines that resonate with the student
+       - Focus on neat handwriting and proper spacing
+       - Explain that copying the words of a writer helps us connect with their ideas
+     - **Timeline Activity (5 minutes)**: Mark important dates on the timeline:
+       - 1939: Birth of Luis de Lión
+       - 1984: Disappearance of Luis de Lión
+       - 1999: Discovery of the Military Diary confirming his fate
+
+3. **Comprehension Check (10 minutes)**:
+   - **Objective**: Ensure understanding of key aspects of Luis de Lión's life and legacy.
    - **Procedure**:
-     - Prompt, “How’s your day like the story’s?” or “What did you draw?”
-     - Encourage comparisons (e.g., “I go to school too”). Note a key similarity (e.g., “Kids go to school”) for the portfolio.
-4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview next lesson.
+     - Ask open-ended questions:
+       - "Why was Luis de Lión's work as a teacher important?"
+       - "What happened to Luis de Lión during the civil war?"
+       - "Why do you think the government considered him dangerous?"
+       - "How do people remember Luis de Lión today?"
+     - Have the student draw a picture of the library Luis de Lión created, imagining what it might look like with children reading books.
+
+4. **Reflection (10 minutes)**:
+   - **Objective**: Connect Luis de Lión's story to values and present day.
    - **Procedure**:
-     - Say, “Kids in Guatemala have routines like ours, with special traditions.”
-     - Preview, “Next, we’ll learn about festivals in our town!”
-     - Add a drawing to the timeline’s Modern section.
+     - Ask reflective questions:
+       - "How do you think Luis de Lión's students felt when he disappeared?"
+       - "Why is it important to remember people like Luis de Lión?"
+       - "How can we honor people who tried to help others learn?"
+     - Create a simple "thank you note" to Luis de Lión, expressing appreciation for his work as a teacher and writer.
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling**: Listen to a modern Guatemalan story to explore daily life (10 minutes).
-  - **Dictation**: Write a sentence to practice spelling and connect to the story (5 minutes).
-  - **Drawing**: Create a scene comparing their routine to the story’s (15 minutes).
+  - **Reading**: Read ["Luis de Lión: A Brave Teacher and Writer"](resources/luis_de_lion.md) to understand his life and legacy (15 minutes).
+  - **Poetry**: Read and discuss Luis de Lión's poem ["Acerca de la ternura"](resources/luis_de_lion_poem.md) (5 minutes).
+  - **Copywork**: Copy selected lines from the poem to practice handwriting and connect with the author's words (10 minutes).
+  - **Timeline**: Mark important dates related to Luis de Lión's life to connect with the broader civil war timeline (5 minutes).
+  - **Drawing**: Create an illustration of Luis de Lión's library (5 minutes).
+  - **Writing**: Create a simple thank-you note to Luis de Lión (5 minutes).
 - **Formative Assessment**:
-  - **Story**: Listen for narration details (e.g., school, family) to assess comprehension.
-  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of “school” or “escuela”).
-  - **Drawing**: Observe inclusion of story elements to gauge engagement and comparison skills.
+  - **Comprehension**: Listen for key details about Luis de Lión's life, work, and disappearance to assess understanding.
+  - **Drawing**: Review the student's drawing of the library to gauge engagement and comprehension.
+  - **Copywork**: Evaluate neatness, attention to detail, and engagement with the poem.
 - **Summative Assessment**:
-  - Collect the dictation sentence and drawing for the portfolio, assessing participation and cultural understanding informally based on effort and engagement.
-  - In Week 10, review timeline additions for Unit 7 connection; no formal rubric.
+  - Collect the student's drawing, copywork, and thank-you note for the portfolio, evaluating understanding of key concepts.
+  - In Week 10, review timeline additions for Unit 6 connection and historical comprehension.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Draw a detailed scene with labels or narrate more similarities; write an additional dictation sentence.
-- **Struggling Learners**: Simplify drawing to one element (e.g., school); shorten narration to “What do they do?”; allow tracing for dictation.
-- **Kinesthetic Learners**: Act out a routine (e.g., walking to school) while narrating.
-- **Visual Learners**: Use images to inspire drawing and reinforce story concepts.
+- **Advanced Learners**: Encourage deeper questions about the political context and freedom of expression.
+- **Struggling Learners**: Focus on simpler concepts of Luis as a teacher and storyteller.
+- **Kinesthetic Learners**: Act out a scene of Luis teaching children or organizing books in his library.
+- **Visual Learners**: Provide additional images of San Juan del Obispo and La Casa Museo Luis de Lión.
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (10 min story, 5 min dictation, 15 min drawing)
-- Narration: 10 minutes
-- Closing: 5 minutes
-- Total: 50 minutes (extended from 45 minutes to include dictation without reducing other sections)
+- Main Activity: 35 minutes
+  - Guided Reading: 15 minutes
+  - Poem Reading & Discussion: 5 minutes
+  - Copywork Activity: 10 minutes
+  - Timeline Activity: 5 minutes
+- Comprehension Check: 10 minutes
+- Reflection: 10 minutes
+- Total: 60 minutes
 
 ## Prerequisite Knowledge or Skills
-- **Student**: Basic listening, drawing, and writing skills; Unit 6’s modern Guatemala context.
-- **Parent**: Ability to read aloud, assist with drawing, and conduct dictation; no historical expertise required.
+- **Student**: Understanding of Guatemala's civil war from Lesson 2; basic drawing and writing skills.
+- **Parent**: Ability to read aloud and facilitate discussions about sensitive topics at an age-appropriate level; familiarity with the basic facts of Guatemala's civil war from Lesson 2.
 
 ## Parental Involvement
-- **Preparation**: Source the living book excerpt (e.g., download ebook) and gather drawing supplies (~5-10 minutes).
-- **Facilitation**: Read the excerpt, dictate the sentence clearly, guide drawing, and prompt narration.
-- **Engagement**: Discuss, “What’s your favorite part of your day?”
-- **Follow-Up**: Store the dictation sentence and drawing in the portfolio and update the timeline.
+- **Preparation**: Print or load the reading; prepare map and timeline materials (~5-10 minutes).
+- **Facilitation**: Guide the reading, discussion, and timeline activity; support reflection.
+- **Engagement**: Discuss historically sensitive topics like forced disappearance at an appropriate level for a 7-year-old.
+- **Follow-Up**: Store the drawing and thank-you note in the portfolio and update the timeline.
 
 ## Accommodations
-- **Visual Needs**: Enlarge text or use bold crayons; describe images aloud if used.
-- **Motor Challenges**: Assist with drawing or provide a pre-drawn outline; allow tracing for dictation.
-- **Attention Span**: Shorten storytelling to 7 minutes or drawing to 10 minutes with a break.
-- **Language Support**: Use “escuela/school” and “gente/people” bilingually; allow dictation in preferred language.
+- **Visual Needs**: Enlarge text or use bold markers; describe images aloud.
+- **Motor Challenges**: Assist with writing or drawing; use large paper.
+- **Attention Span**: Split reading and activities into two sessions if needed.
+- **Language Support**: Use bilingual terms when possible, especially for Kaqchikel Maya references.
+
+## Related Activities/Extension Ideas
+- **Extended Project**: Research other Guatemalan writers or visit a local library to learn about its importance.
+- **Field Trip Connection**: Visit San Juan del Obispo to see Luis de Lión's birthplace or La Casa Museo Luis de Lión if possible.
+- **Book Integration**: Look for children's books about standing up for what you believe in or the importance of education.
+- **Family Connection**: Discuss the value of libraries and teachers in the community.
 
 ## Assumptions and Limitations
-- Assumes access to a living book excerpt; parents can adapt a similar story if unavailable (see `overview/parent_guide.md`).
-- Assumes drawing supplies; pencils substitute if crayons/markers lacking.
-- Relies on Unit 6; recap modernization briefly if needed.
+- Assumes completion of Lesson 2 on Guatemala's civil war for context.
+- Recognizes the need for age-appropriate discussion of forced disappearance and political conflict.
+- 50-minute lesson: Can be broken into two sessions if needed for attention span.
+- Limited resources: May be difficult to find additional materials about Luis de Lión in English.
+
+## Notes for Parent/Teacher
+- This lesson deals with a sensitive topic (forced disappearance) but presents it in an age-appropriate way. The focus is on Luis de Lión's positive contributions and legacy rather than the details of his disappearance.
+- The local connection to San Juan del Obispo makes this lesson especially relevant, as the student can physically visit places connected to Luis de Lión's life.
+- If the student shows particular interest in Luis de Lión's work as a teacher or writer, consider exploring additional Guatemalan literature in future lessons.
+- This lesson builds directly on the previous lesson about Guatemala's civil war, helping to personalize a large historical event through one individual's story.

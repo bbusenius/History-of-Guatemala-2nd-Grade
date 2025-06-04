@@ -1,114 +1,162 @@
-# Field Trip Plan: Unit 6 - Local Market
+# Field Trip Plan: Unit 6 - Visit to Casa de la Memoria
 
 ## Overview
-This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. It focuses on modern Guatemala by visiting a local market in Antigua or San Juan del Obispo, connecting Unit 6’s Lessons 1 and 2 (modernization and peace) to contemporary life. Using Charlotte Mason-inspired observation and narration, this optional 2-3 hour trip leverages the student’s proximity to San Juan del Obispo, requiring minimal preparation and offering a virtual alternative.
+This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. Following Unit 6's lessons on 20th century Guatemala and the civil war, this visit to Casa de la Memoria in Guatemala City offers an immersive educational experience about Guatemala's history, with special focus on the civil war period. The museum presents history through carefully curated exhibits that examine different periods and aspects of Guatemala's past. Using Charlotte Mason-inspired approaches of firsthand observation and narration, this 2-3 hour visit can be conducted either in-person or virtually through the museum's website (https://casadelamemoria.org.gt/).
 
 ## Alignment with Educational Standards
-This curriculum adheres to homeschool requirements and Charlotte Mason’s philosophy, not following Common Core State Standards. The field trip supports educational goals by:
-- Reinforcing historical understanding through observation of modern Guatemalan life post-20th century.
-- Encouraging narrative skills via post-trip discussion, a Charlotte Mason focus.
-- Integrating art through sketching, supporting cross-subject goals (art).
-- Promoting cultural appreciation by connecting to current traditions and daily life.
+This curriculum adheres to homeschool requirements and Charlotte Mason's philosophy, not following Common Core State Standards. The field trip supports educational goals by:
+- Deepening historical understanding through exposure to primary sources, photographs, and testimonies.
+- Encouraging narrative skills through guided reflection and post-visit discussion.
+- Developing critical thinking by examining different perspectives on historical events.
+- Creating meaningful connections between classroom learning about the civil war and visual/multimedia representations.
+- Supporting character development through reflection on themes of justice, memory, and reconciliation.
 
 ## Learning Objectives
 By the end of the field trip, the student will be able to:
-1. Observe modern Guatemalan culture (e.g., foods, crafts, technology) at the market.
-2. Compare market life to historical periods from Units 1-5 (e.g., colonial markets).
-3. Sketch one market item or scene to demonstrate engagement.
+1. Identify at least three key events or periods from Guatemala's history presented in the museum.
+2. Connect exhibits about the civil war to concepts learned in the classroom lessons.
+3. Express personal responses to at least one exhibit through simple narration or drawing.
+4. Recognize the importance of remembering difficult historical events.
+5. Describe how museums help preserve historical memory.
 
 ## Materials and Resources Required
-- **Essentials**: Water, snacks, comfortable clothing/shoes, transportation to the market (~15-30 minutes from San Juan del Obispo).
-- **Activity Materials**: Sketchbook (or paper), pencils, crayons (household or ~$2-$5).
-- **Optional**: Camera/smartphone for photos (to aid narration).
-- **Accessibility**: Low-cost materials; markets are typically free to enter; transportation costs vary (e.g., bus ~$1-$2).
+- **For In-Person Visit**:
+  - Transportation to Guatemala City
+  - Notebook and pencil for simple notes or sketches
+  - Camera (if permitted) for documenting exhibits
+  - Water and snacks
+  - Comfortable walking shoes
+
+- **For Virtual Visit**:
+  - Computer with internet access
+  - Access to the museum's virtual tour at https://casadelamemoria.org.gt/
+  - Notebook and pencil for notes or sketches
+  - Printable museum guide (can be created beforehand with simple descriptions of each room)
 
 ## Step-by-Step Instructional Procedures
-1. **Preparation (30 minutes, before departure)**:
-   - **Objective**: Ensure readiness for an educational trip.
+
+### For In-Person Visit:
+
+1. **Preparation (1 day before)**:
+   - **Objective**: Prepare the student for potentially sensitive content.
    - **Procedure**:
-     - Say, “We’re visiting a market to see how Guatemala is today!”
-     - Pack water, snacks, sketchbook, pencils in a bag.
-     - Choose a market (e.g., Mercado de Antigua) and plan transportation (bus or car).
-2. **Arrival and Orientation (10 minutes)**:
-   - **Objective**: Familiarize the student with the market.
+     - Review key concepts from Unit 6 lessons about Guatemala's history and civil war.
+     - Explain that the museum helps people remember important events, even difficult ones.
+     - Discuss appropriate museum behavior (speaking quietly, not touching exhibits).
+     - Frame the visit as a way to better understand what they've been learning.
+
+2. **Introduction at Museum (15 minutes)**:
+   - **Objective**: Orient the student to the museum and set expectations.
    - **Procedure**:
-     - Arrive; say, “Look at all the things people sell!”
-     - Set goal: “Let’s find something modern and something old-fashioned to draw.”
-3. **Exploration and Activity (1-2 hours)**:
-   - **Objective**: Observe and sketch.
+     - Upon arrival, review the museum map together.
+     - Explain that they'll see different "rooms" telling parts of Guatemala's story.
+     - Set a goal to find connections to what they've already learned.
+     - For younger students, identify 3-4 key rooms to focus on rather than the entire museum.
+
+3. **Guided Exploration (60-90 minutes)**:
+   - **Objective**: Explore selected exhibits with age-appropriate guidance.
    - **Procedure**:
-     - Walk through stalls, noting items (e.g., fruits, electronics).
-     - Ask, “How is this different from colonial times?” (e.g., “They have phones now”).
-     - Sketch one item/scene (e.g., a fruit stall) in 15-20 minutes.
-     - Explore freely if time permits.
-4. **Wrap-Up and Departure (15 minutes)**:
-   - **Objective**: Reflect and leave.
+     - Visit each room at the student's pace, starting with Cosmovisión Maya.
+     - For sensitive exhibits (like Conflicto armado interno or Genocidio), use simplified explanations focused on the importance of peace and respect.
+     - In each room, ask simple guiding questions: "What do you notice?" "How do you think people felt?"
+     - Allow time for questions, emphasizing that it's okay to have difficult feelings.
+     - Take short breaks between rooms if needed.
+
+4. **Reflection Activity (20 minutes)**:
+   - **Objective**: Process the experience through simple reflection.
    - **Procedure**:
-     - Review sketch: “What did you draw?”
-     - Ask, “What did you learn about today’s Guatemala?” and depart.
+     - Find a quiet space in the museum (potentially the Reflexión room).
+     - Draw something meaningful from the visit.
+     - Discuss one thing learned and one thing felt during the visit.
+
+5. **Conclusion (15 minutes)**:
+   - **Objective**: Summarize the experience and transition away from potentially difficult content.
+   - **Procedure**:
+     - Discuss the importance of remembering history.
+     - End with forward-looking discussion: "How can learning about the past help us make a better future?"
+
+### For Virtual Visit:
+
+1. **Preparation (same as in-person)**
+
+2. **Introduction to Virtual Tour (10 minutes)**:
+   - **Objective**: Orient the student to the virtual museum environment.
+   - **Procedure**:
+     - Open the Casa de la Memoria website.
+     - Explain how to navigate between rooms in the virtual tour.
+     - Review the names of the rooms and what they might see.
+
+3. **Virtual Exploration (45-60 minutes)**:
+   - **Objective**: Explore the virtual exhibits interactively.
+   - **Procedure**:
+     - Visit 4-5 selected rooms, focusing on age-appropriate content.
+     - For each room, allow time to observe before discussing.
+     - Take short breaks between rooms.
+     - Make connections to previous lessons.
+
+4. **Reflection Activity (same as in-person)**
+
+5. **Conclusion (same as in-person)**
+
+## Focus Areas by Room
+For a 2nd-grade student, these simplified focus areas make the content age-appropriate:
+
+1. **Cosmovisión Maya**:
+   - Focus on Maya beliefs about harmony and connection to nature
+   - Connect to previous lessons about Maya civilization
+
+2. **Invasión**:
+   - Simplified explanation of the Spanish arrival
+   - Focus on how different peoples met and how life changed
+
+3. **500+ años**:
+   - Look for examples of different time periods
+   - Identify differences in clothing, buildings, or daily life
+
+4. **Revolución/Contrarrevolución**:
+   - Focus on the concept that people worked to make changes for a better country
+   - Look for symbols of hope and change
+
+5. **Conflicto armado interno**:
+   - Age-appropriate focus on how people faced challenges
+   - Emphasize the value of peace and resolving differences without fighting
+
+6. **Memoria, Verdad y justicia**:
+   - Focus on how remembering helps people heal
+   - Simple explanation of why truth is important
+
+7. **Reflexión**:
+   - Encourage thoughtful response to the visit
+   - Draw or write about feelings and thoughts
 
 ## Activities and Assessments
-- **Activity**: Sketch one market item/scene (e.g., a vendor) in 15-20 minutes, noting modern/traditional aspects.
-- **Formative Assessment**: Observe engagement; listen to reflections (e.g., “What did you see?”).
-- **Summative Assessment**: Collect sketch for portfolio; use post-trip discussion to assess connections to lessons informally.
+- **Primary Activity**: Guided exploration with simple narration prompts for each room.
+- **Formative Assessment**: Observe engagement and emotional responses; adjust pace and depth accordingly.
+- **Summative Assessment**: Post-visit discussion and drawing that demonstrates understanding of at least two key concepts.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Sketch multiple items or add notes (e.g., “This is modern”).
-- **Struggling Learners**: Draw simple shapes (e.g., a fruit); use a camera instead.
-- **Kinesthetic Learners**: Point to items while exploring.
-- **Visual Learners**: Use photos for detail focus.
+- **Advanced Learners**: Encourage deeper connections between exhibits and previous learning; ask comparative questions between different historical periods.
+- **Sensitive Students**: Focus more on rooms with less potentially distressing content; emphasize stories of resilience and healing.
+- **English Language Learners**: Utilize the bilingual nature of many exhibits; make connections between Spanish and English terms.
 
-## Time Estimates
-- Preparation: 30 minutes
-- Arrival/Orientation: 10 minutes
-- Exploration/Activity: 1-2 hours
-- Wrap-Up/Departure: 15 minutes
-- Total: 2-3 hours (flexible)
+## Post-Visit Activities
+1. **Thank You Note**: If the visit was in-person, write a simple thank you note to the museum staff.
+2. **Memory Drawing**: Create a drawing of the most memorable exhibit or room.
+3. **Timeline Addition**: Add notes about what was learned to the classroom timeline.
+4. **Discussion Questions**: "How did the museum help you understand Guatemala's history better?" "What was one new thing you learned?"
 
-## Prerequisite Knowledge or Skills
-- **Student**: Basic drawing skills; Unit 6 lessons on modernization and peace.
-- **Parent**: Logistics planning; basic facilitation skills.
+## Preparation Notes
+- **Teacher Prep Time**: 30-45 minutes to review the museum website and prepare age-appropriate explanations.
+- **Content Sensitivity**: Preview exhibits (in-person or virtually) to identify potentially sensitive content and plan appropriate explanations.
+- **For Virtual Visit**: Test the website functionality before the scheduled visit time.
+- **For In-Person Visit**: Check museum hours, admission fees, and photography policies in advance.
 
-## Parental Involvement
-- **Preparation**: Choose market, plan transport, pack materials.
-- **Facilitation**: Guide exploration, assist with sketching, prompt questions.
-- **Engagement**: Discuss, “What’s new compared to before?”
-- **Follow-Up**: Conduct discussion, store sketch in portfolio.
+## Virtual Alternative Enhancements
+If conducting the visit virtually:
+1. Print simple coloring sheets related to Guatemalan history to accompany the virtual tour.
+2. Create a scavenger hunt for specific items to spot in each virtual room.
+3. Take screenshots of key exhibits for post-visit discussion and activities.
+4. Consider breaking the virtual visit into two shorter sessions if attention span is a concern.
 
-## Accommodations
-- **Visual Needs**: Describe items aloud; enlarge sketchbook.
-- **Motor Challenges**: Assist sketching; photograph instead.
-- **Attention Span**: Shorten to 1 hour with breaks.
-- **Language Support**: Use “mercado/market,” “moderno/modern” bilingually.
-
-## Assumptions and Limitations
-- Assumes market proximity (~15-30 minutes); adjust if further.
-- Assumes open market day; verify schedule.
-- Weather may affect visit; virtual option available.
-
-## Location Details
-- **Name**: Mercado de Antigua (or local market in San Juan del Obispo)
-- **Address**: Central Antigua or San Juan del Obispo (specific address varies; check locally)
-- **Opening Hours**: Typically mornings daily (verify current hours)
-- **Cost**: Free entry
-
-## What to See
-- Food stalls (e.g., fruits, tamales).
-- Craft vendors (e.g., textiles).
-- Modern goods (e.g., phones, plastic items).
-
-## Activity
-- Sketch one market item/scene (e.g., a fruit stall) in 15-20 minutes, noting modern/traditional elements.
-
-## Logistical Information
-- Travel ~15-30 minutes by bus/car from San Juan del Obispo.
-- Parking or bus stops nearby; walk to market.
-- Bring sun protection for outdoor time.
-
-## Virtual Alternative
-- Use online images/videos of Guatemalan markets (e.g., search “Antigua Guatemala market video”); sketch from screen or printouts.
-
-## Post-Trip Discussion
-- What did you see at the market?
-- How is it different from long ago?
-- What shows Guatemala today?
+## Conclusion
+The Casa de la Memoria field trip, whether conducted in-person or virtually, offers a valuable opportunity to deepen understanding of Guatemala's history, with particular focus on the civil war period covered in Unit 6. By approaching sensitive topics with age-appropriate guidance, the experience can foster historical understanding, empathy, and appreciation for the importance of remembering the past.

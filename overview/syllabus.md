@@ -21,17 +21,17 @@ This 10-week course introduces students to the rich history of Guatemala, from t
 5. **Unit 5: Independence of Guatemala**
    - Study the events leading to Guatemala's independence in 1821 and key figures involved.
 
-6. **Unit 6: Modern Guatemala - 20th Century to Present**
-   - Examine significant events and changes in Guatemala from the 20th century to today.
+6. **Unit 6: Modern Guatemala and the Civil War**
+   - Examine 20th century Guatemala with special focus on the civil war (1960-1996), including a field trip to Casa de la Memoria to explore different aspects of Guatemala's history and conflict.
 
-7. **Unit 7: Modern Culture and Traditions**
-   - Explore contemporary Guatemalan culture, traditions, and daily life.
+7. **Unit 7: Luis de Lión**
+   - Study Luis de Lión, a Maya writer and teacher who was disappeared during the civil war, and explore aspects of Guatemalan traditions through his perspective.
 
-8. **Unit 8: Local History of San Juan del Obispo**
-   - Investigate the history and significance of San Juan del Obispo, the student's hometown.
+8. **Unit 8: Interview Preparation and Field Trip**
+   - Prepare for interviewing Señora Mayarí de León at Casa Museo Luis de Lión, including developing questions and practicing interview skills.
 
-9. **Unit 9: Local Landmarks and Stories**
-   - Discover important landmarks and local stories of San Juan del Obispo.
+9. **Unit 9: Local History of San Juan del Obispo**
+   - Investigate the history and significance of San Juan del Obispo, the student's hometown, including important landmarks and local stories.
 
 10. **Unit 10: Review and Final Project**
     - Review key concepts and complete a final project showcasing what was learned.

@@ -1,114 +1,143 @@
-# Field Trip Plan: Unit 9 - Local Market Visit
+# Field Trip Plan: Unit 9 - Visit to Museo San Juan del Obispo (Bishop's Palace)
 
 ## Overview
-This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. It focuses on local history and culture by visiting a market in Antigua or San Juan del Obispo, connecting Lessons 1 and 2 to real-world experiences. Using Charlotte Mason-inspired observation and narration, this optional 2-3 hour trip leverages the student’s residence in San Juan del Obispo, requiring minimal preparation and offering a virtual alternative.
+This field trip is part of a 10-week homeschool curriculum on Guatemalan history for a 7-year-old 2nd-grade student. Following Unit 9's lessons on the local history of San Juan del Obispo, this visit to the Palacio del Obispo (Bishop's Palace) brings the town's history to life. Built in the 1530s-1540s by Bishop Francisco Marroquín, the founder of San Juan del Obispo, this historic building now serves as a museum that showcases colonial architecture and life. Using Charlotte Mason-inspired approaches of firsthand observation and narration, this 1-2 hour visit allows the student to see and experience the historical spaces they've been learning about in their lessons, creating a tangible connection to local history.
 
 ## Alignment with Educational Standards
-This curriculum adheres to homeschool requirements and Charlotte Mason’s philosophy, not following Common Core State Standards. The field trip supports educational goals by:
-- Reinforcing cultural understanding through observation of local markets and traditions.
-- Encouraging narrative skills via post-trip discussions, a Charlotte Mason focus.
-- Integrating art through sketching, supporting cross-subject goals (art).
-- Promoting cultural appreciation by connecting to the student’s local community.
+This curriculum adheres to homeschool requirements and Charlotte Mason's philosophy, not following Common Core State Standards. The field trip supports educational goals by:
+- Deepening historical understanding through firsthand observation of colonial architecture and living spaces.
+- Encouraging narrative skills through guided observation and post-trip reflection, a Charlotte Mason focus.
+- Developing visual literacy by examining historical artifacts, architecture, and artwork in their original context.
+- Creating meaningful connections between classroom learning and tangible historical sites in the student's own community.
+- Promoting cultural appreciation by exploring a significant heritage site that reflects Guatemala's colonial history.
 
 ## Learning Objectives
 By the end of the field trip, the student will be able to:
-1. Observe items and activities at a local market (e.g., foods, crafts).
-2. Connect the market visit to Lessons 1-2 about festivals and community life.
-3. Sketch one market item or scene to demonstrate engagement.
+1. Identify key architectural features of the Bishop's Palace and explain their historical significance.
+2. Describe how Bishop Francisco Marroquín contributed to the founding of San Juan del Obispo.
+3. Compare and contrast daily life in colonial times with modern life through observation of the palace's living quarters.
+4. Recognize symbols and motifs in the palace (such as coats of arms and decorative elements) and explain their meaning.
+5. Narrate what they learned about the palace and its history in their own words.
 
 ## Materials and Resources Required
-- **Essentials**: Water, snacks, comfortable clothing and shoes, transportation to the market (~15-30 minutes if in Antigua).
-- **Activity Materials**: Sketchbook (or paper), pencils, crayons (household or ~$2-$5).
-- **Optional**: Camera/smartphone for photos (to aid narration).
-- **Accessibility**: Low-cost materials; markets are typically free; transportation costs vary (e.g., bus ~$1-$2).
+- **Sketch Pad and Pencils**: For the student to draw interesting architectural features or artifacts.
+- **Simple Scavenger Hunt List**: A prepared list of items to find in the palace (e.g., coat of arms, fountain, waterspouts).
+- **Camera or Tablet**: To take photos of architectural details for follow-up activities.
+- **Small Notebook**: For the student to take notes or write observations.
+- **Water and Snack**: For a mid-visit break in the palace courtyard.
+- **Transportation**: Walking route (if staying in San Juan del Obispo) or bus fare from Antigua (approximately 2Q per person).
+- **Admission**: Voluntary donation (approximately 10-20Q recommended).
+- **Museum Hours**: 9:00 a.m. - 12:00 p.m. and 2:00 p.m. - 4:00 p.m. (check for current schedule).
 
 ## Step-by-Step Instructional Procedures
-1. **Preparation (30 minutes, before departure)**:
-   - **Objective**: Ensure readiness for an educational trip.
+1. **Pre-Visit Preparation (30-45 minutes, day before)**:
+   - **Objective**: Review San Juan del Obispo's history and prepare for museum exploration.
    - **Procedure**:
-     - Say, “We’re visiting a market to see what people buy and sell in our community!”
-     - Pack water, snacks, sketchbook, pencils in a bag.
-     - Choose a market (e.g., Mercado de Antigua) and plan transportation.
-2. **Arrival and Orientation (10 minutes)**:
-   - **Objective**: Familiarize the student with the market.
+     - Review key facts about Bishop Francisco Marroquín and the founding of San Juan del Obispo.
+     - Look at pictures of the Bishop's Palace if available online.
+     - Create a simple scavenger hunt list together (e.g., "Find the bishop's coat of arms")
+     - Discuss expectations: "We'll see the actual palace where Bishop Marroquín lived hundreds of years ago!"
+     - Discuss appropriate behavior for the interview (listening carefully, saying thank you).
+
+2. **Arrival at Palacio del Obispo (10 minutes)**:
+   - **Objective**: Orient the student to the palace and its historical significance.
    - **Procedure**:
-     - Arrive; say, “Look at all the colors and smells!”
-     - Set goal: “Let’s find something interesting to draw.”
-3. **Exploration and Activity (1-2 hours)**:
-   - **Objective**: Observe and sketch.
+     - Arrive at the palace and greet the nuns of the Order of Bethany who manage the site.
+     - Stand in the main plaza to observe the impressive exterior of the palace.
+     - Review the scavenger hunt list and explain that a nun will give us a guided tour.
+
+3. **Guided Tour of the Palace (30-45 minutes)**:
+   - **Objective**: Learn about the palace architecture, history, and Bishop Marroquín's legacy.
    - **Procedure**:
-     - Walk through stalls, noting items (e.g., fruits, textiles).
-     - Ask, “What do you think this is used for?” or “Does this remind you of the festival?”
-     - Sketch one item or scene (e.g., a fruit stand) in 15-20 minutes.
-     - Explore freely if time permits.
-4. **Wrap-Up and Departure (15 minutes)**:
-   - **Objective**: Reflect and leave.
+     - Follow the nun guide through the main courtyard, private quarters, and chapel.
+     - Encourage the student to look for scavenger hunt items during the tour.
+     - Point out architectural features like the dragon waterspouts, fountains, and coats of arms.
+     - Help the student make connections to what was learned in classroom lessons.
+     - Take photographs of key features (if permitted) for later discussion.
+
+4. **Drawing and Observation Activity (20-30 minutes)**:
+   - **Objective**: Engage in focused observation and artistic documentation of the historic site.
    - **Procedure**:
-     - Review sketch: “What did you draw?”
-     - Ask, “What did you learn about our community?” and depart.
+     - Find a comfortable spot in one of the courtyards.
+     - Have the student draw a favorite architectural feature (e.g., fountain, façade, waterspout).
+     - Encourage the student to include details they find interesting in their drawing.
+     - Take time to check off items from the scavenger hunt list together.
+
+5. **Wrap-Up and Reflection (15 minutes)**:
+   - **Objective**: Process the experience and express gratitude.
+   - **Procedure**:
+     - Find a quiet spot in the main plaza or palace courtyard to discuss the visit.
+     - Ask reflective questions: "What did you find most interesting about the palace? What surprised you?"
+     - Make connections to the town's founding: "How did Bishop Marroquín help create the town we live in today?"
+     - Thank the nun who provided the tour and leave a small donation if appropriate.
 
 ## Activities and Assessments
-- **Activity**: Sketch one market item or scene in 15-20 minutes, noting its use or connection to lessons.
-- **Formative Assessment**: Observe engagement; listen to reflections (e.g., “What did you see?”).
-- **Summative Assessment**: Collect sketch for portfolio; use post-trip discussion to assess connections informally.
+- **Activity**: Complete the palace scavenger hunt and create a detailed drawing of an architectural feature.
+- **Formative Assessment**: Observe engagement during the guided tour; listen for questions and comments that demonstrate understanding.
+- **Summative Assessment**: Review the student's drawing and scavenger hunt list; have them narrate what they learned about the palace's history and Bishop Marroquín's role in founding San Juan del Obispo.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Sketch multiple items or add notes (e.g., “This is for festivals”).
-- **Struggling Learners**: Draw simple shapes (e.g., a fruit); use a camera instead.
-- **Kinesthetic Learners**: Point to items while exploring.
-- **Visual Learners**: Use photos for detail focus.
+- **Advanced Learners**: Challenge the student to identify architectural styles (colonial Spanish) and draw comparisons to other buildings they've seen in Antigua; have them research and learn more about Bishop Marroquín's other contributions to Guatemala.
+- **Struggling Learners**: Focus on just 3-4 key features to observe; provide a simpler scavenger hunt with pictures; offer more guidance during the drawing activity.
+- **English Language Learners**: Learn relevant architectural terms in both languages; embrace the opportunity to hear tour information in Spanish and reinforce key concepts in the student's stronger language.
 
 ## Time Estimates
 - Preparation: 30 minutes
 - Arrival/Orientation: 10 minutes
 - Exploration/Activity: 1-2 hours
 - Wrap-Up/Departure: 15 minutes
-- Total: 2-3 hours (flexible)
 
-## Prerequisite Knowledge or Skills
-- **Student**: Basic drawing skills; Unit 9 lessons.
-- **Parent**: Logistics planning; facilitation skills.
+## Follow-Up Activities
+1. **Architectural Model**: Create a simple model of the Bishop's Palace using cardboard or clay, incorporating key features observed during the visit.
+2. **Illustrated Timeline**: Add Bishop Francisco Marroquín and the founding of San Juan del Obispo to the ongoing Guatemala timeline project.
+3. **Creative Writing**: Write a short story imagining "A Day in the Life of Bishop Marroquín" at his palace in the 1500s.
+4. **Comparison Activity**: Compare the Bishop's Palace to the student's own home, noting similarities and differences between colonial and modern architecture and daily life.
 
-## Parental Involvement
-- **Preparation**: Choose market, plan transport, pack materials.
-- **Facilitation**: Guide exploration, assist sketching, prompt questions.
-- **Engagement**: Discuss, “What’s your favorite thing here?”
-- **Follow-Up**: Conduct discussion, store sketch in portfolio.
+## Preparation Notes
+- **Teacher Prep Time**: 30-45 minutes to create the scavenger hunt list and review Bishop Marroquín's history.
+- **Museum Hours**: The Bishop's Palace is open from 9:00 a.m. to 12:00 p.m. and 2:00 p.m. to 4:00 p.m. No advance reservations are needed for small groups.
+- **Fees**: The tour operates on a donation basis; approximately 10-20Q per person is appropriate.
+- **Guides**: Tours are typically given by nuns from the Order of Bethany who manage the palace. They may speak primarily in Spanish, so be prepared to translate key points as needed.
+- **Photography**: Check current policy on taking photographs inside the palace; some areas may restrict photography.
 
-## Accommodations
-- **Visual Needs**: Describe items aloud; enlarge sketchbook.
-- **Motor Challenges**: Assist sketching; photograph instead.
-- **Attention Span**: Shorten to 1 hour with breaks.
-- **Language Support**: Use “mercado/market,” “comida/food” bilingually.
-
-## Assumptions and Limitations
-- Assumes market proximity (~15-30 minutes if in Antigua); adjust if further.
-- Assumes open market day; verify schedule.
-- Weather may affect visit; virtual option available.
+## Safety Considerations
+- **Physical Safety**: Watch for uneven surfaces and steps in the historic building; stay with the group during the tour.
+- **Sun Protection**: Parts of the tour take place in open courtyards; bring hats and sunscreen.
+- **Respectful Behavior**: Emphasize quiet, respectful behavior as the palace is both a historic site and sometimes used for religious retreats.
+- **Contingency Plan**: If the palace is closed for a private event (which occasionally happens), have an alternative plan to explore the San Juan del Obispo church or the town's main plaza instead.
 
 ## Location Details
-- **Name**: Mercado de Antigua (or local market in San Juan del Obispo)
-- **Address**: Central Antigua or San Juan del Obispo (specific address varies; check locally)
+- **Name**: Museo San Juan del Obispo (Bishop's Palace)
+- **Address**: San Juan del Obispo (specific address varies; check locally)
 - **Opening Hours**: Typically mornings daily (verify current hours)
-- **Cost**: Free entry
+
+## Accommodations
+- **Visual Needs**: Provide verbal descriptions of museum items; prepare larger-print question sheet if needed.
+- **Motor Challenges**: Arrange for comfortable seating during the tour; consider taking photos instead of notes if writing is difficult.
+- **Sensory Concerns**: Request a quiet space for the tour if the student is sensitive to noise.
+- **Attention Span**: Break the visit into shorter segments with breaks as needed; prioritize the tour portion if time is limited.
 
 ## What to See
-- Food stalls (e.g., fruits, tamales).
-- Craft vendors (e.g., textiles).
-- Traditional goods (e.g., pottery).
-
-## Activity
-- Sketch one market item or scene in 15-20 minutes, noting its cultural significance.
-
-## Logistical Information
-- Travel ~15-30 minutes by bus/car from San Juan del Obispo if to Antigua.
-- Parking or bus stops nearby; walk to market.
-- Bring sun protection for outdoor time.
+- Main courtyard with fountain and garden
+- Bishop Marroquín's private quarters and chapel
+- Historic furniture and colonial-era artwork
+- Dragon-shaped waterspouts around the courtyards
+- Coats of arms of Bishop Marroquín and later Bishop Rosell
+- Beautiful views of the valley from the palace grounds
 
 ## Virtual Alternative
-- Use online images/videos of Guatemalan markets (e.g., search “Antigua Guatemala market video”); sketch from screen or printouts.
+If visiting in person isn't possible:
+- Take a virtual tour by viewing online photos and videos of the Bishop's Palace
+- Create a 3D model of the palace using cardboard or clay based on online images
+- Research Bishop Francisco Marroquín's life and contributions to Guatemala online
+- Draw a floor plan of the palace based on descriptions and available images
 
-## Post-Trip Discussion
-- What did you see at the market?
-- How does it connect to our lessons?
-- What did you learn about our community?
+## Logistical Information
+- Palacio del Obispo (Bishop's Palace) is located on the main plaza of San Juan del Obispo, easily accessible for local residents.
+- Museum hours are 9:00 a.m. to 12:00 p.m. and 2:00 p.m. to 4:00 p.m. most days (verify current schedule).
+- No advance reservation is required for small groups or individuals.
+- Tours are provided by nuns of the Order of Bethany who manage the palace.
+- Suggested donation is 10-20Q per person.
+
+## Conclusion
+- This visit to the historic Palacio del Obispo (Bishop's Palace) provides a unique opportunity to connect classroom learning with tangible historical architecture, creating a meaningful and memorable educational experience about San Juan del Obispo's colonial history and its founder, Bishop Francisco Marroquín. By walking through the same halls and courtyards that date back to the 1530s-1540s, students gain a deeper appreciation for their hometown's rich heritage and its place in Guatemalan history.

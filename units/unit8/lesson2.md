@@ -1,96 +1,130 @@
-### Overview
-This lesson explores the historical significance of the San Juan del Obispo Church for a 7-year-old 2nd-grade student, as part of a 10-week homeschool curriculum on Guatemalan history. Through discussion, an outdoor walk, and crafting a paper church model, the student will learn about the church’s role in local history, building on Lesson 1’s introduction. Designed with Charlotte Mason-inspired methods—narration, short lessons, and hands-on activities—it connects the student to their community’s heritage near Antigua, Guatemala, enhancing engagement with a nature-based observation.
+# Unit 8, Lesson 2: Practicing Interview Skills with Señora Mayarí de León
 
-### Alignment with Charlotte Mason Guidelines
-- **Narration**: Encourages oral retelling of the church’s story, enhancing comprehension and memory.
-- **Short Lessons**: Limits discussion to 10 minutes, outdoor walk to 5-10 minutes, and crafting to 15 minutes to maintain focus.
-- **Hands-On**: Uses crafting and an outdoor walk for kinesthetic engagement, aligning with Charlotte Mason’s emphasis on nature and practical activities.
-- **Nature Study**: Incorporates an outdoor walk to observe the church’s surroundings, fostering a connection to the environment as per Charlotte Mason’s principles.
+## Overview
+This lesson builds on Unit 8, Lesson 1 by helping a 7-year-old 2nd-grade student develop and practice interview skills for their upcoming visit to Casa Museo Luis de Lión. Using the questions prepared in the previous lesson, the student will practice proper interview techniques through role-play activities, learning about respectful communication, active listening, and appropriate follow-up questions. This preparation will enhance the quality of their interview with Señora Mayarí de León about her father's life and legacy. Aligned with Charlotte Mason's educational philosophy, the lesson incorporates oral narration, real-world application, and respectful interpersonal skills.
 
-### Learning Objectives
+## Alignment with Charlotte Mason Guidelines
+- **Narration**: Encourages the student to articulate questions and responses clearly during role-play activities.
+- **Short Lessons**: Divides practice into manageable segments focused on different interviewing skills.
+- **Real-World Application**: Prepares the student for an authentic interaction with a primary historical source.
+- **Respectful Relationships**: Emphasizes courtesy, gratitude, and active listening when speaking with others.
+- **Oral Language Development**: Builds speaking skills through practice of clear articulation and thoughtful responses.
+
+## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Understand the San Juan del Obispo Church’s importance in the town’s history, founded by Bishop Marroquín.
-2. Observe and describe features of the church’s surroundings (e.g., architecture, gardens).
-3. Create a paper model of the church to visualize its design.
+1. Understand the importance of respectful communication and active listening in an interview setting.
+2. Practice articulating clear and thoughtful questions and responses during role-play activities.
+3. Develop skills for engaging in a respectful conversation with a primary historical source.
+4. Demonstrate appropriate body language and non-verbal communication during an interview.
+5. Show appreciation and gratitude when someone shares personal memories and stories.
 
 ### Materials and Resources Required
-- **Craft Supplies**: Construction paper (white/light color for church, red/brown for roof, other colors for details), scissors (household; adult supervision required), glue or tape (household or ~$1), markers or crayons (household or ~$2-$5).
-- **Craft Instructions**: From `units/unit8/resources/church_craft.md` (provided in curriculum).
-- **Outdoor Space**: Area around the San Juan del Obispo Church or a similar local building (accessible by short walk for residents).
-- **Optional Visuals**: Images of the San Juan del Obispo Church (e.g., search “San Juan del Obispo church” online; free printable resources).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
-- **Accessibility**: Low-cost, common materials; substitutes (e.g., plain paper, pencils) viable; outdoor space assumed accessible for San Juan residents.
+- **Interview Questions**: Questions prepared by the student in the previous lesson
+- **Special Notebook**: From previous lesson, containing the final interview questions
+- **Role-Play Cards**: Simple cards with prompts for various role-play scenarios
+- **Thank You Note Materials**: Paper, colored pencils, markers for creating a thank you note
+- **Voice Recorder**: Optional, if available, to record practice sessions (can use a phone or tablet)
+- **Props**: Simple props for role-play (e.g., a "microphone" made from a paper tube, a notepad)
+
+## Time Required
+45-50 minutes
 
 ### Step-by-Step Instructional Procedures
+
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce the church and its historical role.
+   - **Objective**: Introduce the importance of interview skills and revisit the prepared questions.
    - **Procedure**:
-     - Recap Lesson 1: “Bishop Marroquín started our town. Today, we’ll learn about his church!”
-     - Say, “The church is old and special. We’ll talk about it, see it outside, and make one!”
-     - Show optional images and ask, “What do you like about our church?”
-2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore the church through discussion, outdoor observation, and crafting.
-   - **Procedure**:
-     - **Discussion (10 minutes)**: Talk about the church’s history: “Bishop Marroquín built it long ago for praying and teaching.” Use images if available. Ask, “What do you see when we pass the church?”
-     - **Outdoor Church Walk (5-10 minutes)**: Take a short walk to the church (or a nearby building if inaccessible). Say, “Let’s look at the church’s outside!” Point out features (e.g., bell tower, windows, gardens). Ask, “What do you notice? How might it have looked long ago?” Supervise closely for safety.
-     - **Craft (15 minutes)**: Return indoors. Provide materials and follow the craft guide: Cut and fold a church base (6x4 inches), add a roof (4x2 inches) and bell tower (2x2 inches), decorate with markers. Say, “Let’s make it look like our church with a tower!”
-3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through retelling.
-   - **Procedure**:
-     - Prompt, “Tell me about your church” or “What did you see outside?”
-     - Encourage details (e.g., “It has a big tower”). Note a key idea (e.g., “The church is old”) for the portfolio.
-4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview field trip.
-   - **Procedure**:
-     - Say, “The church is a big part of San Juan’s history, and we saw it today.”
-     - Preview, “Next, we’ll visit it again to learn more!”
-     - Add a church craft drawing to the timeline’s Local History section.
+     - Begin by saying: "Today, we'll practice for our interview with Señora Mayarí. Let's practice asking our questions and being good listeners."
+     - Review the questions from the special notebook: "Let's look at the questions we created last time."
+     - Explain what makes a good interviewer: "Good interviewers speak clearly, listen carefully, and show they care about what the person is saying."
 
-### Activities and Assessments
-- **Activities**:
-  - **Discussion (10 minutes)**: Talking about the church’s history and features.
-  - **Outdoor Church Walk (5-10 minutes)**: Observing the church’s surroundings to connect to its history.
-  - **Crafting (15 minutes)**: Making a paper church model to visualize its design.
-- **Formative Assessment**:
-  - **Discussion**: Listen for understanding (e.g., mentions bishop or purpose) to assess comprehension.
-  - **Outdoor Walk**: Check observations (e.g., “The tower is tall”) to gauge engagement with the environment.
-  - **Craft**: Observe effort and connection to the church (e.g., adds windows) to evaluate creativity.
+2. **Posture and Speaking Practice (10 minutes)**:
+   - **Objective**: Develop appropriate body language and speaking skills for the interview.
+   - **Procedure**:
+     - Practice sitting properly: "When we interview someone, we sit up straight to show we're paying attention."
+     - Practice eye contact (in a culturally appropriate way): "We look at the person when they're speaking, but not staring, to show we're listening."
+     - Practice speaking clearly: Have the student say each question clearly and at an appropriate volume.
+     - Give feedback: "That was great! I could hear you very well. Try to speak a little slower next time."
+
+3. **Interview Role-Play (15 minutes)**:
+   - **Objective**: Practice the full interview process through role-playing.
+   - **Procedure**:
+     - Set up the role-play: You pretend to be Señora Mayarí while the student practices being the interviewer.
+     - Guide the student through the proper greeting: "Start by saying 'Thank you for meeting with me today, Señora Mayarí.'"
+     - Have the student ask their prepared questions while you give simple responses.
+     - Model how to show interest: "When I share something, you can nod or say 'That's interesting' to show you're listening."
+     - Practice following up: "If I say something interesting, you can ask another question about it."
+     - If available, record this practice session (audio only) to listen back together.
+
+4. **Active Listening Practice (10 minutes)**:
+   - **Objective**: Develop active listening skills for the interview.
+   - **Procedure**:
+     - Explain active listening: "Active listening means showing you understand what someone is saying."
+     - Practice with some responses: "When Señora Mayarí answers, you might say 'So your father liked to write poems?' to show you're listening."
+     - Try a simple exercise: Tell a brief story about Luis de Lión and have the student summarize what they heard.
+     - Practice appropriate reactions: "When Señora Mayarí shares a happy memory, you can smile. If it's a sad memory, you can look thoughtful."
+
+5. **Thank You Note Preparation (5 minutes)**:
+   - **Objective**: Prepare a thank you note template for after the interview.
+   - **Procedure**:
+     - Explain the importance of saying thank you: "After someone shares their stories, we say thank you to show we appreciate their time."
+     - Create a simple thank you note template that can be personalized after the interview.
+     - Practice what to say at the end of the interview: "Thank you very much for sharing your memories about your father with me."
+
+6. **Wrap-Up and Field Trip Preview (5 minutes)**:
+   - **Objective**: Review skills learned and preview the upcoming field trip.
+   - **Procedure**:
+     - Summarize the key interview skills learned: "Today you practiced asking questions clearly, listening carefully, and showing respect."
+     - Preview the field trip: "In a few days, we'll visit Casa Museo Luis de Lión and meet Señora Mayarí. You'll be well prepared to interview her."
+     - End with encouragement: "You're going to be a wonderful interviewer! Señora Mayarí will appreciate your thoughtful questions."
+
+## Activities and Assessments
+- **Formative Assessment**: 
+  - Observe the student's body language, speaking clarity, and listening skills during role-play
+  - Note how well the student incorporates feedback to improve their interview technique
+  - Check for appropriate follow-up questions during the role-play scenarios
 - **Summative Assessment**:
-  - Collect the craft for the portfolio, assessing participation and comprehension informally (no rubric; based on effort and connection to the church).
-  - In Week 10, review timeline additions for Unit 8 connection to evaluate long-term retention.
+  - Evaluate the quality of the thank you note template
+  - At the field trip, observe how effectively the student applies the practiced skills
+- **Extension Activities**:
+  - Create a simple "interview guide" with tips and reminders to use during the real interview
+  - Practice with a family member as an additional interviewee
 
-### Differentiation Strategies
-- **Advanced Learners**: Add more craft details (e.g., stained glass) or narrate extra facts (e.g., “It helped sick people”); describe additional outdoor features (e.g., garden plants).
-- **Struggling Learners**: Pre-cut craft pieces; simplify narration to “What’s your church for?”; shorten outdoor walk to 5 minutes with one focus (e.g., tower).
-- **Kinesthetic Learners**: Use the craft as a prop while narrating (e.g., point to tower); walk around during outdoor observation.
-- **Visual Learners**: Use images to inspire craft decoration; emphasize visual details during the walk (e.g., colors).
+## Differentiation Strategies
+- **Advanced Learners**: Encourage development of complex follow-up questions; ask the student to think about potential challenges in the interview and how to address them
+- **Struggling Learners**: Provide simpler question scripts; focus on 2-3 main interview skills rather than all aspects at once; offer more modeling and guided practice
+- **Kinesthetic Learners**: Incorporate movement into the role-play (e.g., passing a "microphone" back and forth); allow standing during practice
+- **Visual Learners**: Create visual cue cards for interview steps; draw simple diagrams showing good listening posture
 
-### Time Estimates
+## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (10 min discussion, 5-10 min outdoor walk, 15 min craft)
-- Narration: 10 minutes
-- Closing: 5 minutes
-- Total: 50-55 minutes (adjustable to 45 minutes by limiting outdoor walk to 5 minutes)
+- Posture and Speaking Practice: 10 minutes
+- Interview Role-Play: 15 minutes
+- Active Listening Practice: 10 minutes
+- Thank You Note Preparation: 5 minutes
+- Wrap-Up and Field Trip Preview: 5 minutes
+- Total: 50 minutes (adjustable to 45 minutes by shortening the role-play section)
 
-### Prerequisite Knowledge or Skills
-- **Student**: Basic cutting and gluing skills (with adult help); familiarity with San Juan del Obispo’s history from Lesson 1.
-- **Parent**: Ability to facilitate discussion, supervise outdoor activity, and assist with craft; no historical expertise required.
+## Prerequisite Knowledge or Skills
+- **Student**: Questions prepared in Lesson 1; basic understanding of Luis de Lión's life and significance
+- **Parent/Teacher**: Ability to role-play as Señora Mayarí de León with appropriate responses; understanding of interviewing techniques
 
-### Parental Involvement
-- **Preparation**: Gather craft supplies as per `units/unit8/resources/church_craft.md` and ensure access to the church or a similar site (~5-10 minutes).
-- **Facilitation**: Lead the discussion, supervise the outdoor walk (ensuring safety), help with cutting and assembling the craft, and prompt narration with provided questions.
-- **Engagement**: Co-learn by asking, “What do you see when we go to the church?” or “How does it look different from our house?”
-- **Follow-Up**: Store the craft in the portfolio and update the timeline with the student.
+## Home Connection
+Send a note to parents/guardians with the following suggestions:
+- Practice the interview at home by having a family member pretend to be Señora Mayarí
+- Discuss the importance of respecting someone's memories and stories
+- Review proper greetings and thank you phrases in Spanish that may be useful during the interview
+- Remind the student about appropriate museum behavior for the upcoming field trip
 
-### Accommodations
-- **Visual Needs**: Use high-contrast colors for the craft (e.g., dark roof, light walls); describe outdoor features aloud (e.g., “The tower is tall and white”); enlarge images if used.
-- **Auditory Needs**: Speak clearly during discussion; repeat outdoor observations (e.g., “The windows are big”); allow extra time for narration responses.
-- **Motor Challenges**: Pre-cut craft pieces; assist with gluing or drawing; simplify outdoor walk to pointing from a stationary spot if mobility is limited.
-- **Attention Span**: Shorten discussion to 7 minutes or outdoor walk to 5 minutes with a brief break; adjust craft time as needed.
-- **Language Support**: Use bilingual terms (e.g., “iglesia/church,” “torre/tower”) to reinforce vocabulary; allow narration in Spanish if preferred.
+## Accommodations
+- **Visual Needs**: Provide written cue cards with key phrases for the interview; describe role-play scenarios verbally
+- **Auditory Needs**: Demonstrate techniques visually; allow written responses for some activities
+- **Motor Challenges**: Adapt props to be easily handled; focus on verbal skills rather than physical aspects if needed
+- **Attention Span**: Break role-play into shorter segments with breaks; use a timer to help maintain focus
+- **Language Support**: Allow practice in both Spanish and English; provide key interview phrases in both languages
 
-### Assumptions and Limitations
-- Assumes the student lives in San Juan del Obispo with walking access to the church; if unavailable, use a nearby building or photos as an alternative.
-- Assumes access to basic craft supplies; plain paper and pencils can substitute if construction paper or markers are lacking.
-- Assumes weather permits a short outdoor walk; if not, use indoor photos or drawings of the church’s exterior as a substitute.
-- Relies on Lesson 1’s introduction; recap Bishop Marroquín’s role briefly (“He built our town and church”) if missed.
+## Preparation Notes
+- **Teacher Prep Time**: 15-20 minutes to gather materials and prepare sample responses
+- **Considerations**: Be prepared to guide the student away from potentially sensitive topics regarding Luis de Lión's disappearance
+- **Virtual Option**: If an in-person visit to Casa Museo Luis de Lión isn't possible, research virtual tour options or prepare to conduct a video interview
+- **Follow-Up**: After the field trip, plan to have the student write or dictate a reflection on what they learned from Señora Mayarí

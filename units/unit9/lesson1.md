@@ -1,109 +1,113 @@
-Lesson Plan: Unit 9, Lesson 1 - Local Festivals in San Juan del Obispo
+# Unit 9, Lesson 1: Introduction to San Juan del Obispo's History
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to local festivals in San Juan del Obispo, focusing on the feast of San Juan Bautista as an example of cultural traditions within a 10-week homeschool curriculum on Guatemalan history. Through storytelling with "The Festival of San Juan," a composer study featuring traditional festival music, and a hands-on flag craft, the student will explore the significance of festivals in community life. Aligned with Charlotte Mason-inspired methods—narration, living stories, and hands-on activities—it fosters cultural appreciation and connects traditions to the student’s heritage near Antigua, building on Unit 8’s local history foundation and enriching understanding through music.
+This lesson introduces a 7-year-old 2nd-grade student to the history of their hometown, San Juan del Obispo, within a 10-week homeschool curriculum on Guatemalan history. Through storytelling with "The Bishop's Town," picture study of a colonial scene, a dictation exercise, and mapping, the student learns about the town’s founding by Bishop Francisco Marroquín. Aligned with Charlotte Mason-inspired methods—narration, living stories, and hands-on activities—it fosters a sense of place and heritage, leveraging the student’s proximity to Antigua, Guatemala, and building on prior units’ colonial context.
 
 ## Alignment with Charlotte Mason Guidelines
-- **Living Books**: Uses "The Festival of San Juan" as a narrative-driven story to vividly portray local traditions, adhering to Charlotte Mason’s emphasis on engaging, authentic texts.
-- **Narration**: Encourages oral retelling to enhance comprehension and memory, promoting active participation in learning.
-- **Short Lessons**: Limits storytelling to 10 minutes and composer study to 5 minutes to maintain focus appropriate for a young learner.
-- **Composer Study**: Incorporates a 5-minute listening segment with traditional marimba music to deepen cultural and historical understanding through auditory arts, aligning with Charlotte Mason’s holistic integration of music appreciation.
-- **Hands-On**: Includes a flag craft to engage kinesthetic learning, making festival concepts tangible and memorable.
+- **Living Books**: Uses "The Bishop's Town" as a narrative-driven story to bring local history to life, per Charlotte Mason’s emphasis on engaging texts.
+- **Narration**: Encourages retelling to enhance comprehension and memory.
+- **Short Lessons**: Limits storytelling and picture study to concise segments (e.g., 5-minute picture study) for focus.
+- **Picture Study**: Adds a 5-minute segment with a colonial painting to foster observation and cultural context, aligning with Charlotte Mason’s art appreciation approach.
+- **Hands-On**: Includes mapping to engage kinesthetic learning with historical geography.
+- **Dictation**: Incorporates a dictation exercise to practice spelling and connect to historical content, per Charlotte Mason’s method.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Describe the significance of the feast of San Juan Bautista in San Juan del Obispo (e.g., honoring the patron saint, community celebration).
-2. Reflect on a piece of traditional festival music and describe its mood or connection to the event.
-3. Create a paper flag to represent festival decorations.
-4. Retell elements of "The Festival of San Juan" in their own words.
+1. Understand that San Juan del Obispo was founded by Bishop Francisco Marroquín in colonial times.
+2. Locate key features of San Juan del Obispo on a map (e.g., church, school).
+3. Observe and narrate features of a colonial painting (e.g., colors, buildings).
+4. Write a dictated sentence about the town’s founding with correct spelling.
+5. Retell elements of "The Bishop's Town" in their own words.
 
 ## Materials and Resources Required
-- **Story**: "The Festival of San Juan" (from `units/unit9/resources/festival_story.md`; print or read from a device such as a tablet or phone).
-- **Music for Composer Study**: A 2-3 minute traditional Guatemalan marimba piece commonly played at festivals (e.g., search “marimba festival music Guatemala” on YouTube, selecting a lively piece from a free, reputable source like a cultural channel). Requires internet access and a device for playback.
-- **Craft Supplies**: Construction paper (various colors for festive appeal), scissors (household; adult supervision required), glue (household or ~$1), markers (household or ~$2-$5).
-- **Paper and Pencil**: For noting narration observations if desired (household items).
-- **Optional Visuals**: Images of festival decorations or processions (e.g., search “Guatemalan festival decorations” online; free printable resources from educational or cultural sites).
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for optional addition of a drawing or craft representation.
-- **Accessibility**: Low-cost, common materials widely available in households; story provided in curriculum; music requires internet, with offline alternatives (e.g., parent humming a tune) offered; printer or device needed for story access.
+- **Story**: "The Bishop's Town" (from `units/unit8/resources/the_bishops_town.md`; print or read from a device).
+- **Picture Study Image**: A high-quality image of a colonial painting of San Juan del Obispo or a similar scene, such as “Antigua and Surrounding Towns” by an 18th-century artist (search “colonial San Juan del Obispo painting” on Wikimedia Commons, https://commons.wikimedia.org, or museum sites like Google Arts & Culture, https://artsandculture.google.com, ensuring free use).
+- **Map Worksheet**: Prepared as per `units/unit8/resources/san_juan_map.md` (hand-drawn or printed).
+- **Dictation Sentence**: "Bishop Marroquín built a church in San Juan del Obispo." (English) or "El obispo Marroquín construyó una iglesia en San Juan del Obispo." (Spanish), from "The Bishop's Town".
+- **Crayons or Markers**: For coloring the map (household items or ~$2-$5).
+- **Paper and Pencil**: For dictation exercise (household items).
+- **Optional Visuals**: Images of San Juan del Obispo or its church (e.g., search “San Juan del Obispo church” online; free printable resources).
+- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
+- **Accessibility**: Low-cost materials; map can be hand-drawn if no printer; internet access needed for image sourcing, with offline alternatives provided.
 
 ## Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce local festivals and engage interest.
+   - **Objective**: Engage the student and introduce local history.
    - **Procedure**:
-     - Recap Unit 8: “We learned about our town’s history. Now, we’ll see how we celebrate today!”
-     - Say, “Our town has special days called festivals, like the feast of San Juan. We’ll hear a story, listen to music, and make a festival flag!”
-     - Ask, “Have you seen decorations or parades in our town?” to spark discussion (e.g., “Yes, with flags!”).
+     - Say, “Today, we’ll learn about our town, San Juan del Obispo, and how it started long ago!”
+     - Ask, “Do you know who built the big church we see?” to spark curiosity.
+     - Recap briefly: “This happened after the Spanish came.”
 2. **Main Activity (30 minutes)**:
-   - **Objective**: Explore the festival through storytelling, composer study, and crafting.
+   - **Objective**: Explore the town’s history through storytelling, picture study, dictation, and mapping.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "The Festival of San Juan" aloud with enthusiasm. Show optional images of festival decorations or processions to enhance visuals. Pause midway to ask, “Why do you think they have festivals?” (Expect answers like “To have fun” or “To celebrate San Juan”).
-    - **Composer Study (5 minutes)**:
-      - **Objective**: Experience traditional festival music and connect it to the celebration through a quartet arrangement.
-      - **Procedure**:
-        - Say, “Let’s hear ‘Fiesta de Pájaros’ by Jesús Castillo, played by a quartet to sound like birds singing at a joyful festival in San Juan del Obispo!”
-        - Play the 2:45 quartet version of “Fiesta de Pájaros” (sourced from YouTube at https://www.youtube.com/watch?v=CrS_d0LDlvo, performed by Cuarteto del Alba). Ensure a calm setting and clear audio.
-        - After listening, ask, “Does this music make you think of a festival? Can you imagine birds or people dancing to it?” (Expect responses like “It’s lively” or “It sounds like a party”).
-     - **Crafting (15 minutes)**: Provide construction paper, scissors, glue, and markers. Guide the student: “Cut a flag shape—like a triangle or rectangle—from the paper. Decorate it with colors or drawings like you’d see at a festival.” Help cut if needed, then say, “Add a picture or message, like ‘San Juan!’ This is for our own festival!” Encourage creativity inspired by the story or music (e.g., “Use bright colors like the marimba sounds”).
+     - **Storytelling (10 minutes)**: Read "The Bishop's Town" aloud with expression. Show optional images if available. Pause to ask, “What did Bishop Marroquín do for our town?”
+     - **Picture Study (5 minutes)**: Show the colonial painting image. Say, “Look at this picture for 2 minutes. Notice the buildings and colors.” After 2 minutes, cover it and ask, “What did you see? What colors or shapes stood out?” Then, uncover and discuss: “Does this look like our town? What buildings do you see?”
+     - **Dictation (5 minutes)**:
+       - **Objective**: Practice spelling and reinforce historical content.
+       - **Procedure**:
+         - Say, “Let’s write a sentence about who started our town.”
+         - Dictate the sentence: "Bishop Marroquín built a church in San Juan del Obispo." (English) or "El obispo Marroquín construyó una iglesia en San Juan del Obispo." (Spanish).
+         - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
+         - Check their spelling and praise their effort (e.g., “You wrote ‘church’ great!”).
+     - **Mapping (10 minutes)**: Provide the map and crayons. Guide the student to color and label key features (e.g., church in yellow, hills green). Say, “Let’s find where we live on this map!”
 3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through oral retelling.
+   - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
-     - Prompt, “Tell me about the festival in the story” or “What’s on your flag and why?”
-     - Encourage simple sentences (e.g., “They danced for San Juan” or “My flag has flowers”). Note a key idea for the portfolio (e.g., “The festival is for San Juan”).
-     - Offer prompts if needed (e.g., “What did Maria do?” or “What did the music sound like?”).
+     - Prompt, “Tell me about the story” or “What’s on your map or in the picture?”
+     - Encourage simple sentences (e.g., “Bishop built the church”). Note a key phrase (e.g., “San Juan has a big church”) for the portfolio.
 4. **Closing (5 minutes)**:
-   - **Objective**: Summarize the lesson and preview the next one.
+   - **Objective**: Summarize and preview next lesson.
    - **Procedure**:
-     - Say, “Festivals like San Juan’s bring our town together with music and fun!”
-     - Preview, “Next, we’ll learn about daily life in San Juan del Obispo!”
-     - Optionally, add a flag sketch or craft representation to the timeline’s Local History section with the student, saying, “This shows our festival!”
+     - Say, “San Juan del Obispo began with Bishop Marroquín, and it’s our home!”
+     - Preview, “Next, we’ll learn more about the church we see every day!”
+     - Add a church drawing to the timeline’s Local History section.
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling (10 minutes)**: Listening to "The Festival of San Juan" to understand local traditions and community celebration.
-  - **Composer Study (5 minutes)**: Listening to a marimba piece to experience the auditory culture of Guatemalan festivals.
-  - **Crafting (15 minutes)**: Making a paper flag to engage with festival decorations and symbolize participation in the tradition.
+  - **Storytelling**: Listen to "The Bishop's Town" to learn about the town’s founding (10 minutes).
+  - **Picture Study**: Observe and discuss a colonial painting to appreciate historical context (5 minutes).
+  - **Dictation**: Write a sentence to practice spelling and connect to the story (5 minutes).
+  - **Mapping**: Color and label a map of San Juan del Obispo to explore geography (10 minutes).
 - **Formative Assessment**:
-  - **Storytelling**: Listen for narration details (e.g., “They had a procession” or “They ate tamales”) to assess comprehension of the festival’s purpose and activities.
-  - **Composer Study**: Note responses to the music (e.g., “It’s loud and fun”) to evaluate emotional engagement and connection to the festive atmosphere.
-  - **Crafting**: Observe the flag’s design (e.g., includes colors or symbols from the story) and ask, “What’s your flag for?” to gauge understanding and creativity.
+  - **Storytelling**: Listen for narration details (e.g., bishop, church) to assess comprehension.
+  - **Picture Study**: Evaluate observations (e.g., “I saw a white building”) for memory and detail.
+  - **Dictation**: Check the written sentence for spelling accuracy and neatness (e.g., correct spelling of “built” or “construyó”).
+  - **Mapping**: Observe accuracy in coloring/labeling (e.g., church location) to gauge engagement and spatial awareness.
 - **Summative Assessment**:
-  - Collect the paper flag for the portfolio, assessing participation and cultural connection informally based on effort and relevance (e.g., reflects festival themes like celebration or community).
-  - In Week 10, review timeline additions for Unit 9 connection, focusing on creativity and link to local traditions (no formal rubric; based on engagement and effort).
+  - Collect the dictation sentence and map for the portfolio, assessing participation and historical understanding informally based on effort and accuracy.
+  - In Week 10, review timeline additions for Unit 8 connection, focusing on creativity and relevance (no formal rubric; based on engagement).
 
 ## Differentiation Strategies
-- **Advanced Learners**: Encourage adding a written message to the flag (e.g., “Viva San Juan!”) or narrating additional festival details (e.g., “They played marimbas all night”); include intricate designs inspired by the music.
-- **Struggling Learners**: Pre-cut the flag shape to simplify the task; shorten narration prompt to “What’s the festival for?” (e.g., “San Juan”); focus on coloring rather than detailed drawing.
-- **Kinesthetic Learners**: Wave the flag like a parade banner while narrating or mimic dancing to the music to involve movement.
-- **Visual Learners**: Use optional festival images to inspire flag decoration (e.g., “Add flowers like these!”); emphasize the marimba’s lively rhythm to visualize a party scene.
-- **Auditory Learners**: Replay a short music segment or hum along during crafting; encourage sound descriptions in narration (e.g., “The music was fast”).
+- **Advanced Learners**: Label extra map features (e.g., “Our Home”) or narrate additional story details (e.g., “He helped people”); write an extra dictation sentence.
+- **Struggling Learners**: Pre-label the map with stickers; simplify narration to “Who built the church?”; allow tracing for dictation.
+- **Kinesthetic Learners**: Point to map locations or hold the painting image while narrating.
+- **Visual Learners**: Use optional images or emphasize the picture study to reinforce concepts.
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 30 minutes (10 min storytelling, 5 min composer study, 15 min crafting)
+- Main Activity: 30 minutes (10 min storytelling, 5 min picture study, 5 min dictation, 10 min mapping)
 - Narration: 10 minutes
 - Closing: 5 minutes
-- Total: 50 minutes (within the adjustable 30-60 minute range specified in the original course request)
+- Total: 50 minutes (extended from 45 minutes to include picture study without reducing other activities)
 
 ## Prerequisite Knowledge or Skills
-- **Student**: Basic cutting and drawing skills (e.g., can use scissors with adult help and color within lines); familiarity with San Juan del Obispo’s history from Unit 8, Lesson 1 to contextualize community traditions.
-- **Parent**: Ability to read aloud with expression, play a short audio clip, and assist with crafting; no historical or musical expertise required, as instructions and resources are provided.
+- **Student**: Basic listening, coloring, and writing skills; familiarity with colonial history from Units 3-4.
+- **Parent**: Ability to read aloud, source an online image, and assist with map labeling; no historical expertise required.
 
 ## Parental Involvement
-- **Preparation**: Print or load "The Festival of San Juan" on a device (~5 minutes); find a suitable marimba piece on YouTube (~5 minutes); gather craft supplies including construction paper, scissors, glue, and markers (~5-10 minutes total).
-- **Facilitation**: Read the story aloud with enthusiasm, play the marimba piece clearly, assist with cutting the flag shape and decorating, and prompt narration with provided questions to guide reflection.
-- **Engagement**: Co-learn by participating in the discussion (e.g., “What would you celebrate in a festival?”) or tapping along to the music to make it interactive and fun.
-- **Follow-Up**: Store the completed flag in the portfolio (e.g., a binder or folder); optionally update the timeline with the student’s flag or a sketch, praising their creativity (e.g., “Your flag looks so festive!”).
+- **Preparation**: Prepare the map as per `units/unit8/resources/san_juan_map.md`, print or load the story, and source the painting image online (~10-15 minutes).
+- **Facilitation**: Read the story, present the picture study, dictate the sentence, guide mapping, and prompt narration with provided questions.
+- **Engagement**: Co-learn by asking, “What’s your favorite part of our town?”
+- **Follow-Up**: Store the dictation sentence and map in the portfolio and update the timeline with the student’s sketch.
 
 ## Accommodations
-- **Visual Needs**: Enlarge the story text (e.g., increase font size on a device or print larger); describe optional images aloud (e.g., “This shows colorful flags”); use high-contrast markers for flag visibility (e.g., bright red on white paper).
-- **Auditory Needs**: Play music at a clear volume and repeat key story phrases (e.g., “They carried San Juan”); allow extra time for narration responses; provide a quiet space for listening to avoid distractions.
-- **Motor Challenges**: Pre-cut the flag shape or assist with cutting and gluing; simplify decoration to coloring with large markers; use a larger paper size (e.g., 11x17) for easier handling if needed.
-- **Attention Span**: Shorten storytelling to 7 minutes by summarizing parts (e.g., skip repetitive details) or crafting to 10 minutes with a 2-minute stretch break between activities; keep music brief (e.g., 2 minutes).
-- **Language Support**: Present the story and questions in both English and Spanish if preferred (e.g., “¿Por qué tienen festivales?”); use bilingual terms during crafting (e.g., “bandera/flag,” “festival/festival”); allow narration in the student’s stronger language for ease and confidence.
+- **Visual Needs**: Enlarge the map, story text, and painting image; describe visuals aloud (e.g., “The painting has green hills”).
+- **Motor Challenges**: Pre-label the map or assist with coloring; allow tracing for dictation.
+- **Attention Span**: Split storytelling and mapping into two 12-minute segments with a movement break.
+- **Language Support**: Use bilingual terms (e.g., “iglesia/church,” “obispo/bishop”) to reinforce vocabulary; allow narration in preferred language.
 
 ## Assumptions and Limitations
-- Assumes access to basic craft supplies in the household; if construction paper or markers are unavailable, plain paper and pencils can substitute, though the festive effect may be less vibrant.
-- Assumes internet access to source the marimba piece; if unavailable, the parent can hum a simple tune or clap a rhythm as an offline alternative, though it lacks the authentic marimba sound.
-- Assumes a printer or device for the story; if neither is accessible, the parent can retell the story orally from memory after reviewing it, maintaining the narrative focus.
-- Relies on Unit 8’s historical context for San Juan del Obispo; if missed, briefly recap during the introduction (e.g., “Our town started long ago with a church”).
-- Assumes a quiet environment for music listening; if noise is an issue, use headphones or adjust timing to a calmer period.
+- Assumes ability to draw or source a simple map; a basic hand-drawn sketch works if no printer available.
+- Assumes internet access for the painting image; an offline alternative is a parent-drawn sketch of a colonial town if unavailable.
+- Assumes student lives in San Juan del Obispo; adapt for other locations by emphasizing proximity to Antigua.
+- Relies on prior colonial units; recap Spanish arrival briefly (“The Spanish came long ago”) if needed.

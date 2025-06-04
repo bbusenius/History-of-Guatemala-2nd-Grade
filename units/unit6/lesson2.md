@@ -1,93 +1,119 @@
-# Lesson Plan: Unit 6, Lesson 2 - Peace and Unity
+# Lesson Plan: Unit 6, Lesson 2 - Guatemala's Civil War
 
 ## Overview
-This lesson explores the end of Guatemala’s civil war and the 1996 peace accords for a 7-year-old 2nd-grade student, within a 10-week homeschool curriculum on Guatemalan history. Through storytelling with "The Day of Peace" and crafting a peace dove, the student will learn about peace as a positive outcome of the 20th century. Using Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it’s engaging and tailored to the student in San Juan del Obispo, connecting history to themes of unity and hope.
+This lesson explores Guatemala's 36-year civil war (1960-1996) for a 7-year-old 2nd-grade student, within a 10-week homeschool curriculum on Guatemalan history. Through age-appropriate reading and discussion of ["Guatemala's Civil War"](resources/guatemala_civil_war.md) resource, the student will learn about this important historical period and its impact on the country and its people. Using Charlotte Mason-inspired methods—narration, guided reading, and reflection—it's engaging and tailored to the student in San Juan del Obispo, connecting history to themes of justice and learning from the past.
 
 ## Alignment with Educational Standards
 This curriculum adheres to homeschool requirements and Charlotte Mason’s philosophy, not following Common Core State Standards per the course rules. The lesson supports educational goals by:
 - Fostering historical understanding through a chronological exploration of modern Guatemala.
 - Encouraging narrative skills via oral retelling, aligning with Charlotte Mason’s focus on language development.
-- Integrating art with history through crafting, supporting cross-subject goals (art).
-- Promoting cultural appreciation by connecting to Guatemala’s peace process.
+- Promoting cultural appreciation by connecting to Guatemala’s history and its impact on its people.
 
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
-1. Understand that Guatemala’s civil war ended with the 1996 peace accords.
-2. Retell key elements of "The Day of Peace" in their own words.
-3. Create a peace dove to symbolize unity after conflict.
+1. Understand the causes, key events, and effects of Guatemala's 36-year civil war (1960-1996).
+2. Identify the role of the United Fruit Company and foreign intervention in Guatemala's history.
+3. Explain how the civil war affected ordinary Guatemalans, especially the Maya people.
+4. Discuss the importance of learning from difficult historical events.
 
 ## Materials and Resources Required
-- **Story**: "The Day of Peace" (saved as `units/unit6/resources/the_day_of_peace.md`; print or read from a device).
-- **Craft Supplies**: White paper, scissors, markers (household or ~$2-$5); optional googly eyes, feathers (~$1-$2).
-- **Craft Instructions**: From `units/unit6/resources/peace_dove.md`.
-- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding a drawing.
-- **Optional Visuals**: Images of peace celebrations or doves (e.g., search “Guatemala peace accords 1996” online; free printable resources).
-- **Accessibility**: Low-cost, common materials; printer or device for story; substitutes (e.g., pencils) viable.
+- **Reading**: ["Guatemala's Civil War (1960-1996)"](resources/guatemala_civil_war.md) (print or read from a device).
+- **Timeline**: Reusable timeline from `resources/timeline_template.pdf` for adding key dates (1954, 1960, 1996).
+- **Optional Visuals**: Historical images of Guatemala's civil war (preview for age-appropriateness).
+- **Map**: Map of Guatemala to identify locations mentioned in the reading.
+- **Notebook/Paper**: For student to take notes or draw scenes from the history.
+- **Pencils/Colored Pencils**: For writing and drawing activities.
 
 ## Step-by-Step Instructional Procedures
 1. **Introduction (5 minutes)**:
-   - **Objective**: Introduce peace and engage interest.
+   - **Objective**: Introduce the topic of Guatemala's civil war.
    - **Procedure**:
-     - Recap Lesson 1: “Guatemala got modern. Today, we’ll learn how it found peace after a big fight.”
-     - Say, “In 1996, people agreed to stop fighting and work together. Let’s see how!”
-2. **Main Activity (25 minutes)**:
-   - **Objective**: Explore peace through story and craft.
+     - Recap Lesson 1: "We learned about Guatemala becoming modern. Today, we'll learn about a difficult time in Guatemala's history."
+     - Say, "Sometimes countries have disagreements that turn into fighting. Guatemala had a civil war that lasted 36 years. It's important to learn about this history to understand Guatemala today."
+
+2. **Main Activity (30 minutes)**:
+   - **Objective**: Learn about Guatemala's civil war through structured reading and discussion.
    - **Procedure**:
-     - **Storytelling (15 minutes)**: Read "The Day of Peace" aloud with expression. Pause to ask, “What does peace mean to you?” Show optional images if available.
-     - **Craft (10 minutes)**: Provide materials and follow the craft guide: Draw and cut a dove shape, decorate with markers, add optional eyes/feathers. Say, “This dove means peace, like in the story!”
-3. **Narration (10 minutes)**:
-   - **Objective**: Reinforce learning through retelling.
+     - **Guided Reading (15 minutes)**: Read sections of ["Guatemala's Civil War"](resources/guatemala_civil_war.md) aloud, pausing after each section to discuss. For a 7-year-old, focus on:
+       - What a civil war means
+       - The role of the United Fruit Company and why land was important
+       - How the war affected ordinary people, especially Maya communities
+       - How the war ended and what people learned
+       
+     - **Civil War Images (10 minutes)**: After completing the reading, we will look at the images from the civil war in this slideshow: https://www.robertnickelsberg.com/guatemala-bw
+     - **Timeline Activity (5 minutes)**: Mark important dates on the timeline:
+       - 1954: Overthrow of President Arbenz
+       - 1960: Start of the civil war
+       - 1996: Peace accords signed
+
+3. **Comprehension Check (5 minutes)**:
+   - **Objective**: Ensure understanding of key concepts and facts.
    - **Procedure**:
-     - Prompt, “Tell me about Carlos’s day” or “What does peace mean in Guatemala?”
-     - Encourage simple sentences (e.g., “They stopped fighting”). Note a key idea (e.g., “Peace came in 1996”) for the portfolio.
-4. **Closing (5 minutes)**:
-   - **Objective**: Summarize and preview field trip.
+     - Ask open-ended questions:
+       - "Why did the civil war happen?"
+       - "How did the war affect the Maya people?"
+       - "Why was the United Fruit Company important in this story?"
+       - "How did the war finally end?"
+     - Have the student draw a scene that represents something they learned about Guatemala's civil war.
+
+4. **Reflection (5 minutes)**:
+   - **Objective**: Connect historical learning to values and present day.
    - **Procedure**:
-     - Say, “The peace accords in 1996 made Guatemala happier.”
-     - Preview, “Next, we’ll visit a [local market](field_trip.md) to see today’s Guatemala!”
-     - Add a dove drawing to the timeline’s Modern section.
+     - Ask reflective questions:
+       - "Why is it important to learn about difficult events in history?"
+       - "How can learning about the past help us build a better future?"
+       - "What can we do when we see unfairness around us?"
+     - Write down one thing the student learned and one question they still have.
 
 ## Activities and Assessments
 - **Activities**:
-  - **Storytelling**: Listen to "The Day of Peace" to understand the peace accords (15 minutes).
-  - **Crafting**: Make a peace dove to symbolize unity (10 minutes).
+  - **Reading**: Read ["Guatemala's Civil War (1960-1996)"](resources/guatemala_civil_war.md) to understand the causes and effects of the civil war (20 minutes).
+  - **Timeline**: Mark important dates on the timeline to visualize the chronology of events (10 minutes).
+  - **Discussion**: Engage in guided conversation about the importance of learning from history (10 minutes).
 - **Formative Assessment**:
-  - **Story**: Listen for narration details (e.g., celebration, doves) to assess comprehension.
-  - **Craft**: Observe effort and connection (e.g., dove as peace) to gauge engagement.
+  - **Comprehension**: Listen for key details about the civil war causes, events, and effects to assess understanding.
+  - **Drawing**: Review student's drawing of a scene from Guatemala's history to gauge engagement and comprehension.
 - **Summative Assessment**:
-  - Collect the dove for the portfolio, evaluating participation and understanding informally.
-  - In Week 10, review timeline additions for Unit 6 connection.
+  - Collect the student's drawing and written reflection for the portfolio, evaluating understanding of key concepts.
+  - In Week 10, review timeline additions for Unit 6 connection and historical comprehension.
 
 ## Differentiation Strategies
-- **Advanced Learners**: Narrate extra details (e.g., “They signed a paper”) or add dove details.
-- **Struggling Learners**: Simplify narration to “What did Carlos see?”; pre-cut dove shape.
-- **Kinesthetic Learners**: Fly the dove like a puppet while narrating.
-- **Visual Learners**: Use images to reinforce story and craft concepts.
+- **Advanced Learners**: Encourage deeper questions about history and cause-effect relationships in Guatemala's civil war.
+- **Struggling Learners**: Focus on simpler concepts and use visual aids to explain the conflict.
+- **Kinesthetic Learners**: Use role-play to demonstrate concepts of conflict and resolution.
+- **Visual Learners**: Provide additional maps and historical images to reinforce learning.
 
 ## Time Estimates
 - Introduction: 5 minutes
-- Main Activity: 25 minutes (15 min story, 10 min craft)
-- Narration: 10 minutes
-- Closing: 5 minutes
+- Main Activity: 30 minutes (15 min reading and discussion, 5 min timeline)
+- Comprehension Check: 5 minutes
+- Reflection: 5 minutes
 - Total: 45 minutes
 
 ## Prerequisite Knowledge or Skills
-- **Student**: Basic cutting/drawing skills (with help); modernization from Lesson 1.
-- **Parent**: Ability to read aloud and assist with craft; no historical expertise required.
+- **Student**: Basic drawing skills and understanding of modernization from Lesson 1.
+- **Parent**: Ability to read aloud and facilitate discussions about sensitive topics at an age-appropriate level; no historical expertise required.
 
 ## Parental Involvement
-- **Preparation**: Print or load the story; gather craft supplies (~5-10 minutes).
-- **Facilitation**: Read the story, help with cutting/decorating, and prompt narration.
-- **Engagement**: Discuss, “What would peace feel like?”
-- **Follow-Up**: Store the dove in the portfolio and update the timeline.
+- **Preparation**: Print or load the reading; prepare map and timeline materials (~5-10 minutes).
+- **Facilitation**: Guide the reading, discussion, and timeline activity; support reflection.
+- **Engagement**: Discuss historically sensitive topics at an appropriate level for a 7-year-old.
+- **Follow-Up**: Store the drawing and written reflection in the portfolio and update the timeline.
 
 ## Accommodations
 - **Visual Needs**: Enlarge text or use bold markers; describe images aloud.
-- **Motor Challenges**: Pre-cut dove; assist with decorating; use large paper.
-- **Attention Span**: Split story and craft into two 12-minute segments with a break.
-- **Language Support**: Use “paz/peace” and “acuerdos/accords” bilingually.
+- **Motor Challenges**: Assist with writing or drawing; use large paper.
+- **Attention Span**: Split reading and activities into two 12-minute segments with a break.
+- **Language Support**: Use bilingual terms when possible.
+
+## Related Activities/Extension Ideas
+- **Extended Project**: Create a mini-timeline of Guatemala's history with illustrations.
+- **Field Trip Connection**: Link to [Casa de la Memoria Visit](field_trip.md); discuss how the museum helps us remember and learn from historical events.
+- **Book Integration**: Read age-appropriate books about historical understanding or Maya culture.
+- **Family Connection**: Discuss the importance of learning from history as a family.
 
 ## Assumptions and Limitations
-- Assumes craft supply access; pencils substitute if markers unavailable.
-- Requires adult help for scissors; pre-cut if needed.
-- Relies on Lesson 1; recap modernization if missed.
+- Assumes access to basic writing/drawing materials and ability to print or display the reading.
+- Recognizes 7-year-olds need age-appropriate presentation of complex history; emphasizes learning from the past.
+- 55-minute lesson: Can be broken into two sessions if needed for attention span.
+- Limited global context: Focus on Guatemala's internal experience rather than wider Cold War.
