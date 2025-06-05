@@ -39,7 +39,7 @@ By the end of the lesson, the student will be able to:
 2. **Main Activity (35 minutes)**:
    - **Objective**: Explore Guatemala's independence through story, music, dictation, and drawing.
    - **Procedure**:
-     - **Storytelling (10 minutes)**: Read "Guatemala's Independence" aloud with expression. Pause occasionally to check understanding and ask, "Why did people in Guatemala want to be free from Spain?" (Expect answers like "They wanted to make their own rules" or "Spain was far away").
+     - **Storytelling (10 minutes)**: Read ["Guatemala's Independence"](resources/guatemala_independence.md) aloud with expression. Pause occasionally to check understanding and ask, "Why did people in Guatemala want to be free from Spain?" (Expect answers like "They wanted to make their own rules" or "Spain was far away").
      - **Picture Study (5 minutes)**:
       - **Objective**: Connect with an important symbol of Guatemala's independence celebrations.
       - **Procedure**:
@@ -65,7 +65,7 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Summarize and preview field trip.
    - **Procedure**:
      - Say, "On September 15, 1821, Guatemala became independent from Spain. José Cecilio del Valle wrote the document that made it official."
-     - Preview, "Soon, we'll visit the [Museo del Libro Antiguo](field_trip.md) to see old books from independence times!"
+     - Preview, "Soon, we'll visit the [MUNAG (Museo Nacional de Arte de Guatemala)](field_trip.md) in Antigua to see art from different periods of Guatemala's history, including the national coat of arms (escudo de Guatemala) and other pieces that connect to what we've learned about independence!"
      - **Update Timeline**: Add a drawing of the independence celebration to the timeline's Independence section with the student.
 
 ## Activities and Assessments
