@@ -42,7 +42,9 @@ After declaring independence, several important things happened:
 
 2. **The Federal Republic**: After Mexico became a republic in 1823, Central America separated from Mexico and formed the Federal Republic of Central America.
 
-3. **Separate Countries**: Eventually, the Federal Republic broke apart, and Guatemala became a separate country, as it is today.
+3. **Separate Countries**: Eventually, the Federal Republic broke apart, and Guatemala began to establish itself independently.
+
+4. **Republic of Guatemala**: On March 21, 1847, Guatemala was officially declared a sovereign state. This important date marked the beginning of the Republican period in Guatemala's history, when it formally became its own country, completely separate from the Central American union.
 
 ## Facts About Independence
 

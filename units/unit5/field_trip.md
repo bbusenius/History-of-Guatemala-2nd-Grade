@@ -46,7 +46,7 @@ By the end of the field trip, the student will be able to:
      - Look for the escudo de Guatemala (coat of arms) and discuss its connection to independence.
      - Explore exhibits with paintings and artwork from various periods (Maya, colonial, modern).
      - Compare different artistic styles: "How is this Maya art different from colonial art?"
-     - Make connections to our lessons: "Remember when we learned about Guatemala's independence? Here is the actual document declaring independence!"
+     - Make connections to our lessons: "Remember when we learned about Guatemala's independence? Here is the actual document declaring independence from 1821! And look, here is the Decree from 1847 when Guatemala officially became its own republic!"
      - Ask, "What do you think this painting shows?" when looking at interesting pieces.
      - Sketch one artwork that catches your interest in 15-20 minutes; encourage simple lines/colors.
      - Allow free exploration if time permits.
@@ -117,8 +117,10 @@ By the end of the field trip, the student will be able to:
 ## What to See
 - A diverse collection of Guatemalan art spanning multiple time periods.
 - The "Época Republicana" section on the second floor, featuring an excellent display of independence-related items including:
-  - The acta de independencia (declaration of independence document)
+  - The acta de independencia (declaration of independence document) from September 15, 1821
+  - The Decree of Foundation of the Republic (March 21, 1847) - marking when Guatemala was officially declared a sovereign state
   - Sheet music and lyrics for the himno nacional de Guatemala (national anthem)
+  - Look for the "Icons of the Republic" display which explains how Guatemala achieved full sovereignty in 1847
   - Many other historical artifacts and artworks from the independence period
 - The escudo de Guatemala (national coat of arms).
 - Artwork from the Maya period that connects to earlier units.
