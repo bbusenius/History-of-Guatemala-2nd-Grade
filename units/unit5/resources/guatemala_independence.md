@@ -12,7 +12,7 @@ There were several important reasons why Guatemala and other parts of Central Am
 
 2. **Changes in Spain**: In the early 1800s, Spain was having many problems. Napoleon of France had invaded Spain and removed the Spanish king from power. This created confusion about who should rule the colonies.
 
-3. **Local Leadership**: Important Central American leaders like **José Cecilio del Valle** (who later wrote the Act of Independence) began discussing the possibility of governing themselves.
+3. **Local Leadership**: Important Central American leaders like **José Cecilio del Valle** (who later was a key contributor to the Act of Independence) began discussing the possibility of governing themselves.
 
 4. **Economic Reasons**: The Spanish government had rules that made it hard for people in the colonies to trade freely and develop their own businesses.
 
@@ -32,7 +32,7 @@ Several important events happened on the road to independence:
 
 On September 15, 1821, important officials met at the Royal Palace in Guatemala City to discuss independence. After debating the issue, they held a vote. The declaration of independence was approved with 23 votes in favor and 7 votes against.
 
-**José Cecilio del Valle** wrote the "Act of Independence of Central America." This important document announced that Central America was separating from the Spanish Empire. It was signed by representatives from the provinces of the Captaincy General of Guatemala.
+**José Cecilio del Valle** was a key contributor to the "Act of Independence of Central America." While he played a significant role in drafting the document due to his legal expertise, the Act was a collaborative effort with multiple authors ("Varios autores"). This important document announced that Central America was separating from the Spanish Empire. It was signed by representatives from the provinces of the Captaincy General of Guatemala.
 
 ## What Happened After?
 

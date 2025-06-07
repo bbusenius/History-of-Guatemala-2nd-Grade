@@ -1,7 +1,7 @@
 # Lesson Plan: Unit 5, Lesson 2 - Guatemala's Independence Story
 
 ## Overview
-This lesson introduces a 7-year-old 2nd-grade student to the story of Guatemala's independence within a 10-week homeschool curriculum. Through a narrative from "Guatemala's Independence: A Story," a dictation exercise, a composer study with "Chichicastenango" by Paco Pérez, and a drawing activity, the student will learn about the events and key figures of Guatemala's independence, particularly José Cecilio del Valle who wrote the Act of Independence. Designed with Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it's engaging and connects to the student's context in San Juan del Obispo, fostering appreciation for historical events and building on Lesson 1's foundation on indigenous resistance.
+This lesson introduces a 7-year-old 2nd-grade student to the story of Guatemala's independence within a 10-week homeschool curriculum. Through a narrative from "Guatemala's Independence: A Story," a dictation exercise, a composer study with "Chichicastenango" by Paco Pérez, and a drawing activity, the student will learn about the events and key figures of Guatemala's independence, particularly José Cecilio del Valle who was a key contributor to the Act of Independence. Designed with Charlotte Mason-inspired methods—narration, storytelling, and hands-on activities—it's engaging and connects to the student's context in San Juan del Obispo, fostering appreciation for historical events and building on Lesson 1's foundation on indigenous resistance.
 
 ## Alignment with Charlotte Mason Guidelines
 - **Living Books**: Uses "Guatemala's Independence" as a narrative-driven text to bring history to life, adhering to Charlotte Mason's emphasis on authentic, engaging texts.
@@ -14,14 +14,14 @@ This lesson introduces a 7-year-old 2nd-grade student to the story of Guatemala'
 ## Learning Objectives
 By the end of the lesson, the student will be able to:
 1. Understand the key events and figures in Guatemala's independence story.
-2. Identify José Cecilio del Valle as the author of the Act of Independence.
+2. Identify José Cecilio del Valle as a key contributor to the Act of Independence.
 3. Recognize the torch as an important symbol of Guatemala's independence celebrations.
 4. Write a dictated sentence about independence with correct spelling.
 5. Create a drawing of an independence scene to demonstrate understanding of this historical event.
 
 ## Materials and Resources Required
 - **Story**: "Guatemala's Independence" from [units/unit5/resources/guatemala_independence.md](resources/guatemala_independence.md) (print or read from a device).
-- **Dictation Sentence**: "José Cecilio del Valle wrote the Act of Independence of Central America." (English) or "José Cecilio del Valle escribió el Acta de Independencia de Centroamérica." (Spanish).
+- **Dictation Sentence**: "José Cecilio del Valle helped write the Act of Independence of Central America." (English) or "José Cecilio del Valle ayudó a escribir el Acta de Independencia de Centroamérica." (Spanish).
 - **Picture Study Image**: Image of torch runners in Guatemala's independence celebrations (search online for [Guatemala independence torch runner](https://duckduckgo.com/?q=guatemala+independence+torch+runner&t=brave&ia=images&iax=images) or use [this one](https://thumbs.dreamstime.com/b/runners-torches-independence-day-antigua-guatemala-september-locals-run-streets-guatemalan-flags-lit-blowing-76966409.jpg).
 - **Drawing Supplies**: Paper (standard 8.5x11, household item), crayons or markers (household or ~$2-$5).
 - **Paper and Pencil**: For dictation exercise (household items).
@@ -34,7 +34,7 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Introduce Guatemala's independence story and engage interest.
    - **Procedure**:
      - Recap Lesson 1: "In our last lesson, we learned about Atanasio Tzul and Lucas Aguilar who stood up against unfair taxes. Today, we'll learn about how Guatemala became independent!"
-     - Say, "Guatemala became free from Spain on September 15, 1821. We'll learn about this important day and a special person named José Cecilio del Valle who wrote the independence document."
+     - Say, "Guatemala became free from Spain on September 15, 1821. We'll learn about this important day and a special person named José Cecilio del Valle who helped write the independence document."
      - Show the optional image of the Act of Independence if available to spark curiosity.
 2. **Main Activity (35 minutes)**:
    - **Objective**: Explore Guatemala's independence through story, music, dictation, and drawing.
@@ -52,19 +52,19 @@ By the end of the lesson, the student will be able to:
        - **Objective**: Practice spelling and reinforce historical content.
        - **Procedure**:
          - Say, "Let's write a sentence about who wrote Guatemala's independence document."
-         - Dictate the sentence: "José Cecilio del Valle wrote the Act of Independence of Central America." (English) or "José Cecilio del Valle escribió el Acta de Independencia de Centroamérica." (Spanish).
+         - Dictate the sentence: "José Cecilio del Valle helped write the Act of Independence of Central America." (English) or "José Cecilio del Valle ayudó a escribir el Acta de Independencia de Centroamérica." (Spanish).
          - Read it slowly, repeating as needed, while the student writes it in their notebook or on paper.
          - Check their spelling and praise their effort (e.g., "Great job with 'independence'!").
-     - **Drawing (15 minutes)**: Provide paper and crayons/markers. Guide the student: "Draw a picture showing how people might have celebrated when Guatemala became independent. You can include flags, people celebrating, or José Cecilio del Valle writing the important document."”
+     - **Drawing (15 minutes)**: Provide paper and crayons/markers. Guide the student: "Draw a picture showing how people might have celebrated when Guatemala became independent. You can include flags, people celebrating, or José Cecilio del Valle helping to write the important document."”
 3. **Narration (10 minutes)**:
    - **Objective**: Reinforce learning through retelling.
    - **Procedure**:
      - Prompt, "Can you tell me how Guatemala became independent?" or "Who was José Cecilio del Valle and what did he do?"
-     - Encourage a short story about independence events. Note a key idea (e.g., "Guatemala voted to be free" or "José Cecilio del Valle wrote the independence document") for the portfolio.
+     - Encourage a short story about independence events. Note a key idea (e.g., "Guatemala voted to be free" or "José Cecilio del Valle helped write the independence document") for the portfolio.
 4. **Closing (5 minutes)**:
    - **Objective**: Summarize and preview field trip.
    - **Procedure**:
-     - Say, "On September 15, 1821, Guatemala became independent from Spain. José Cecilio del Valle wrote the document that made it official."
+     - Say, "On September 15, 1821, Guatemala became independent from Spain. José Cecilio del Valle was an important person who helped write the document that made it official."
      - Preview, "Soon, we'll visit the [MUNAG (Museo Nacional de Arte de Guatemala)](field_trip.md) in Antigua to see art from different periods of Guatemala's history, including the national coat of arms (escudo de Guatemala) and other pieces that connect to what we've learned about independence!"
      - **Update Timeline**: Add a drawing of the independence celebration to the timeline's Independence section with the student.
 
