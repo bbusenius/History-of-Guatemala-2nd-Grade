@@ -21,7 +21,7 @@ By the end of the lesson, the student will be able to:
 6. Draw a vintage car to connect with transportation history of the era.
 
 ## Materials and Resources Required
-- **Reading**: ["Guatemala's First Gas Station"](../resources/guatemalas_first_gas_station.md) (from `units/unit6/resources/guatemalas_first_gas_station.md`; print or read from a device).
+- **Reading**: ["Guatemala's First Gas Station"](resources/guatemalas_first_gas_station.md) (from `units/unit6/resources/guatemalas_first_gas_station.md`; print or read from a device).
 - **Video Resource**: ["La gasolina en Guatemala"](https://www.youtube.com/watch?v=SZkB4CbEkEs) - YouTube video about the history of gas stations in Guatemala.
 - **Music for Composer Study**: [Chichicastenango](https://www.youtube.com/watch?v=Fb5528scfXU) by Paco Pérez (1916-1951), a traditional Guatemalan marimba piece composed during the early-to-mid 20th century (available on YouTube or other music platforms).
 - **Dictation Sentence**: "'El Cielito' was the first gas station in all of Central America that stayed open at night!" (English) or "¡'El Cielito' fue la primera gasolinera en toda Centroamérica que permaneció abierta durante la noche!" (Spanish), derived from the gas station reading.
@@ -42,7 +42,7 @@ By the end of the lesson, the student will be able to:
 2. **Main Activity (35 minutes)**:
    - **Objective**: Explore modernization through reading, video, composer study, dictation, and craft.
    - **Procedure**:
-     - **Reading (10 minutes)**: Read ["Guatemala's First Gas Station"](../resources/guatemalas_first_gas_station.md) aloud with enthusiasm. Ask, "How do you think cars changed the way people traveled?" to connect to the reading.
+     - **Reading (10 minutes)**: Read ["Guatemala's First Gas Station"](resources/guatemalas_first_gas_station.md) aloud with enthusiasm. Ask, "How do you think cars changed the way people traveled?" to connect to the reading.
      - **Video Resource (5 minutes)**: Watch the YouTube video ["La gasolina en Guatemala"](https://www.youtube.com/watch?v=SZkB4CbEkEs). Ask, "What did you see in the video about old gas stations?" (Expect answers like "They looked different" or "They were small").
      - **Optional Video (3-5 minutes)**: If time permits and the student shows interest, watch portions of ["Rare Footage of Classic American Cars in Guatemala"](https://www.youtube.com/watch?v=43V_q_bGsCE) to see the types of cars that would have visited early gas stations.
      - **Dictation (5 minutes)**:
