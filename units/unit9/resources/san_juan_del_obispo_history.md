@@ -58,9 +58,11 @@ Marroquín worked hard to help the people in this area. He got land in the valle
 
 This place was also important because it was where Spanish priests first taught native people about Christianity. Marroquín's work here helped start later church projects. These included building schools and teaching more people about Christianity throughout the area in the 1500s (Marroquín, 1963, Introducción, pp. IX-XI).
 
-In 1547, Bishop Marroquín finished constructing important buildings in this village. He constructed a temple dedicated to San Juan Bautista (Saint John the Baptist). He also built a palace that he used as his home for a long time. This was the first archbishop's palace in Guatemala (García, 2019).
+In 1547, Bishop Marroquín finished constructing a church and episcopal palace in the village. This location gave the bishop an excellent view over the entire Valley of Panchoy and the new City of Santiago de Guatemala, which was under construction at the time. This palace became his residence for many years and was the first archbishop's palace in Guatemala (Annis, 1968, p. 227; García, 2019).
 
-Francisco Marroquín made San Juan del Obispo his special home. The palace he built there became his residence where he lived for many years. This was very important because it was the first archbishop's palace built in Guatemala. From this palace, he could work closely with the native communities in the area (García, 2019).
+## Final Days in San Juan del Obispo
+
+Francisco Marroquín spent his final days in his palace in San Juan Bautista de Guatemala (San Juan del Obispo). In March 1563, while staying at his residence, the bishop became ill. On April 5th, he made his will before being carried by a sedan chair back to the city of Santiago de Guatemala. He died there on April 18, 1563, and was buried in the Cathedral on April 20, 1563 (Annis, 1968, p. 227).
 
 ## Conclusion
 
@@ -71,6 +73,8 @@ Marroquín played a key role in the government after the 1541 disaster, helping 
 When Marroquín died, he left his wealth to establish the Colegio de Santo Tomás, which later became the University of San Carlos de Guatemala (Kwei, 2022). His work in Guatemala lasted over 30 years and had a lasting impact on the country's religious, educational, and social development.
 
 ## Reference List
+
+  - Annis, Verle Lincoln. [*The architecture of Antigua Guatemala, 1543-1773*](https://openlibrary.org/books/OL5603049M/The_architecture_of_Antigua_Guatemala). University of San Carlos of Guatemala, 1968.
 
   - García, Gabriela (2019). "Aldea San Juan del Obispo en Antigua Guatemala." *Aprende Guatemala*. Retrieved from https://aprende.guatemala.com/historia/geografia/aldea-san-juan-del-obispo-antigua-guatemala/
   - Kwei, Ivon (2022). "Biografía de Francisco Marroquín." *Aprende Guatemala*. Retrieved from https://aprende.guatemala.com/historia/personajes/biografia-francisco-marroquin/
