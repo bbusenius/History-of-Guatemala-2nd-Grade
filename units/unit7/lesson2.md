@@ -7,7 +7,7 @@ This lesson explores the poetry and legacy of Luis de Lión, an important Guatem
 - **Living Books**: Uses original poems by Luis de Lión as authentic literary works that bring his voice to life.
 - **Narration**: Encourages oral retelling and personal response to poems.
 - **Short Lessons**: Segments poetry reading and observation into concise blocks to maintain focus.
-- **Picture Study**: Incorporates observation of poetry displayed on the Proyecto Luis de Lión building.
+- **Picture Study**: Incorporates observation of poetry and paintings displayed on the Proyecto Luis de Lión building.
 - **Hands-On**: Copying a poem and creating accompanying sketches provides kinesthetic engagement with literature.
 
 ## Learning Objectives
@@ -25,7 +25,7 @@ By the end of the lesson, the student will be able to:
 - **Walking Shoes**: For the walk to Proyecto Luis de Lión
 
 ## Step-by-Step Instructional Procedures
-1. **Introduction (10 minutes)**:
+1. **Introduction (5 minutes)**:
    - **Objective**: Introduce Luis de Lión and engage interest in his poetry.
    - **Procedure**:
      - Refer to the Luis de Lión resource: "Remember when we learned about Luis de Lión? He was a poet and teacher from our town, San Juan del Obispo."
@@ -62,21 +62,22 @@ By the end of the lesson, the student will be able to:
    - **Objective**: Experience poetry in a community setting and engage with Luis de Lión's legacy.
    - **Procedure**:
      - **Walk (10 minutes)**: Walk together to the Proyecto Luis de Lión building.
-     - **Observation (10 minutes)**: Read the poems written on the building. Say: "Look at how poetry can be part of buildings and public spaces. Let's read some of the poems displayed here."
-     - **Activity (10 minutes)**: Have the student select a poem they like from the building, copy it into their notebook, and create a sketch inspired by the poem.
+     - **Observation (10 minutes)**: Read the poems written on the building and observe the paintings. Say: "Look at how poetry can be part of buildings and public spaces. Let's read some of the poems displayed here."
+     - **Activity (25 minutes)**: Have the student select a poem they like from the building, copy it into their notebook. Also encourage them to create a sketch inspired by the poem or sketch one of the paintings displayed on the building.
 
-4. **Discussion and Reflection (15 minutes)**:
+4. **Discussion and Reflection (10 minutes)**:
    - **Objective**: Process the experience and connect to Luis de Lión's legacy.
    - **Procedure**:
      - Ask: "Which poem did you choose to copy? Why did you like it?"
      - Discuss: "How do you think Luis de Lión's poems help people in our community remember him?"
      - Connect to the resource: "Remember how we learned that Luis de Lión's daughter continues his work with children through this project? What kinds of things happen here?"
+     - Mention: "In our next lesson, we'll be visiting the [Proyecto Luis de Lión library](field_trip.md) to learn more about his work and legacy."
 
 ## Activities and Assessments
 - **Activities**:
   - **Poetry Reading**: Listen to two poems by Luis de Lión (15 minutes)
-  - **Visit**: Walk to and observe Proyecto Luis de Lión (20 minutes)
-  - **Writing/Art**: Copy a poem and create an accompanying sketch (10 minutes)
+  - **Visit**: Walk to and observe Proyecto Luis de Lión (10 minutes)
+  - **Writing/Art**: Copy a poem and create an accompanying sketch (25 minutes)
 - **Formative Assessment**:
   - **Poetry Comprehension**: Observe responses to discussion questions about the poems
   - **Observation**: Note which poems attract the student's attention at the Proyecto
@@ -92,11 +93,11 @@ By the end of the lesson, the student will be able to:
 - **Visual Learners**: Emphasize the visual observation of poetry on the building and the sketching activity
 
 ## Time Estimates
-- Introduction: 10 minutes
+- Introduction: 5 minutes
 - Poetry Reading: 15 minutes
-- Visit to Proyecto Luis de Lión: 30 minutes
-- Discussion and Reflection: 15 minutes
-- Total: 70 minutes
+- Visit to Proyecto Luis de Lión: 45 minutes
+- Discussion and Reflection: 10 minutes
+- Total: 75 minutes
 
 ## Prerequisite Knowledge or Skills
 - **Student**: Basic writing skills for copying; exposure to the Luis de Lión resource

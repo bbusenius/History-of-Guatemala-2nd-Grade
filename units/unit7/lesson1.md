@@ -25,7 +25,6 @@ By the end of the lesson, the student will be able to:
 - **Reading**: ["Luis de Lión: A Brave Teacher and Writer"](resources/luis_de_lion.md) (print or read from a device).
 - **Poem**: ["Acerca de la ternura"](resources/luis_de_lion_poem.md) by Luis de Lión.
 - **Timeline**: Reusable timeline from previous lessons to add Luis de Lión's birth (1939), disappearance (1984), and confirmation of his fate (1999).
-- **Map**: Map of Guatemala to locate San Juan del Obispo, where Luis de Lión was born.
 - **Notebook/Paper**: For student to take notes or draw scenes from Luis de Lión's life.
 - **Lined Paper**: For poem copywork.
 - **Pencils/Colored Pencils**: For writing and drawing activities.
@@ -37,7 +36,6 @@ By the end of the lesson, the student will be able to:
    - **Procedure**:
      - Recap Lesson 2: "Last time, we learned about Guatemala's civil war. Remember how many people were 'disappeared' during this time? Today, we'll learn about one of those people—Luis de Lión."
      - Say, "Luis de Lión was a teacher and writer who was born very close to where we are now, in San Juan del Obispo. His story helps us understand what happened to real people during the civil war."
-     - Point out San Juan del Obispo on the map, emphasizing the local connection.
 
 2. **Main Activity (35 minutes)**:
    - **Objective**: Learn about Luis de Lión's life, work, and disappearance.
@@ -49,10 +47,9 @@ By the end of the lesson, the student will be able to:
        - His disappearance during the civil war
        - How his story was eventually discovered
      - **Poem Reading (5 minutes)**: Read Luis de Lión's poem ["Acerca de la ternura"](resources/luis_de_lion_poem.md) aloud in both Spanish and English.
-       - Discuss how this poem shows Luis de Lión's sensitive side and his appreciation for tenderness and connection
+       - Discuss how the poem
        - Ask: "What do you think this poem is about? How does it make you feel?"
-     - **Copywork Activity (10 minutes)**: Have the student copy a few lines from the English translation of the poem onto lined paper.
-       - Choose 2-4 lines that resonate with the student
+     - **Copywork Activity (10 minutes)**: Have the student copy the poem onto lined paper. The copywork may be done in English or Spanish.
        - Focus on neat handwriting and proper spacing
        - Explain that copying the words of a writer helps us connect with their ideas
      - **Timeline Activity (5 minutes)**: Mark important dates on the timeline:
@@ -85,14 +82,12 @@ By the end of the lesson, the student will be able to:
   - **Poetry**: Read and discuss Luis de Lión's poem ["Acerca de la ternura"](resources/luis_de_lion_poem.md) (5 minutes).
   - **Copywork**: Copy selected lines from the poem to practice handwriting and connect with the author's words (10 minutes).
   - **Timeline**: Mark important dates related to Luis de Lión's life to connect with the broader civil war timeline (5 minutes).
-  - **Drawing**: Create an illustration of Luis de Lión's library (5 minutes).
   - **Writing**: Create a simple thank-you note to Luis de Lión (5 minutes).
 - **Formative Assessment**:
   - **Comprehension**: Listen for key details about Luis de Lión's life, work, and disappearance to assess understanding.
-  - **Drawing**: Review the student's drawing of the library to gauge engagement and comprehension.
   - **Copywork**: Evaluate neatness, attention to detail, and engagement with the poem.
 - **Summative Assessment**:
-  - Collect the student's drawing, copywork, and thank-you note for the portfolio, evaluating understanding of key concepts.
+  - Collect the student's copywork and thank-you note for the portfolio, evaluating understanding of key concepts.
   - In Week 10, review timeline additions for Unit 6 connection and historical comprehension.
 
 ## Differentiation Strategies

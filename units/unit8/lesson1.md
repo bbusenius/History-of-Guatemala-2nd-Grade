@@ -22,7 +22,7 @@ By the end of the lesson, the student will be able to:
 ## Materials and Resources Required
 - **Luis de Lión Article**: Previously read in Unit 7 about Luis de Lión's life and work
 - **Luis de Lión Poem**: "Acerca de la ternura" (from Unit 7)
-- **Writing Materials**: Colorful index cards or small paper squares, markers, pencils
+- **Writing Materials**: Index cards or small paper squares, markers, pencils
 - **Question Categories**: Four sheets of paper labeled: "Childhood/Family", "Teaching", "Writing", and "Museum/Memory"
 - **Sample Questions**: Pre-written examples to guide the student
 - **Special Notebook**: A small, dedicated notebook for the interview questions
@@ -35,10 +35,9 @@ By the end of the lesson, the student will be able to:
 1. **Introduction (10 minutes)**:
    - **Objective**: Introduce the concept of an interview and its purpose.
    - **Procedure**:
-     - Begin by saying: "Next week, we will visit Casa Museo Luis de Lión and meet Señora Mayarí, Luis de Lión's daughter. Today we'll prepare questions to ask her about her father."
+     - Begin by saying: "This week, we will visit Casa Museo Luis de Lión and meet Señora Mayarí, Luis de Lión's daughter. Today we'll prepare questions to ask her about her father."
      - Discuss what an interview is: "An interview is when we ask someone questions to learn from their experiences."
-     - Watch a 3-minute child-appropriate video clip of an interview (if available) or demonstrate with a simple role-play.
-     - Emphasize respectful listening: "When someone shares their memories, we listen carefully and say thank you because they're giving us a special gift—their stories."
+     - **Emphasize respectful listening**: "When someone shares their memories, we listen carefully and say thank you because they're giving us a special gift—their stories."
 
 2. **Review and Remember (10 minutes)**:
    - **Objective**: Recall key facts about Luis de Lión to inform question development.

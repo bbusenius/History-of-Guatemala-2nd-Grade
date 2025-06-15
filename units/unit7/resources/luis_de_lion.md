@@ -6,7 +6,7 @@ Luis de Lión was a person from Guatemala who loved to write stories and poems a
 
 Luis de Lión's real name was José Luis de León Díaz. He was a Kaqchikel Maya person. The Maya people are the original people of Guatemala who have lived there for thousands of years.
 
-Luis grew up in a family that didn't have much money, but they worked very hard. His mom sold vegetables at the market, and his dad played the marimba (a musical instrument) and made art.
+Luis grew up in a family that didn't have much money, but they worked very hard. His mom sold vegetables at the market, and his dad played the marimba and made art.
 
 ## He Loved to Teach Children
 
@@ -18,7 +18,7 @@ Luis believed that all children could be writers. He created special lessons to 
 
 Luis loved books so much that he started a library in his hometown in 1962. He wanted everyone to have books to read, even if they didn't have money to buy them. He shared his own books with others and taught adults in his village how to read using the Bible.
 
-This library still exists today at La Casa Museo Luis de Lión (Luis de Lión House Museum) in San Juan del Obispo. The museum continues to maintain the library he founded and uses it especially to help children in the community learn to read and enjoy books.
+This library still exists today at Proyecto Luis de Lión in San Juan del Obispo. The project continues to maintain the library he founded and uses it especially to help children in the community learn to read and enjoy books.
 
 ## His Writing
 
@@ -28,7 +28,7 @@ Luis wrote many stories and poems. His most famous book is called "El tiempo pri
 
 During Guatemala's civil war, the government fought against groups that opposed them, especially communist organizations. Luis was a member of the Guatemalan Workers' Party (Partido Guatemalteco del Trabajo or PGT), a communist political party. The government considered communists to be enemies of the state and a threat to national security.
 
-The army and government targeted people they believed were supporting communism or opposing the government. This included members of political parties like the PGT, labor union leaders, student activists, and others who criticized the government.
+The army and government targeted people they believed were supporting communism or opposing the government. This included members of political parties like the PGT, labor union leaders, student activists, and others who criticized the government. The government also target people just for being of Mayan descent even if they were not communists.
 
 On May 15, 1984, Luis was walking on 2nd Avenue in Guatemala City at around 5:00 in the afternoon. Soldiers in plain clothes (not wearing uniforms) stopped him and forced him into a car. This is called a "forced disappearance," and it happened to many people during the war.
 
@@ -42,7 +42,7 @@ For 15 years, Luis's family didn't know what had happened to him. They always ho
 
 Today, many people remember Luis de Lión for his beautiful writing and his work as a teacher. There is a museum in his hometown called "Casa Museo Luis de Lión" where you can learn about his life and see his books. Sadly, his body has never been found, and his family continues to search for him.
 
-Luis believed that children are "a blank paper where you can begin to write a new history." His daughter, Mayarí de León, continues his legacy through the "Proyecto Luis de Lión," which includes:
+Luis believed that children are "a blank page where you can begin to write a new history." His daughter, Mayarí de León, continues his legacy through the "Proyecto Luis de Lión," which includes:
 
 - The Community Academy of Arts of San Juan del Obispo
 - The José Luis de Lión Díaz Library
