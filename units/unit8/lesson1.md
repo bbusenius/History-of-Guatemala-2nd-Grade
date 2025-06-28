@@ -23,7 +23,7 @@ By the end of the lesson, the student will be able to:
 - **Luis de Lión Article**: Previously read in Unit 7 about Luis de Lión's life and work
 - **Luis de Lión Poem**: "Acerca de la ternura" (from Unit 7)
 - **Writing Materials**: Index cards or small paper squares, markers, pencils
-- **Question Categories**: Four sheets of paper labeled: "Childhood/Family", "Teaching", "Writing", and "Museum/Memory"
+- **Question Categories**: Sheets of paper labeled: "Childhood/Family", "Teaching", "Writing", "Museum/Memory", "Disappearance", and "Library" 
 - **Sample Questions**: Pre-written examples to guide the student
 - **Special Notebook**: A small, dedicated notebook for the interview questions
 

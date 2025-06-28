@@ -15,6 +15,7 @@ By the end of the field trip, the student will be able to:
 1. Identify the significance of Luis de Líon and his contribution to Guatemalan literature and education.
 2. Explain the importance of community libraries in making books accessible to everyone.
 3. Connect the library experience to what they've learned about Luis de Líon's life and work.
+4. Learn how the libary was started by Luis de Líon and how he had to run it in secret and hide it from the government. Learn how he burried books in plastic bags and planted corn on top to hide them. Learn how at a time, the library location was moved to a different house in the community every night. 
 
 ## Materials and Resources Required
 - **Field Trip Essentials**: Water, snacks, comfortable clothing and shoes.
@@ -43,6 +44,7 @@ By the end of the field trip, the student will be able to:
    - **Procedure**:
      - Explore the library collection, noting any books related to Maya culture or Guatemalan history.
      - Ask a library staff member to share information about Luis de Líon and the history of the library.
+       - Ask about how Luis de Líon started the library and how he had to run it in secret and hide it from the government. Learn how he burried books in plastic bags and planted corn on top to hide them. Learn how at a time, the library location was moved to a different house in the community every night. 
      - Have the student select a book that interests them to look at or read together.
      - Complete the chosen activity (see Activity section).
      - If available, view any photos or memorabilia related to Luis de Líon.
