@@ -1,0 +1,214 @@
+{
+  "title": {
+    "text": {
+      "headline": "History of Guatemala Timeline",
+      "text": "A comprehensive timeline of Guatemala's history from ancient Maya civilization to modern times"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "-2000"
+      },
+      "text": {
+        "headline": "Maya Civilization Begins",
+        "text": ""
+      },
+      "group": "Precolumbian"
+    },
+    {
+      "start_date": {
+        "year": "1"
+      },
+      "text": {
+        "headline": "Jesus Born",
+        "text": ""
+      },
+      "group": "Precolumbian"
+    },
+    {
+      "start_date": {
+        "year": "250"
+      },
+      "text": {
+        "headline": "Height of the Maya Civilization",
+        "text": ""
+      },
+      "group": "Precolumbian"
+    },
+    {
+      "start_date": {
+        "year": "1524"
+      },
+      "text": {
+        "headline": "Spanish Conquest Begins",
+        "text": "Pedro de Alvarado arrives in Guatemala"
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1540"
+      },
+      "text": {
+        "headline": "Conquest of Guatemala mostly complete",
+        "text": ""
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1541"
+      },
+      "text": {
+        "headline": "Death Pedro de Alvarado",
+        "text": ""
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1648"
+      },
+      "text": {
+        "headline": "Thomas Gage",
+        "text": ""
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1773",
+        "month": "7",
+        "day": "29"
+      },
+      "text": {
+        "headline": "Earthquake destroys Santiago de Guatemala (Antigua)",
+        "text": ""
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1820"
+      },
+      "text": {
+        "headline": "Atanasio Tzul and Lucas Aguilar",
+        "text": "Totonicapan Rebellion against taxes"
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1821",
+        "month": "9",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Guatemala declares independence",
+        "text": "José Cecilio del Valle signs the act of independence"
+      },
+      "group": "Independence"
+    },
+    {
+      "start_date": {
+        "year": "1847"
+      },
+      "text": {
+        "headline": "Guatemala becomes a sovereign state",
+        "text": ""
+      },
+      "group": "Época Republicana"
+    },
+    {
+      "start_date": {
+        "year": "1917"
+      },
+      "text": {
+        "headline": "Paco Pérez born",
+        "text": "Luna de Xelajú and Chichicastenango"
+      },
+      "group": "Modern Era"
+    },
+    {
+      "start_date": {
+        "year": "1923"
+      },
+      "text": {
+        "headline": "\"El Ciclitio\", Guatemala's first gas station was created",
+        "text": ""
+      },
+      "group": "Modern Era"
+    },
+    {
+      "start_date": {
+        "year": "1939"
+      },
+      "text": {
+        "headline": "Luis de Lión was born",
+        "text": ""
+      },
+      "group": "Modern Era"
+    },
+    {
+      "start_date": {
+        "year": "1954"
+      },
+      "text": {
+        "headline": "U.S. interference",
+        "text": "Jacobo Árbenz was overthrown by the CIA and the United Fruit Company"
+      },
+      "group": "Modern Era"
+    },
+    {
+      "start_date": {
+        "year": "1960"
+      },
+      "text": {
+        "headline": "Civil war began",
+        "text": ""
+      },
+      "group": "36-year Civil War"
+    },
+    {
+      "start_date": {
+        "year": "1962"
+      },
+      "text": {
+        "headline": "Luis de Lión started a library in San Juan del Obispo",
+        "text": "He had to bury and hide the books from authorities. He moved the library from house to house on different days to keep it hidden."
+      },
+      "group": "36-year Civil War"
+    },
+    {
+      "start_date": {
+        "year": "1984"
+      },
+      "text": {
+        "headline": "Luis de Lión was force disappeared by the military",
+        "text": ""
+      },
+      "group": "36-year Civil War"
+    },
+    {
+      "start_date": {
+        "year": "1996"
+      },
+      "text": {
+        "headline": "President Álvaro Arzú signs the peace accords",
+        "text": "End of the Civil War"
+      },
+      "group": "36-year Civil War"
+    },
+    {
+      "start_date": {
+        "year": "1999"
+      },
+      "text": {
+        "headline": "Discovery of the military diary",
+        "text": "Luis de Lión's death is confirmed."
+      },
+      "group": "Post-Civil War"
+    }
+  ]
+}

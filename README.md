@@ -163,4 +163,20 @@ Each unit includes resources, two lesson plans, and a field trip plan.
 - **Flexibility**: Lessons and field trips are adaptable to your child’s needs and your family’s schedule.
 - **Local Resources**: Leverage nearby libraries, museums, or community members to enrich the learning experience.
 
-This curriculum is a comprehensive, engaging, and flexible resource for teaching Guatemalan history at home, designed to foster a deep connection to Guatemala’s rich heritage.
+## Interactive Timeline
+
+The curriculum now includes an interactive timeline built with TimelineJS that visualizes Guatemala's history from ancient Maya civilization to modern times. The timeline is hosted using GitHub Pages and provides an engaging visual representation of the historical events covered in the curriculum.
+
+### Timeline Features
+- **Interactive Navigation**: Click and drag to explore different time periods
+- **Event Grouping**: Events are organized by historical periods (Precolumbian, Colonial, Independence, etc.)
+- **Detailed Information**: Each event includes dates, headlines, and descriptive text
+- **Mobile Responsive**: Works on both desktop and mobile devices
+
+### Accessing the Timeline
+The timeline can be accessed at: [History of Guatemala Timeline](https://uchicago-library.github.io/History-of-Guatemala-2nd-Grade/)
+
+### Timeline Data
+The timeline data is stored in `timeline/data/timeline-data.json` and can be updated to add new events or modify existing ones. The original source data is in `timeline/data/timeline-data.txt`.
+
+This curriculum is a comprehensive, engaging, and flexible resource for teaching Guatemalan history at home, designed to foster a deep connection to Guatemala's rich heritage.
