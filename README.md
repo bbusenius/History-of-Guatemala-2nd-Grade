@@ -174,7 +174,7 @@ The curriculum now includes an interactive timeline built with TimelineJS that v
 - **Mobile Responsive**: Works on both desktop and mobile devices
 
 ### Accessing the Timeline
-The timeline can be accessed at: [History of Guatemala Timeline](https://uchicago-library.github.io/History-of-Guatemala-2nd-Grade/)
+The timeline can be accessed at: [History of Guatemala Timeline](https://bbusenius.github.io/History-of-Guatemala-2nd-Grade/#event-history-of-guatemala-timeline)
 
 ### Timeline Data
 The timeline data is stored in `timeline/data/timeline-data.json` and can be updated to add new events or modify existing ones. The original source data is in `timeline/data/timeline-data.txt`.
