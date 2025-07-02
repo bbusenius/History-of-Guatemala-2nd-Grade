@@ -48,6 +48,26 @@
     },
     {
       "start_date": {
+        "year": "1528"
+      },
+      "text": {
+        "headline": "Pedro de Alvarado meets Francisco Marroquín",
+        "text": "Meeting at the royal court in Spain"
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1530"
+      },
+      "text": {
+        "headline": "Francisco Marroquín arrives in Guatemala",
+        "text": "Travels to Guatemala with Pedro de Alvarado. Arrives in Guatemala's capital city, Santiago de los Caballeros (now known as Ciudad Vieja)"
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
         "year": "1540"
       },
       "text": {
@@ -58,11 +78,36 @@
     },
     {
       "start_date": {
-        "year": "1541"
+        "year": "1541",
+        "month": "7",
+        "day": "4"
       },
       "text": {
         "headline": "Death Pedro de Alvarado",
         "text": ""
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1541",
+        "month": "9"
+      },
+      "text": {
+        "headline": "Mudslide destroys Ciudad Vieja",
+        "text": "Pedro de Alvarado's wife Beatriz de la Cueva dies in the mudslide and his home is destroyed."
+      },
+      "group": "Colonial"
+    },
+    {
+      "start_date": {
+        "year": "1563",
+        "month": "4",
+        "day": "18"
+      },
+      "text": {
+        "headline": "Death of Francisco Marroquín",
+        "text": "Falls ill at the episcopal palace in San Juan del Obispo and is taken to Antigua on a sedan chair."
       },
       "group": "Colonial"
     },
