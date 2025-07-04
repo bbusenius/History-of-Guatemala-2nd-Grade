@@ -4,7 +4,7 @@
 This lesson explores the cultural and economic significance of the níspero fruit in San Juan del Obispo. The student will read a historical account of how the níspero came to the town and then take a field trip to see its importance firsthand. This lesson uses narration and hands-on exploration to connect the student with their local heritage.
 
 ### Alignment with Charlotte Mason Guidelines
--   **Living Story**: Uses a historical account from `nispero_story.md` to bring the local history of the níspero to life.
+-   **Living Story**: Uses a historical account from [nispero_story.md](resources/nispero_story.md) to bring the local history of the níspero to life.
 -   **Narration**: Encourages the student to retell the story of the níspero, which strengthens comprehension and memory.
 -   **Hands-On Exploration**: The field trip to the monument and the museum/shop provides a direct, hands-on experience with the subject matter.
 -   **Short Lessons**: The lesson is divided into short, focused activities (reading, walking, observing) to maintain the student's attention.
@@ -16,7 +16,7 @@ By the end of this lesson, the student will be able to:
 3.  Observe and describe various níspero products.
 
 ### Materials and Resources
--   **Reading Material**: `nispero_story.md`
+-   **Reading Material**: [nispero_story.md](resources/nispero_story.md)
 -   **Field Trip Locations**:
     -   Monumento al Níspero
     -   Museo Del Níspero (or a local shop selling níspero products)
@@ -26,7 +26,7 @@ By the end of this lesson, the student will be able to:
 1.  **Reading and Narration (15 minutes)**
     -   **Objective**: To learn the history of the níspero in San Juan del Obispo.
     -   **Procedure**:
-        -   Read the `nispero_story.md` aloud to the student.
+        -   Read the [nispero_story.md](resources/nispero_story.md) aloud to the student.
         -   After reading, ask the student to narrate the story back in their own words. Prompt with questions like, "How did the níspero get to our town?" or "What did the Baeza family do with the seeds?"
 
 2.  **Field Trip (30-45 minutes)**
