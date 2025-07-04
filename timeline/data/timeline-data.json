@@ -167,6 +167,15 @@
     },
     {
       "start_date": {
+        "year": "1900"
+      },
+      "text": {
+        "headline": "In the early 1900s, níspero comes to San Juan del Obispo",
+        "text": "Níspero was brought to the Baeza family by guests from Hungary in the form of a níspero dessert they shared. The family collected the seeds and began planting them. As níspero trees grew, birds and other animals distributed them to other parts of the village, starting níspero production."
+      }
+    },
+    {
+      "start_date": {
         "year": "1917"
       },
       "text": {
@@ -254,6 +263,15 @@
         "text": "Luis de Lión's death is confirmed."
       },
       "group": "Post-Civil War"
+    },
+    {
+      "start_date": {
+        "year": "2003"
+      },
+      "text": {
+        "headline": "COOINCOM R.L. cooperative founded",
+        "text": "Belgian agronomists visiting San Juan helped the people start the COOINCOM R.L. cooperative. This group helped farmers work together to grow, harvest, and sell níspero. New innovative products were created and the níspero industry in San Juan del Obispo was elevated."
+      }
     }
   ]
 }
